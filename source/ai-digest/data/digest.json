@@ -1,96 +1,371 @@
 {
-  "date": "2026-05-08T12:00:00.000Z",
-  "date_cn": "2026年05月08日",
-  "count": 8,
+  "date": "2026-05-09T12:00:00.000Z",
+  "date_cn": "2026年05月09日",
+  "count": 33,
   "tweets": [
     {
-      "username": "petergyang",
+      "username": "swyx",
       "builder": {
-        "name": "Peter Yang",
-        "site": "Product at Roblox"
+        "name": "Swyx",
+        "site": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliat"
       },
-      "title": "Dario & Daniela 闭门分享精华：模型从2015年的「蠢」到如今指数进化，产品应面向未来模型提前布局",
-      "desc": "Dario: \"I've been training these models since 2015, they were really dumb.\" \"Build for the exponential. There are products that are not possible with the current model but could work with later models.\" \"Products reach their saturation when models get too good. The ways in which we are making models smarter today are much more evident in agentic and Claude Code workflows than chatbots.\" \"Models are evolving from coding to software engineering to just growing a business.\"",
-      "link": "https://x.com/petergyang/status/2052123472583864780",
-      "pubDate": "2026-05-06T20:28:57.000Z"
+      "desc": "docusign !!?\n\nfuck docusign  with a sharp stick",
+      "link": "https://x.com/swyx/status/2052632502683279417",
+      "pubDate": "2026-05-08T06:11:39.000Z",
+      "title": "DocuSign！！？"
     },
     {
-      "username": "petergyang",
+      "username": "swyx",
       "builder": {
-        "name": "Peter Yang",
-        "site": "Product at Roblox"
+        "name": "Swyx",
+        "site": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliat"
       },
-      "title": "Dario 透露 Anthropic 今年初实现80倍增长，将尽可能多地获取算力",
-      "desc": "Dario: \"We saw 80x growth earlier this year on usage and revenue. That's why we are going to keep acquiring as much compute as we can.\"",
-      "link": "https://x.com/petergyang/status/2052117599744672195",
-      "pubDate": "2026-05-06T20:05:36.000Z"
+      "desc": "i was going to send him my loom showing him gustos bugs and loom loomed on me https://t.co/ow7Q5BHLBG https://t.co/Hlnp09SSQD",
+      "link": "https://x.com/swyx/status/2052627119675769333",
+      "pubDate": "2026-05-08T05:50:15.000Z",
+      "title": "我本来打算给我发个织布机的照片，给他看看Gusto的虫子，结果织布机反过来给我织了个虫子 https://t.co/ow7Q5BHLBG https://t.co/Hlnp09SSQD"
     },
     {
-      "username": "trq212",
+      "username": "swyx",
       "builder": {
-        "name": "Thariq",
-        "site": "Claude Code @ Anthropic"
+        "name": "Swyx",
+        "site": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliat"
       },
-      "title": "Anthropic 每天都在努力获取更多算力传递给用户，请大家耐心等待",
-      "desc": "\"Everyday we're trying to obtain more compute to pass on to you, we're sorry if it takes sometime but we're going to acquire as much as we can\" - Dario",
-      "link": "https://x.com/trq212/status/2052250816720056604",
-      "pubDate": "2026-05-07T04:54:58.000Z"
+      "desc": "be aware of this kind of phishing. i was almost tricked. \n\ncc @nikitabier  @business https://t.co/lqgbXgcQzU",
+      "link": "https://x.com/swyx/status/2052599553283813788",
+      "pubDate": "2026-05-08T04:00:43.000Z",
+      "title": "请警惕这种网络钓鱼手段。我差点就上当了。"
+    },
+    {
+      "username": "kevinweil",
+      "builder": {
+        "name": "Kevin Weil",
+        "site": "VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve\nEx: Pres @Planet,"
+      },
+      "desc": "I will never get tired of this https://t.co/4q65ujhbbp",
+      "link": "https://x.com/kevinweil/status/2052605586962022459",
+      "pubDate": "2026-05-08T04:24:42.000Z",
+      "title": "我永远不会厌倦这个 https://t.co/4q65ujhbbp"
+    },
+    {
+      "username": "realmadhuguru",
+      "builder": {
+        "name": "Madhu Guru",
+        "site": "Product Leader at Google - Gemini, Veo, Nano Banana. All opinions mine."
+      },
+      "desc": "I'm moving on from @Google.\n\nI had the privilege of helping build two businesses from zero: first across Search & Ads, then Gemini.\n\nThree years ago, OpenAI and Anthropic were in the lead. We built what it took to compete: the playbook for building AI models, the customer feedback flywheel, and the enterprise business. Gemini 3 was the moment those systems came together.\n\nTo the Gemini team: we went from underdogs to competing at the frontier. Keep pushing.\n\nFor now, I'm enjoying the emergent capabilities of some real intelligence at home - my toddler. She's been quietly shipping.",
+      "link": "https://x.com/realmadhuguru/status/2052490869320946037",
+      "pubDate": "2026-05-07T20:48:51.000Z",
+      "title": "我即将离开@Google。"
+    },
+    {
+      "username": "amasad",
+      "builder": {
+        "name": "Amjad Masad",
+        "site": "ceo @replit. civilizationist"
+      },
+      "desc": "They’re calling it the most viral petition in history, and it’s hosted on Replit.\n\n(We have no opinion on Mbappe) https://t.co/5XyMt38h0w",
+      "link": "https://x.com/amasad/status/2052478595277467703",
+      "pubDate": "2026-05-07T20:00:04.000Z",
+      "title": "他们称之为历史上传播最广的请愿活动，该活动在 Replit 平台上进行。"
+    },
+    {
+      "username": "alexalbert__",
+      "builder": {
+        "name": "Alex Albert",
+        "site": "Research @AnthropicAI. Opinions are my own!"
+      },
+      "desc": "Pulled from this great blog post: https://t.co/Wbjm1ADwcp",
+      "link": "https://x.com/alexalbert__/status/2052468575492088078",
+      "pubDate": "2026-05-07T19:20:16.000Z",
+      "title": "摘自这篇精彩的博客文章：https://t.co/Wbjm1ADwcp"
+    },
+    {
+      "username": "alexalbert__",
+      "builder": {
+        "name": "Alex Albert",
+        "site": "Research @AnthropicAI. Opinions are my own!"
+      },
+      "desc": "With the help of Claude Mythos Preview, the Firefox team fixed more security bugs in April than in the past 15 months combined. https://t.co/rHsempnr0Y",
+      "link": "https://x.com/alexalbert__/status/2052468573516513762",
+      "pubDate": "2026-05-07T19:20:15.000Z",
+      "title": "在 Claude Mythos Preview 的帮助下，Firefox 团队在 4 月份修复的安全漏洞比过去 15 个月加起来还要多。https://t.co/rHsempnr0Y"
+    },
+    {
+      "username": "levie",
+      "builder": {
+        "name": "Aaron Levie",
+        "site": "ceo @box - your business lives in content. unleash it with AI"
+      },
+      "desc": "When AI makes one thing easy to do, it’s always good to assume that will equally be the case for everyone else. If it’s the case for everyone else, then that means competitive forces will ensure that resources move to new or other areas that create differentiation.\n\nIf AI makes building software easier, then there will be a relative increase in resources going into sales, marketing, and customer success, because standing out or going deeper with customers else becomes even more important. \n\nThis will also apply to lots of other areas of work. If you automate getting financial advice and insights, then the differentiation is in client engagement. And on and on.\n\nJust ask yourself: if everyone else does exactly what I do with this technology, how will I stand out from everyone else? That’s what happens next.",
+      "link": "https://x.com/levie/status/2052566788236509254",
+      "pubDate": "2026-05-08T01:50:31.000Z",
+      "title": "当人工智能让某件事变得简单易行时，我们总是倾向于认为其他所有事情也会同样如此。如果真是如此，那就意味着竞争压力会促使资源流向新的或能够创造差异化的领域。"
+    },
+    {
+      "username": "ryolu_",
+      "builder": {
+        "name": "Ryo Lu",
+        "site": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world wher"
+      },
+      "desc": "from idea to merge\nall in Cursor https://t.co/kyMsJYXGCE",
+      "link": "https://x.com/ryolu_/status/2052496872586272802",
+      "pubDate": "2026-05-07T21:12:42.000Z",
+      "title": "从构思到合并"
     },
     {
       "username": "garrytan",
       "builder": {
         "name": "Garry Tan",
-        "site": "President & CEO @ Y Combinator"
+        "site": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—des"
       },
-      "title": "Garry Tan 调侃 Lulu 就像《低俗小说》里的「The Wolf」",
-      "desc": "Lulu is like \"The Wolf\" from Pulp Fiction",
-      "link": "https://x.com/garrytan/status/2052007711601291602",
-      "pubDate": "2026-05-06T12:48:57.000Z"
+      "desc": "GBrain also just added thin-client mode! So your Claude Code, or secondary agent (Hermes if you use Claw as primary or vice versa) doesn't have to run its own MCP server, it can just use GBrain over MCP as a thin client! https://t.co/jjV7qFXp0f",
+      "link": "https://x.com/garrytan/status/2052629679572701455",
+      "pubDate": "2026-05-08T06:00:26.000Z",
+      "title": "GBrain 刚刚新增了瘦客户端模式！这样一来，你的 Claude Code 或辅助代理（如果你使用 Claw 作为主代理，则为 Hermes，反之亦然）就不需要运行自己的 MCP 服务器了，它可以直接通过 MCP 使用 GBrain 作为"
+    },
+    {
+      "username": "garrytan",
+      "builder": {
+        "name": "Garry Tan",
+        "site": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—des"
+      },
+      "desc": "GStack is my own personal Claude Code setup that is also quite useful with OpenClaw/Hermes for web interaction\n\nYou can run it in headed mode on your Mac/PC and run /pair-agent to let your Claw/Hermes control your browser with full logins via MCP\n\nhttps://t.co/VPvWDzV5c0",
+      "link": "https://x.com/garrytan/status/2052588782076281324",
+      "pubDate": "2026-05-08T03:17:55.000Z",
+      "title": "GStack 是我个人搭建的 Claude Code 环境，它与 OpenClaw/Hermes 配合使用进行 Web 交互也相当方便。"
+    },
+    {
+      "username": "garrytan",
+      "builder": {
+        "name": "Garry Tan",
+        "site": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—des"
+      },
+      "desc": "Just dropped GStack v1.28\n\nGStack Browser can now download items, and run in headed configuration mode with anti-bot detection in using Xvfb on headless Linux containers (like your claw/hermes) \n\nAdded llms.txt so agents of all kinds can use all the skills with less guesswork https://t.co/eagccYgpxG",
+      "link": "https://x.com/garrytan/status/2052588548126364028",
+      "pubDate": "2026-05-08T03:16:59.000Z",
+      "title": "刚刚发布了 GStack v1.28"
+    },
+    {
+      "username": "mattturck",
+      "builder": {
+        "name": "Matt Turck",
+        "site": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD"
+      },
+      "desc": "This great conversation with @zicokolter is also available on Spotify, Apple Podcasts and here on YouTube:\n\nhttps://t.co/YD8583thfa",
+      "link": "https://x.com/mattturck/status/2052440964782870727",
+      "pubDate": "2026-05-07T17:30:33.000Z",
+      "title": "与 @zicokolter 的这段精彩对话也可在 Spotify、Apple Podcasts 和 YouTube 上收听："
+    },
+    {
+      "username": "mattturck",
+      "builder": {
+        "name": "Matt Turck",
+        "site": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD"
+      },
+      "desc": "Deeply thoughtful conversation with @zicokolter, board member at @OpenAI and head of the machine learning department at @CarnegieMellon, about AI safety, AI security, agents and frontier AI \n\n00:00 Intro\n\n01:32 OpenAI board role and Safety & Security Committee\n\n03:53 How OpenAI reviews major model releases\n\n05:33 OpenAI’s preparedness framework explained\n\n09:46 Are frontier AI models getting safer?\n\n12:33 Why AI safety does not come from scale\n\n15:23 The four categories of AI risk\n\n19:38 Doomerism vs accelerationism in AI\n\n24:11 The six-month AI pause debate\n\n26:20 AI safety as a global effort\n\n28:04 How Zico Kolter got into machine learning\n\n31:05 OpenAI in the early days\n\n34:14 Why Carnegie Mellon became an AI powerhouse\n\n38:43 What Gray Swan does in AI security\n\n40:44 AI safety vs AI security\n\n43:15 The GCG jailbreak paper\n\n49:19 How AI labs responded to jailbreak research\n\n50:19 State-of-the-art AI defenses\n\n52:32 State-of-the-art AI attacks\n\n54:22 Why AI agents expand the attack surface\n\n58:39 Are AI agents ready for production?\n\n59:40 Mechanistic interpretability explained\n\n1:02:31 Will AI be safer in two years?\n\n1:03:46 Reinforcement learning and self-improving models\n\n1:08:09 Do post-transformer architectures matter\n\n1:09:29 Best research directions in AI now\n\n1:11:00 Zico Kolter’s Intro to Modern AI course\n\n1:14:53 Why modern AI is simpler than people think",
+      "link": "https://x.com/mattturck/status/2052440959997063309",
+      "pubDate": "2026-05-07T17:30:32.000Z",
+      "title": "与 OpenAI 董事会成员、卡内基梅隆大学机器学习系主任 @zicokolter 就人工智能安全、人工智能保障、智能体和前沿人工智能进行了深入的对话。"
     },
     {
       "username": "zarazhangrui",
       "builder": {
         "name": "Zara Zhang",
-        "site": "Builder"
+        "site": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEaje"
       },
-      "title": "Boris Cherny 访谈亮点：夜间运行数千个 Agent、只用手机写代码、编程将成为新读写能力",
-      "desc": "Most memorable parts of interview with Boris Cherny: Boris casually mentions that he has \"thousands\" of agents running during the night; Boris saying he almost exclusively uses Claude Code on the phone now; Coding will become the new literacy, just like reading and writing.",
-      "link": "https://x.com/zarazhangrui/status/2052277868319916402",
-      "pubDate": "2026-05-07T06:42:27.000Z"
+      "desc": "I get so many messages about new AI apps but their all messaging all blur into each other https://t.co/kj1UVfX1W4",
+      "link": "https://x.com/zarazhangrui/status/2052505923625857286",
+      "pubDate": "2026-05-07T21:48:40.000Z",
+      "title": "我收到很多关于新AI应用的推送消息，但它们的信息都混杂在一起了。https://t.co/kj1UVfX1W4"
+    },
+    {
+      "username": "nikunj",
+      "builder": {
+        "name": "Nikunj Kothari",
+        "site": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendo"
+      },
+      "desc": "I'm so glad I can finally say this without being canceled (I think)..\n\nWeekly 1:1s are generally a psy-op by mid tier empire-building managers who simply want to micromanage versus trusting their reports to pursue excellence and flourish. It’s to steer you so that you don’t fall out of line. \n\nIf you are still in a job where you are being coddled every day, I urge you to find a place that truly pushes your boundaries. At least for a little bit you’ll know what excellence demands and what it feels like being in high performance teams.",
+      "link": "https://x.com/nikunj/status/2052626010332668278",
+      "pubDate": "2026-05-08T05:45:51.000Z",
+      "title": "我很高兴终于可以说出这句话而不用担心被抵制（我想是这样）。"
+    },
+    {
+      "username": "nikunj",
+      "builder": {
+        "name": "Nikunj Kothari",
+        "site": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendo"
+      },
+      "desc": "Every pixel will be generated in real-time, and it'll be soon be generated on @reactorworld 🪩 https://t.co/6lAcXvNMm8 https://t.co/5BlDNkjsQ9",
+      "link": "https://x.com/nikunj/status/2052461083282350121",
+      "pubDate": "2026-05-07T18:50:29.000Z",
+      "title": "每个像素都将实时生成，并且很快就会在 @reactorworld 上生成 🪩 https://t.co/6lAcXvNMm8 https://t.co/5BlDNkjsQ9"
+    },
+    {
+      "username": "nikunj",
+      "builder": {
+        "name": "Nikunj Kothari",
+        "site": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendo"
+      },
+      "desc": "Every VC firm starting their Monday morning meeting this week as summer is coming soon and they still need someone to source deals.. https://t.co/7fH5UedKNJ",
+      "link": "https://x.com/nikunj/status/2052409335503081525",
+      "pubDate": "2026-05-07T15:24:52.000Z",
+      "title": "本周一，所有风投公司都开始召开周一早会，因为夏天即将到来，他们仍然需要人手寻找投资项目。https://t.co/7fH5UedKNJ"
+    },
+    {
+      "username": "steipete",
+      "builder": {
+        "name": "Peter Steinberger",
+        "site": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a"
+      },
+      "desc": "Our claws talk to each other, Molty learns how to delegate cron jobs. https://t.co/I8NQ6fuFF6",
+      "link": "https://x.com/steipete/status/2052630190346457301",
+      "pubDate": "2026-05-08T06:02:28.000Z",
+      "title": "我们的爪子互相交流，Molty学会了如何分配定时任务。https://t.co/I8NQ6fuFF6"
+    },
+    {
+      "username": "steipete",
+      "builder": {
+        "name": "Peter Steinberger",
+        "site": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a"
+      },
+      "desc": "/goal + GPT 5.5 is amazing. I can now plan really extensive refactors with e2e tests and it just works. https://t.co/6A7g3YRJXT",
+      "link": "https://x.com/steipete/status/2052514752245481675",
+      "pubDate": "2026-05-07T22:23:45.000Z",
+      "title": "/goal + GPT 5.5 太棒了！我现在可以规划非常全面的重构，并进行端到端测试，而且一切运行正常。https://t.co/6A7g3YRJXT"
+    },
+    {
+      "username": "steipete",
+      "builder": {
+        "name": "Peter Steinberger",
+        "site": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a"
+      },
+      "desc": "Had the honor of mentoring some of the folks in the ChatGPT Future Class of 2026 this year.\n\nShoutout to @arhan_menta @nayelr_ @rushilkukreja who built Wi-Find, a system that detects disaster survivors through walls and debris using AI. https://t.co/fbEq6XzHwm https://t.co/FGZLGSHgE2",
+      "link": "https://x.com/steipete/status/2052486085226184742",
+      "pubDate": "2026-05-07T20:29:50.000Z",
+      "title": "今年我有幸指导了 ChatGPT 2026 届未来之星班的一些成员。"
     },
     {
       "username": "danshipper",
       "builder": {
         "name": "Dan Shipper",
-        "site": "CEO @ Every"
+        "site": "ceo @every | the only subscription you need to stay at the edge of AI"
       },
-      "title": "Dan Shipper 将出席 Code with Claude 活动与开发者交流",
-      "desc": "I'll be at Code with Claude today with Kieranklaassen and Tedescau. Come say hi!",
-      "link": "https://x.com/danshipper/status/2052050161388634197",
-      "pubDate": "2026-05-06T15:37:38.000Z"
+      "desc": "the ai platform war is coming\n\n@kieranklaassen and i recorded a quick dispatch from code with @claudeai on the xAI compute deal, managed agents, and why anthropic is turning their api into a full cloud infrastructure for developers: https://t.co/CCOs5G4VYl",
+      "link": "https://x.com/danshipper/status/2052501376195080381",
+      "pubDate": "2026-05-07T21:30:36.000Z",
+      "title": "人工智能平台之战即将到来"
+    },
+    {
+      "username": "danshipper",
+      "builder": {
+        "name": "Dan Shipper",
+        "site": "ceo @every | the only subscription you need to stay at the edge of AI"
+      },
+      "desc": "this is super cool https://t.co/08VAR4ozee",
+      "link": "https://x.com/danshipper/status/2052493496788066812",
+      "pubDate": "2026-05-07T20:59:17.000Z",
+      "title": "这太酷了 https://t.co/08VAR4ozee"
+    },
+    {
+      "username": "danshipper",
+      "builder": {
+        "name": "Dan Shipper",
+        "site": "ceo @every | the only subscription you need to stay at the edge of AI"
+      },
+      "desc": "come hang with us!! https://t.co/ROGflfJGVA",
+      "link": "https://x.com/danshipper/status/2052410930257113145",
+      "pubDate": "2026-05-07T15:31:12.000Z",
+      "title": "快来和我们一起玩吧！！ https://t.co/ROGflfJGVA"
+    },
+    {
+      "username": "adityaag",
+      "builder": {
+        "name": "Aditya Agarwal",
+        "site": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @faceb"
+      },
+      "desc": "This is such an insane POV.\n\n@AOC if you join @southpkcommons  we can help you find your life’s work and also make you a billion dollars.\n\nSeriously, you can just do things. https://t.co/TKs1AIeZRw",
+      "link": "https://x.com/adityaag/status/2052544215826260254",
+      "pubDate": "2026-05-08T00:20:50.000Z",
+      "title": "这真是个匪夷所思的视角。"
+    },
+    {
+      "username": "adityaag",
+      "builder": {
+        "name": "Aditya Agarwal",
+        "site": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @faceb"
+      },
+      "desc": "Apply to join the Embodied AI Hackathon at @southpkcommons by May 12th ⬇️\n\nhttps://t.co/iRS7CD7Zmm",
+      "link": "https://x.com/adityaag/status/2052441427070861816",
+      "pubDate": "2026-05-07T17:32:23.000Z",
+      "title": "请于5月12日前申请参加@southpkcommons举办的具身人工智能黑客马拉松⬇️"
+    },
+    {
+      "username": "adityaag",
+      "builder": {
+        "name": "Aditya Agarwal",
+        "site": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @faceb"
+      },
+      "desc": "We have an incredible group of hard tech founders at @southpkcommons right now.\n\nCome compete with them.\n\nEmbodied AI Hackathon, SF, May 15-17. https://t.co/MKtTJvxVCP",
+      "link": "https://x.com/adityaag/status/2052441425724514741",
+      "pubDate": "2026-05-07T17:32:23.000Z",
+      "title": "我们@southpkcommons 目前拥有一批非常优秀的硬科技创始人。"
+    },
+    {
+      "username": "sama",
+      "builder": {
+        "name": "Sam Altman",
+        "site": "AI is cool i guess"
+      },
+      "desc": "we'd like to help companies secure themselves and we think it's important to start work on this quickly https://t.co/dSobnv4SfX",
+      "link": "https://x.com/sama/status/2052558319940944256",
+      "pubDate": "2026-05-08T01:16:52.000Z",
+      "title": "我们希望帮助企业加强安全防护，我们认为尽快着手这项工作至关重要 https://t.co/dSobnv4SfX"
+    },
+    {
+      "username": "sama",
+      "builder": {
+        "name": "Sam Altman",
+        "site": "AI is cool i guess"
+      },
+      "desc": "way cooler to help software developers pokemon-evolve into superheroes than to try to replace them\n\nit is insane what one really good person can do now https://t.co/iEqSQHgg5B",
+      "link": "https://x.com/sama/status/2052485051812909530",
+      "pubDate": "2026-05-07T20:25:44.000Z",
+      "title": "帮助软件开发者像宝可梦一样进化成超级英雄，远比试图取代他们酷得多。"
+    },
+    {
+      "username": "sama",
+      "builder": {
+        "name": "Sam Altman",
+        "site": "AI is cool i guess"
+      },
+      "desc": "as a side note, young people seem to prefer to interact with AI via voice, and old people, and people in the middle like to type. i wonder if this will change.",
+      "link": "https://x.com/sama/status/2052462428663992564",
+      "pubDate": "2026-05-07T18:55:50.000Z",
+      "title": "顺便一提，年轻人似乎更喜欢通过语音与人工智能互动，而老年人和中年人则更喜欢打字。我想知道这种情况是否会改变。"
     },
     {
       "username": "claudeai",
       "builder": {
-        "name": "Claude (Anthropic)",
-        "site": "AI Assistant"
+        "name": "Claude",
+        "site": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure"
       },
-      "title": "Claude 推出 Outcomes 功能：设定质量标准，Agent 自动迭代直至达标",
-      "desc": "Outcomes lets you set the bar for quality. You write a rubric, a separate grader checks the output, and the agent iterates until it gets there. Subscribe to webhooks to get notified when it's done.",
-      "link": "https://x.com/claudeai/status/2052067403228455419",
-      "pubDate": "2026-05-06T16:46:09.000Z"
+      "desc": "Available on all paid plans.\n\nGive it a try: https://t.co/FnXfynkGDH",
+      "link": "https://x.com/claudeai/status/2052445787930468704",
+      "pubDate": "2026-05-07T17:49:43.000Z",
+      "title": "所有付费套餐均包含此功能。"
     },
     {
       "username": "claudeai",
       "builder": {
-        "name": "Claude (Anthropic)",
-        "site": "AI Assistant"
+        "name": "Claude",
+        "site": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure"
       },
-      "title": "Claude 推出 Dreaming 功能：回顾 Agent 历史会话，提取模式并构建长期记忆",
-      "desc": "Dreaming reviews your agent's past sessions, extracts patterns, and curates memories so your agents learn over time. Request access: https://t.co/MY2soiuUl3",
-      "link": "https://x.com/claudeai/status/2052067400690851842",
-      "pubDate": "2026-05-06T16:46:08.000Z"
+      "desc": "Claude for Excel, PowerPoint, and Word are now generally available, and Claude for Outlook is in public beta.\n\nAs Claude moves between your Microsoft apps, it carries the full context of your conversation. https://t.co/l8oOcoFcHg",
+      "link": "https://x.com/claudeai/status/2052445786651168849",
+      "pubDate": "2026-05-07T17:49:42.000Z",
+      "title": "Claude for Excel、PowerPoint 和 Word 现已正式发布，Claude for Outlook 正在进行公开测试。"
     }
   ],
-  "summary": "### 核心洞察一：AI产品设计逻辑正从\"适配当前能力\"转向\"面向指数级增长\"\n\n**内容：** Dario（Anthropic CEO）在闭门分享中提出了一个颠覆性的产品构建观：**要面向指数级增长构建产品**。这意味着开发者不应再被当前模型的能力边界所限制，而应预判模型即将到来的能力跃迁。他以自身经历为例，指出从2015年训练\"愚蠢\"模型到如今，模型能力经历了从\"编码\"到\"软件工程\"再到\"经营整个业务\"的进化。产品设计的关键转变在于：**当你发现当前模型无法实现某个功能时，不应放弃，而应假设未来3-6个月的模型版本能够胜任。** 同时，他警示产品会在模型\"太强\"时达到饱和——即当模型能力远超业务需求时，产品可能因过度自动化而失去价值支点。\n\n**深度分析：** 这一洞察直接挑战了传统AI产品开发中的\"能力对齐\"原则。过去，产品经理需严格对标API的当前能力天花板。而新的范式要求开发者采用\"前瞻性设计\"（Forward-Looking Design）——在产品架构中预留\"能力接口\"，等待底层模型的能力填满。例如，一个当前需要人类审核步骤的Agent工作流，应设计为未来可由模型自动完成闭环。这要求开发者对模型能力曲线有深度的信仰和预判能力，敢于为\"尚未到来\"的功能投入资源。同时，Dario指出的\"饱和点\"是一个重要的风险警示：当模型能力超越用户实际需求时，产品可能因\"过度效率\"而失去人性化交互的价值，导致用户流失。因此，未来产品设计将更多考虑如何在不牺牲用户控制感的前提下，优雅地吸收模型能力的提升。\n\n### 核心洞察二：算力是AI时代的终极稀缺资源，竞争已白热化\n\n**内容：** Dario透露Anthropic在今年初的**使用量和收入均实现了80倍的增长**，并明确表示公司战略核心是\"**尽可能多地获取算力**\"。这一信息在Thariq（Claude Code团队成员）的复述中得到强化：\"每天都在努力获取更多算力传递给用户\"。同时，Boris Cherny（Claude Code创始人）的夜间数千个Agent运行场景，从侧面印证了算力消耗的惊人规模。播客中还提到，Anthropic内部已完全用模型替代手写代码，所有SQL都由模型生成，这进一步加剧了内部算力饥饿。\n\n**深度分析：** 这一洞察揭示了当前AI行业的底层瓶颈已从\"模型能力\"转向\"算力供给\"。80倍的增长数字意味着Anthropic的客户需求爆炸式增长，但更大的信号在于：**即使是在内部（Labs团队），算力依然是需要\"争取\"的稀缺资源。** 这反过来影响了产品形态：Claude Code的\"Dreaming\"（历史会话记忆）和\"Outcomes\"（自动迭代达标）功能，本质上是为了**优化算力使用效率**——通过记忆减少重复计算，通过自动迭代避免人工无效调用。对于AI行业分析师而言，这意味着未来一段时间的投资和竞争焦点将集中在：算力获取成本（与云厂商的关系）、算力使用效率（Agent编排、推理优化）以及算力的商业化变现（基于使用量的定价模型）。创业公司若无法构建自己的算力护城河（或与算力提供方深度绑定），将面临被大平台\"算力战\"压制的风险。\n\n### 核心洞察三：AI Agent正从\"辅助工具\"进化为\"自主执行体\"，催生\"人类监督员\"新角色\n\n**内容：** Claude Code的Boris Cherny描述了一幅未来工程师的工作图景：他本人已100%用AI写代码，某天提交了150个PR，并且主要通过手机管理5-10个会话，背后是数百个Agent在并行工作。他强烈推荐的\"Loop\"功能（通过cron定时触发Agent循环执行任务，如自动修复CI、rebase PR）展示了Agent从\"按需响应\"到\"主动执行\"的跃迁。同时，Claude官方推出的\"Outcomes\"功能让用户设定质量标准（rubric），独立评分器检查输出，Agent自动迭代直到达标——这实质上建立了一个**自动化质量闭环**。Dan Shipper的播客预告主题\"人类监督员还是主角？\"也点明了这一趋势的核心张力。\n\n**深度分析：** 这一洞察表明，AI Agent的角色正在发生根本性转变。过去，Agent是\"工具\"，人类是\"操作员\"；未来，Agent是\"执行者\"，人类将转变为\"监督员\"和\"策略制定者\"。具体表现有三：一是Agent的**自主性与持续性**（Loop功能实现了无人值守的持续交付）；二是Agent的**规模化与并行性**（数百个Agent在后台运行，管理方式是\"5-10个会话\"）；三是Agent的**可审计性与质量控制**（Outcomes功能允许人类设定规则，由独立评分器而非模型自身来评估输出，解决了\"让模型自我评估\"的信任问题）。对于企业而言，这意味着组织架构将重新设计：不再需要大量初级工程师进行编码实现，而是需要少量具备高级认知能力的\"AI监督员\"（或 AI Strategist），他们负责定义目标、设定质量标准、审查Agent输出并干预异常。编程本身将像Boris所说，成为\"像读写一样的基础能力\"，而高级工程师的核心竞争力将转向系统设计、问题拆解和对Agent行为的洞察与纠偏。\n\n### 核心洞察四：AI将重塑软件产业的护城河与创业格局，SaaS模式面临结构性挑战\n\n**内容：** Boris Cherny在播客中系统性地提出了对软件产业未来的预判。他认为，**SaaS的两大核心护城河——客户转换成本和流程优势——将被AI显著削弱**。因为AI Agent可以快速学习和适配不同系统的API，降低切换成本；同时，AI可以通过自动化和最佳实践建议，抹平不同SaaS产品在流程效率上的差异。但他同时指出，**网络效应、规模经济、品牌信任等传统护城河依然有效**。基于此，他预测未来10年创业公司数量将增长10倍，因为小团队借助AI可以打造出与大公司同等价值的产品，而团队结构也将从专业分工（工程师、设计师、数据科学家各司其职）转向跨学科通才（一人身兼多职）。YC CEO Garry Tan的调侃帖虽未直接关联，但作为投资生态方的视角，也印证了这一趋势。\n\n**深度分析：** 这一洞察触及了AI对商业模式的深层冲击。SaaS的\"软件即服务\"模式，其价值很大程度上建立在软件本身提供的能力稀缺性上。当AI能够低成本地生成、调整和部署软件功能时，软件的**功能壁垒**将迅速消失。未来SaaS公司的竞争将取决于两个新维度：\n1.  **数据飞轮**：能否在提供软件的同时，积累独有且难以被复制的领域数据，并利用这些数据持续优化AI模型，提升服务质量。\n2.  **网络效应与用户生态**：能否构建起用户之间、用户与平台之间的互动网络，让价值随用户数量增加而指数级增长（如市场平台、协作工具）。\n对于创业者而言，这意味着 **\"小团队高价值\"模型可行**，但前提是团队必须拥有极强的跨学科能力和AI工具使用技巧。他们不再需要雇佣庞大的工程团队来构建功能，而是需要能够定义正确问题、并利用AI高效解决问题的通才。这也解释了为何YC等孵化器开始更关注团队背景的多元化和\"一人公司\"的潜力，而非传统意义上的\"完整技术团队\"。\n\n### 核心洞察五：AI知识管理从\"静态数据库\"走向\"动态记忆\"，Agent将拥有\"长期上下文\"能力\n\n**内容：** Claude官方宣布的\"Dreaming\"功能是这一天Digest中一个被低估但极具深度的创新。该功能允许Agent回顾历史会话，提取模式并构建记忆，让Agent随时间学习。这意味着Agent不再是每次都\"从零开始\"的会话式工具，而是拥有了**类似于人类的长期学习和记忆机制**。结合Boris Cherny提到的\"Loop\"功能（定时执行任务），以及\"Outcomes\"功能（设定质量标准并自动迭代），我们可以看到Anthropic正在构建一个完整的**Agent长期运行闭环**：输入（记忆历史）→ 执行（触发任务）→ 评估（检验达标）→ 反馈（更新记忆）。\n\n**深度分析：** 这是目前AI Agent领域最接近\"人工智能体\"本质的一步。过去的Agent（包括CoT、ReAct框架下的）都是**无状态智能**，每次对话都是独立事件，无法累积经验。而\"Dreaming\"功能引入了**状态智能**——Agent能够基于先前的成功与失败经验，动态调整自己的行为模式。这意味着：\n- **企业级应用将迎来质变**：一个Agent可以在一周内学习特定用户的编码风格、文件组织习惯或决策偏好，变得越来越\"了解\"你，交互效率呈指数级提升。\n- **隐私和安全挑战加剧**：长期记忆意味着Agent需要存储大量用户行为数据，如何确保这些数据不被滥用、如何实现\"忘记\"机制，将成为新的监管和技术难题。\n- **Agent的商业化模式可能改变**：过去按API调用次数计费，未来可能转向按\"Agent记忆体\"大小、记忆时长或学习能力定价。一个拥有长期记忆、经过大量领域训练后的Agent，其价值将远超一个全新的、无记忆的Agent。\n\n这一功能也暗示了AI发展的下一个关键方向：**从\"理解指令\"到\"理解用户\"**。对于AI公司而言，谁能先构建起安全、高效、可扩展的Agent记忆基础设施，谁就能在下一阶段的AI应用竞争中占据决定性优势。"
+  "summary": "好的，作为AI行业分析师，以下是对今日（2026年5月9日）行业Digest的深度分析，提炼出的3-5个核心洞察。\n\n---\n\n### **洞察一：AI代理进入“多智能体协作”与“工具链重构”的深层探索期**\n\n**内容：**\n\n今天的Digest中，多位核心人物（如Garry Tan、Peter Steinberger）的推文不再仅仅讨论单个AI模型或单一任务的自动化，而是聚焦于“多智能体系统”（Multi-Agent Systems）的内部通信、任务调度与工具链的复杂集成。\n\n*   **具体表现：**\n    *   **Garry Tan** 发布其个人搭建的Claude Code环境`GStack` v1.28，并重点介绍了“瘦客户端模式”（thin-client mode）。这意味着一个主代理（如Claude Code）无需自己运行MCP（模型上下文协议）服务器，而是通过MCP协议调用另一个AI工具`GBrain`，让多个代理共享知识图谱和上下文。\n    *   **`steipete` (Peter Steinberger)** 的推文更具代表性。他提到“我们的爪子（指代多个Claude Code实例）互相交流”，并且一个名为`Molty`的代理学会了“如何分配定时任务”。这直接描绘了一幅多个AI代理协同工作、动态分工的未来图景。\n    *   他还展示了通过`/goal`命令配合GPT 5.5进行大规模代码重构的能力，强调了AI不仅能写代码，更能理解复杂工程目标并规划执行。\n\n*   **核心洞察：** AI行业正在从“单兵作战”的Copilot模式，快速迈向“集群作战”的Agent团队模式。当前的核心瓶颈不再是单一AI的推理能力，而是**如何构建一个高效、稳定、可管理、防冲突的多智能体网络**。这驱动了对底层“工具链”的重构：\n    1.  **协议标准化**：MCP作为标准协议的地位可能正在巩固，它允许不同AI工具（如Claude Code、GBrain）之间无缝交换数据和能力。\n    2.  **代理间通信**：如何让一个AI代理给另一个AI代理“下达指令”或“委派任务”成为新的技术制高点。`steipete`提到的“任务分配”就是一个典型例子。\n    3.  **IDE的进化**：从传统的代码编辑器，演变为“AI代理的指挥中心”。Garry Tan的`GStack`和Cursor的“从构思到合并”功能，正在塑造这种新型开发范式。\n\n*   **对行业的影响：**\n    *   **对开发者**：开发者的角色从“编写代码”转变为“设计、训练和监控AI代理团队”。理解如何搭建和编排多代理工作流将成为一个关键技能。\n    *   **对企业**：未来的软件栈将是“智能底座（如GBrain）+ 执行代理集群”的架构。企业软件采购将从购买单一应用，转向购买能够协同工作的“AI代理套件”。\n    *   **对平台公司（如Anthropic, OpenAI, Replit）**：它们之间的竞争，将不再是单纯的模型能力比拼，更是模型互联互通的能力、代理协作的工具链，以及**一个生态系统的“粘性”** 的比拼。\n\n### **洞察二：AI安全攻防进入“军备竞赛”阶段，从被动防御转向主动规模化**\n\n**内容：**\n\n快讯中出现了两个看似矛盾的信号，但共同指向了AI安全领域正在发生的深刻变革：一方面是极高的攻击性（网络钓鱼），另一方面是史无前例的主动防御能力。\n\n*   **具体表现：**\n    *   **攻击侧**：**Swyx**警告了一种“差点上当”的新型钓鱼手段，这表明针对AI用户和开发者精心设计的、模拟AI应用内交互的钓鱼攻击正在出现。攻击者开始“武器化”AI的使用习惯。\n    *   **防御侧**：**Alex Albert**（Anthropic研究员）宣布，Firefox团队借助Claude Mythos Preview，**仅在4月份修复的安全漏洞数量，就超过了过去15个月的总和**。这是一个惊人的防御效率提升。同时，**Sam Altman**明确表示希望“帮助企业加强安全防护”，并认为“尽快着手”至关重要。\n\n*   **核心洞察：** AI安全领域正经历范式转移：\n    1.  **AI驱动的“攻防转换”**：攻击者利用AI生成难以分辨的、高度个性化的钓鱼信息（如Swyx所述），而防御者则利用AI（如Claude）来自动化地发现、分类并修复漏洞，其效率是人工的数十倍。\n    2.  **主动防御的规模化**：Firefox的案例证明，AI不仅可以用来自动化扫描已知漏洞，更能通过深入理解代码逻辑，发现之前未被发现的复杂安全漏洞。AI正在将“安全审查”从一种高成本的专家活动，转变为一种可大规模自动执行的项目。\n    3.  **平台公司的安全责任**：Sam Altman的言论表明，领先的AI公司不再将安全视为用户自己的责任，而是主动将其纳入自己的平台能力（“帮助公司保护自己”）。这暗示着未来的AI平台竞争，**“安全即服务”将成为一项核心的差异化能力**，并可能催生专门的企业级AI安全解决方案市场。\n\n*   **对行业的影响：**\n    *   **对安全行业**：传统安全厂商面临巨大冲击。基于规则和签名的安全工具将很快过时，取而代之的是AI原生的、能实时学习和理解代码与网络行为的下一代安全系统。\n    *   **对AI公司**：能够提供最强大、最可靠的“AI安全代理人”的模型公司将拥有巨大优势。Anthropic让Firefox"
 }
