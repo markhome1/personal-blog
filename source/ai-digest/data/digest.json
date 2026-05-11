@@ -1,184 +1,308 @@
 {
-  "date": "2026-05-10T12:00:00.000Z",
-  "date_cn": "2026年5月10日",
-  "count": 16,
+  "date": "2026-05-11T12:00:00.000Z",
+  "date_cn": "2026年05月11日",
+  "count": 25,
   "tweets": [
     {
-      "username": "trq212",
+      "type": "podcast",
+      "username": "trainingdata",
       "builder": {
-        "name": "Thariq",
-        "site": "Anthropic Claude Code"
+        "name": "Training Data",
+        "site": "Podcast"
       },
-      "title": "HTML 正在成为新的 Markdown：Claude Code 团队成员分享用 HTML 替代 Markdown 的工作流",
-      "desc": "HTML is the new markdown. I've stopped writing markdown files for almost everything and switched to using Claude Code to generate HTML for me. This is why.",
-      "link": "https://x.com/trq212/status/2052811606032269638",
-      "pubDate": "2026-05-08T18:03:20.000Z"
+      "title": "ElevenLabs 的 Mati Staniszewski：语音如何成为万物交互界面",
+      "desc": "Speaker 1 | 00:02 - 00:21\nSo I love line charts and bar graphs as much as the next guy, probably more. The story of eleven Labs is also interesting from a human perspective, because you started a company with a childhood friend. So maybe take us back to 2022 or earlier and just tell the the human si",
+      "link": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "pubDate": "2026-05-08T17:05:00.000Z"
     },
     {
-      "username": "trq212",
-      "builder": {
-        "name": "Thariq",
-        "site": "Anthropic Claude Code"
-      },
-      "title": "Claude Code 生成 HTML 文档的示例演示",
-      "desc": "You can also see example HTML documents I've generated here: https://t.co/QuTMbHtdlc",
-      "link": "https://x.com/trq212/status/2052811607454146761",
-      "pubDate": "2026-05-08T18:03:21.000Z"
-    },
-    {
-      "username": "AmandaAskell",
-      "builder": {
-        "name": "Amanda Askell",
-        "site": "Anthropic Philosopher & Ethicist"
-      },
-      "title": "AI 对齐研究的积极愿景：不只是防止不良行为，更要为模型树立诚实和积极的价值观",
-      "desc": "Alignment research often has to focus on averting concerning behaviors, but I think the positive vision for this kind of training is one where we can give models an honest and positive vision for what AI models can be and why. I'm excited about the future of this work.",
-      "link": "https://x.com/AmandaAskell/status/2052928572810256748",
-      "pubDate": "2026-05-09T01:48:07.000Z"
-    },
-    {
-      "username": "alexalbert__",
-      "builder": {
-        "name": "Alex Albert",
-        "site": "Anthropic Researcher"
-      },
-      "title": "Claude Mythos 预览版在 METR 基准测试中时间跨度超越其他模型 2 倍以上",
-      "desc": "An early Claude Mythos Preview snapshot we provided METR has a time horizon of more than 2x the next best model on their 80% success rate benchmark",
-      "link": "https://x.com/alexalbert__/status/2052899864493830590",
-      "pubDate": "2026-05-08T23:54:03.000Z"
-    },
-    {
-      "username": "levie",
-      "builder": {
-        "name": "Aaron Levie",
-        "site": "Box CEO"
-      },
-      "title": "企业级 Token 预算管理：大型企业将面临 AI Agent 时代的全新资源分配挑战",
-      "desc": "A common trend emerging in larger enterprises is token budgeting as a major topic. As agents can do more and more long running tasks, allocation of tokens across teams becomes a very real thing. Companies spend time deciding how much to spend on talent, marketing, laptop setups, even lunches — tokens will be no different. Ultimately team leaders will need budgets for this, but most lack adequate visibility and controls. We'll need all new software just to solve this problem, and it's probably an opportunity for startups in its own right.",
-      "link": "https://x.com/levie/status/2052903105256382679",
-      "pubDate": "2026-05-09T00:06:56.000Z"
-    },
-    {
-      "username": "garrytan",
-      "builder": {
-        "name": "Garry Tan",
-        "site": "YC President & CEO"
-      },
-      "title": "个人软件时代即将到来",
-      "desc": "Personal software is coming",
-      "link": "https://x.com/garrytan/status/2052998537344856459",
-      "pubDate": "2026-05-09T06:26:08.000Z"
-    },
-    {
-      "username": "garrytan",
-      "builder": {
-        "name": "Garry Tan",
-        "site": "YC President & CEO"
-      },
-      "title": "128GB MacBook Pro 上运行 1M Token 上下文窗口的 Coding Agent，令人震撼",
-      "desc": "Downloading now... 1M token context window with supposedly usable coding agent capability all on a 128GB Macbook Pro is 🤯",
-      "link": "https://x.com/garrytan/status/2052996691586932783",
-      "pubDate": "2026-05-09T06:18:48.000Z"
-    },
-    {
-      "username": "mattturck",
-      "builder": {
-        "name": "Matt Turck",
-        "site": "FirstMark VC"
-      },
-      "title": "AI Agent 定价模式可能不会完全走向按量计费，更像席位模式",
-      "desc": "The more I think about AI agents, the less obvious it is that pricing goes purely consumption-based. Token costs matter... but enterprise agents may need identities, roles, auth, budgets, audit logs etc. That sounds oddly seat-like? just not human-seat-like",
-      "link": "https://x.com/mattturck/status/2052839798063112303",
-      "pubDate": "2026-05-08T19:55:22.000Z"
-    },
-    {
-      "username": "zarazhangrui",
-      "builder": {
-        "name": "Zara Zhang",
-        "site": "Builder"
-      },
-      "title": "用 OpenAI Realtime 2 API 构建 YouTube 实时 AI 助手浏览器扩展",
-      "desc": "Built a 'YouTube realtime copilot' browser extension using OpenAI's realtime 2 API. The agent watches the video alongside you, and can answer any question you have about what was just said via realtime voice chat. It can differentiate the YouTube's audio stream and your voice, so it doesn't confuse the video as commands, and stays silent unless you ask something!",
-      "link": "https://x.com/zarazhangrui/status/2052977849267892339",
-      "pubDate": "2026-05-09T05:03:56.000Z"
-    },
-    {
-      "username": "zarazhangrui",
-      "builder": {
-        "name": "Zara Zhang",
-        "site": "Builder"
-      },
-      "title": "32 套精美 HTML 幻灯片模板已在 AnyGen 上线，无需编程 Agent 即可即插即用",
-      "desc": "All 32 Beautiful HTML Slide Templates are now available on AnyGen, it's plug-and-play even for those without a coding agent",
-      "link": "https://x.com/zarazhangrui/status/2052928583388340332",
-      "pubDate": "2026-05-09T01:48:10.000Z"
-    },
-    {
-      "username": "zarazhangrui",
-      "builder": {
-        "name": "Zara Zhang",
-        "site": "Builder"
-      },
-      "title": "GPT Realtime 2 像黑魔法一样强大，正在解锁无数新应用",
-      "desc": "Can confirm GPT realtime 2 feels like black magic; unlocks so many new applications!! Building with it now",
-      "link": "https://x.com/zarazhangrui/status/2052895297903501601",
-      "pubDate": "2026-05-08T23:35:54.000Z"
-    },
-    {
-      "username": "nikunj",
-      "builder": {
-        "name": "Nikunj Kothari",
-        "site": "FPV Ventures Partner"
-      },
-      "title": "大公司与初创公司在 AI 采纳态度上出现鲜明分歧",
-      "desc": "Seeing the clear dichotomy in my responses. Every large company manager: you know nothing, we need to be invested, this is how it's always been done. Every startup manager: thanks for saying this, yes, feel this in my bones.",
-      "link": "https://x.com/nikunj/status/2052772099840938178",
-      "pubDate": "2026-05-08T15:26:21.000Z"
-    },
-    {
-      "username": "steipete",
-      "builder": {
-        "name": "Peter Steinberger",
-        "site": "OpenClaw & OpenAI"
-      },
-      "title": "给 Codex 更多 Skills 可以大幅减少 Prompt Engineering 工作量",
-      "desc": "The more skills you give codex, the less you have to prompt.",
-      "link": "https://x.com/steipete/status/2052971550966440251",
-      "pubDate": "2026-05-09T04:38:54.000Z"
-    },
-    {
-      "username": "danshipper",
-      "builder": {
-        "name": "Dan Shipper",
-        "site": "Every CEO"
-      },
-      "title": "AI 市场存在认知时间差，蕴藏跨代投资机会",
-      "desc": "Generational opportunity for anyone in AI to play the markets given this time lag. Guarantee everyone is psyched about Codex in a few months. Invest accordingly",
-      "link": "https://x.com/danshipper/status/2052865144066097217",
-      "pubDate": "2026-05-08T21:36:05.000Z"
-    },
-    {
-      "username": "danshipper",
-      "builder": {
-        "name": "Dan Shipper",
-        "site": "Every CEO"
-      },
-      "title": "Milken 大会参与者的 AI 认知滞后市场 3-4 个月",
-      "desc": "Evidence that everyone at Milken is 3-4 months behind",
-      "link": "https://x.com/danshipper/status/2052864131573715225",
-      "pubDate": "2026-05-08T21:32:03.000Z"
-    },
-    {
+      "type": "tweet",
       "username": "swyx",
       "builder": {
         "name": "Swyx",
-        "site": "AI Engineer & Investor"
+        "site": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n-"
       },
-      "title": "Bloomberg 突然关注开发者体验和 AI 编程工具，Swyx 调侃这是新时代的垃圾广告",
-      "desc": "bloomberg being suddenly interested in your take on developer experience and ai coding tools is the new 'sexy singles in your area'",
-      "link": "https://x.com/swyx/status/2052782201486598523",
-      "pubDate": "2026-05-08T16:06:30.000Z"
+      "title": "@VivianBala 我们最终会向世界展示我们是如何做到的。",
+      "desc": "@VivianBala we will finally show the world how it is done.\nhttps://t.co/LnSIUvhe4J",
+      "link": "https://x.com/swyx/status/2053371077477507240",
+      "pubDate": "2026-05-10T07:06:29.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "swyx",
+      "builder": {
+        "name": "Swyx",
+        "site": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n-"
+      },
+      "title": "好吧，我太兴奋了，这周我几乎都藏不住这个秘密，现在终于正式宣布了！",
+      "desc": "OK I'VE BEEN SO EXCITED i could barely keep this a secret all week and it's finally official\n\nMY HOME COUNTRY'S MINISTER OF FOREIGN AFFAIRS (equiv to Secretary of State) IS A HUGE NANOCLAW FAN (check @VivianBala, that's really him, not an intern) AND WILL BE KEYNOTING @AIDOTENGIN",
+      "link": "https://x.com/swyx/status/2053370687931498603",
+      "pubDate": "2026-05-10T07:04:56.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "swyx",
+      "builder": {
+        "name": "Swyx",
+        "site": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n-"
+      },
+      "title": "想知道 @embirico 是否有关于 Codex 用户使用此模式的百分比以及其使用率的数据。",
+      "desc": "wondering if @embirico has numbers on what % of codex users use this mode and how much it has gone up over the last month\n\nits a decent proxy for alignment/agent adoption https://t.co/rROmu1SezX",
+      "link": "https://x.com/swyx/status/2053364156510982164",
+      "pubDate": "2026-05-10T06:38:59.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "kevinweil",
+      "builder": {
+        "name": "Kevin Weil",
+        "site": "VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve\nEx: Pres @Planet, Head of Product @In"
+      },
+      "title": "这是一件极其重要的事情（而且是有史以来最精彩的文章之一）https://t.co/UGPY5bavza",
+      "desc": "This a matter of extreme importance (and some of the best writing ever) https://t.co/UGPY5bavza",
+      "link": "https://x.com/kevinweil/status/2053225351946682733",
+      "pubDate": "2026-05-09T21:27:25.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "petergyang",
+      "builder": {
+        "name": "Peter Yang",
+        "site": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH1"
+      },
+      "title": "如果你不小心，人工智能常会让你陷入以下陷阱：",
+      "desc": "Here's a common trap with AI if you're not careful:\n\n1. You ask it to generate some markdown files (maybe to build some skills). You skim them and they look ok. Sure, there's a bit of slop in there, but you're too lazy to edit them manually.\n\n2. Over time you ask it to generate m",
+      "link": "https://x.com/petergyang/status/2053317001976881312",
+      "pubDate": "2026-05-10T03:31:36.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "petergyang",
+      "builder": {
+        "name": "Peter Yang",
+        "site": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH1"
+      },
+      "title": "代理程序会生成md和html文件，其他用户如果懒得手动编辑文件，该怎么办？",
+      "desc": "With agents generating md and html files anyone else find themselves too lazy to edit the files manually? \n\nAll the agent generated files seem good but then always have at least 10% slop in there.",
+      "link": "https://x.com/petergyang/status/2053196581139321300",
+      "pubDate": "2026-05-09T19:33:06.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "petergyang",
+      "builder": {
+        "name": "Peter Yang",
+        "site": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH1"
+      },
+      "title": "有时候我给克劳德·科德发消息，消息会卡住3分钟，我不知道它是否还在运行。",
+      "desc": "Sometimes when I message Claude Code it just hangs for 3 minutes and I have no idea whether it's still working or not. Wish it communicated more. https://t.co/Fzd7LhLsYK",
+      "link": "https://x.com/petergyang/status/2053170264121450616",
+      "pubDate": "2026-05-09T17:48:31.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "rauchg",
+      "builder": {
+        "name": "Guillermo Rauch",
+        "site": "@vercel CEO"
+      },
+      "title": "🌞 https://t.co/HeZkO5D25T",
+      "desc": "🌞 https://t.co/HeZkO5D25T",
+      "link": "https://x.com/rauchg/status/2053202932812911027",
+      "pubDate": "2026-05-09T19:58:20.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "levie",
+      "builder": {
+        "name": "Aaron Levie",
+        "site": "ceo @box - your business lives in content. unleash it with AI"
+      },
+      "title": "就我们目前所了解的经纪人的种种情况来看，很明显，他们将大大方便人们……",
+      "desc": "For everything we’ve seen about agents so far, it’s clear that they will make it far easier for people to get into previously extremely complicated fields. That will most certainly mean far more people will build software, explore creative work, research spaces they couldn’t do b",
+      "link": "https://x.com/levie/status/2053267097493573921",
+      "pubDate": "2026-05-10T00:13:18.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "garrytan",
+      "builder": {
+        "name": "Garry Tan",
+        "site": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who h"
+      },
+      "title": "我很高兴《神经漫游者》（我的赫尔墨斯代理人）在 GBrain 的更新日志中被引用。",
+      "desc": "I like how excited Neuromancer (my Hermes Agent) that it was cited in the GBrain changelog. \n\nSome real fan energy from the agents. I like it. https://t.co/2I1SXbswsy",
+      "link": "https://x.com/garrytan/status/2053316036661838107",
+      "pubDate": "2026-05-10T03:27:46.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "garrytan",
+      "builder": {
+        "name": "Garry Tan",
+        "site": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who h"
+      },
+      "title": "GBrain v0.31.1 刚刚发布了对 MCP 瘦客户端的真正支持。所以基本上你可以运行一个“家庭版 GBrain”。",
+      "desc": "GBrain v0.31.1 just shipped real MCP thin client support. So basically you can run ONE \"home GBrain server\" and everything else can just connect to it via MCP and it'll work pretty close to as well as running it locally.\n\nGBrain just went client-server. https://t.co/WEAV1gW6B1",
+      "link": "https://x.com/garrytan/status/2053306243704410460",
+      "pubDate": "2026-05-10T02:48:51.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "garrytan",
+      "builder": {
+        "name": "Garry Tan",
+        "site": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who h"
+      },
+      "title": "有趣的小技巧是让你的助手们用ASCII码画出所有东西的图表，然后问你问题。",
+      "desc": "The fun trick is to have your clankers make diagrams in ASCII of everything and just ask questions until you get it https://t.co/w67393ykiq",
+      "link": "https://x.com/garrytan/status/2053191327181865376",
+      "pubDate": "2026-05-09T19:12:13.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "zarazhangrui",
+      "builder": {
+        "name": "Zara Zhang",
+        "site": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https:/"
+      },
+      "title": "HTML之所以重要，是因为人类是视觉动物。",
+      "desc": "HTML is important because humans are visual animals\n\nAs the founder of Duolingo once said, one of his biggest lessons after spending years building consumer products is: \"People don't read\"\n\nIn the past, we optimized our output format for human manipulation (eg. pushing pixels in",
+      "link": "https://x.com/zarazhangrui/status/2053291803135410674",
+      "pubDate": "2026-05-10T01:51:28.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "nikunj",
+      "builder": {
+        "name": "Nikunj Kothari",
+        "site": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & oth"
+      },
+      "title": "我遇到的每个创始人都会说：唉，现在做个好风投的门槛真低。只要说到做到，你就已经成功了。",
+      "desc": "Every founder I meet: man, the bar is so low to be a good VC. Just do what you say, and you’re already top decile. \n\nEvery VC I meet: dude, the bar is so low to be a good VC. Just do what you say, and you’re already top decile. \n\nSomething has to give 😂",
+      "link": "https://x.com/nikunj/status/2053289104331493566",
+      "pubDate": "2026-05-10T01:40:45.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "nikunj",
+      "builder": {
+        "name": "Nikunj Kothari",
+        "site": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & oth"
+      },
+      "title": "如果你总是对那些把工作量估算得像人做一样而不是像机器做一样的模型感到恼火，那么请继续阅读。",
+      "desc": "If you are always annoyed at models estimating work as if a human is doing it instead of just crushing the work, add this to your custom instructions.. \n\n“When estimating or planning, assume you (the model) are executing the work yourself. Report timelines in model-execution unit",
+      "link": "https://x.com/nikunj/status/2053159569015328953",
+      "pubDate": "2026-05-09T17:06:01.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "steipete",
+      "builder": {
+        "name": "Peter Steinberger",
+        "site": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over t"
+      },
+      "title": "教过 Codex 在审核 PR 时要留意社交信号。https://t.co/wb4wErZQqv",
+      "desc": "Did teach codex to look for social signals when reviewing PRs. https://t.co/wb4wErZQqv",
+      "link": "https://x.com/steipete/status/2053374981824798751",
+      "pubDate": "2026-05-10T07:22:00.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "steipete",
+      "builder": {
+        "name": "Peter Steinberger",
+        "site": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over t"
+      },
+      "title": "Crabbox 现在对 Windows 终端的处理能力非常出色。",
+      "desc": "Crabbox now has great Windows terminal handling.\n\nSo good that codex could E2E fix gifgrep to render animated gifs in the terminal. Just because it can. \n\nhttps://t.co/ObN4QWHWG9\nhttps://t.co/UgPpKNIRVA https://t.co/b7aIbVk1tc",
+      "link": "https://x.com/steipete/status/2053329609064685740",
+      "pubDate": "2026-05-10T04:21:42.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "steipete",
+      "builder": {
+        "name": "Peter Steinberger",
+        "site": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over t"
+      },
+      "title": "最新版的 spogo（Spotify 命令行界面）速度快得多，codex 现在就是我的 DJ 了。",
+      "desc": "Latest spogo (Spotify cli) is much faster, codex is my dj now.\nhttps://t.co/K4WviRSXG3\n\nIf you wanna play YouTube to Sonos, check out\nhttps://t.co/UbFC8udZdp https://t.co/U4GEyOeYAX",
+      "link": "https://x.com/steipete/status/2053310800773685600",
+      "pubDate": "2026-05-10T03:06:58.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "danshipper",
+      "builder": {
+        "name": "Dan Shipper",
+        "site": "ceo @every | the only subscription you need to stay at the edge of AI"
+      },
+      "title": "在我看来，“我们得到了一个用来表现糟糕的工具”是科学和新闻报道中最低级的形式，而且它只与此相关。",
+      "desc": "“We got a tool to perform poorly” is the lowest form of science and journalism imo and is only relevant when the tool is, in fact, extremely useful",
+      "link": "https://x.com/danshipper/status/2053203284165337237",
+      "pubDate": "2026-05-09T19:59:44.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "danshipper",
+      "builder": {
+        "name": "Dan Shipper",
+        "site": "ceo @every | the only subscription you need to stay at the edge of AI"
+      },
+      "title": "用刀戳眼睛会导致失明",
+      "desc": "Knives Can Blind You When You Stick Them in Your Eye\nsubmitted 17 Apr 2026",
+      "link": "https://x.com/danshipper/status/2053199393658937423",
+      "pubDate": "2026-05-09T19:44:16.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "danshipper",
+      "builder": {
+        "name": "Dan Shipper",
+        "site": "ceo @every | the only subscription you need to stay at the edge of AI"
+      },
+      "title": "Mythos看起来能力非常强大，我迫不及待地想用它了。",
+      "desc": "mythos obviously looks incredibly capable and im psyched to use it\n\nalso if you're panicking about it:\n\nbenchmarks don't measure model capability alone\n\nthey measure model capability after a human has done the work of finding a prompt that lets the model’s capability appear\n\nthat",
+      "link": "https://x.com/danshipper/status/2053191885116571935",
+      "pubDate": "2026-05-09T19:14:26.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "sama",
+      "builder": {
+        "name": "Sam Altman",
+        "site": "AI is cool i guess"
+      },
+      "title": "自闭症天才智力",
+      "desc": "autistic genius intelligence",
+      "link": "https://x.com/sama/status/2053192920933777486",
+      "pubDate": "2026-05-09T19:18:33.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "sama",
+      "builder": {
+        "name": "Sam Altman",
+        "site": "AI is cool i guess"
+      },
+      "title": "5.5 是一个患有自闭症的天才，在命名方面有着非常奇怪的品味。",
+      "desc": "5.5 is an autistic genius with very strange taste in naming\n\nshocking that we would make such a thing",
+      "link": "https://x.com/sama/status/2053192407664259251",
+      "pubDate": "2026-05-09T19:16:31.000Z"
+    },
+    {
+      "type": "tweet",
+      "username": "sama",
+      "builder": {
+        "name": "Sam Altman",
+        "site": "AI is cool i guess"
+      },
+      "title": "启动了一堆法典任务，带着孩子在阳光下玩耍，然后回来",
+      "desc": "kicking off a bunch of codex tasks, running around with my kid in the sunshine, and then coming back at naptime to find them all completed makes me very optimistic for the future",
+      "link": "https://x.com/sama/status/2053191344999604409",
+      "pubDate": "2026-05-09T19:12:17.000Z"
     }
   ],
-  "summary": ""
+  "summary": "好的，作为一名AI行业分析师，基于您提供的今日25条动态（主要来自X/Twitter），我提炼出以下4个核心洞察：\n\n### **洞察一：“Agent范式”已从概念验证进入狂热的“实用主义”洪流，开发者正用脚投票**\n\n**深度分析：**\n今天的动态中，关于“Agent”（代理）和“Codex”（指OpenAI的Coding Agent）的讨论占据了绝对核心。这不再是关于未来的畅想，而是关于当下的“混乱生产”。我们看到开发者们正在狂热地探索Agent的边界，并表现出一种近乎“粗鲁”的实用主义。\n\n*   **工作流彻底重塑：** 开发者（如Peter Yang、Peter Steinberger）不再满足于仅生成代码，而是要求Agent同时生成Markdown、HTML文件，甚至管理PR（Pull Request）的社交信号（如评论的语调）。这表明Agent已从“代码编写器”进化为“全栈项目参与者”。\n*   **信任与摩擦并存：** 动态中清晰地展现了“爱恨交织”的情绪。一方面，用户（如Sam Altman）享受“一键启动多个Codex任务，带娃晒太阳后回来全部完成”的极致效率。另一方面，大家也在抱怨Agent的“拖沓”（Claude Code挂起3分钟无反馈）和“生成物中总有10%的‘屎山’代码”。这种“可以忍受的缺陷”恰恰是技术大规模采用前夜的典型特征。\n*   **工具链迅速成型：** Garry Tan发布的GBrain v0.31.1支持MCP（模型上下文协议）瘦客户端，可以运行一个“家庭版GBrain服务器”。这标志着Agent正在从单一AI工具，走向可互联、可编排的“Agent基础设施”。Peter Steinberger展示的Crabbox（高效处理Windows终端）、spogo（Spotify CLI）等，都是Agent能力外延的鲜活案例。\n*   **核心判断：** 当前阶段，开发者对Agent的容忍度极高。他们不再纠结于“这个模型是否完美”，而是专注于“我能否用它更快地完成任务”。批评模型生成“屎山”代码有意义，但前提是该模型本身极其有用（Dan Shipper的观点）。这种实用主义心态正在推动Agent技术的快速迭代与落地。\n\n### **洞察二：语音交互正被重新定义，AI原生硬件和交互界面迎来“第二春”**\n\n**深度分析：**\nElevenLabs联合创始人Mati Staniszewski的发言“语音如何成为万物交互界面”，与Guillermo Rauch发布的“🌞”表情、@swyx提及的外交部长是“Nanoclaw”粉丝等动态，共同指向了一个趋势：**语音正在从“提示词输入”的补充，跃升为AI时代的“原生交互界面”**。\n\n*   **超越“聊天机器人”：** ElevenLabs的背景决定了其核心观点。他们不认为语音只是文字的替代品，而是看到了声音作为情感、身份和高效指令载体的独特价值。在Agent能帮你完成复杂代码任务的时代，语音是唯一能让你“边晒太阳边启动任务”的免提、低延迟交互方式。\n*   **AI与硬件的生态卡位：** “Nanoclaw”（推测为一款AI硬件或操作系统）能获得国家级人物的认可，说明AI原生设备正试图跨越小众极客圈，接触更广泛的影响力人群。这不仅仅是硬件销售，更是对“语音+Agent”使用场景的官方背书。@swyx的兴奋，暗示着语音交互与Agent的结合可能诞生下一个超级应用。\n*   **视觉与音频的融合：** 值得玩味的是，Zara Zhang同时强调了“HTML重要，因为人类是视觉动物”。这暗示了AI交互的未来并非“纯语音”或“纯视觉”的单一胜利，而是一个多模态融合的系统。语音负责高频、轻量的指令下发，而可视化的HTML界面则用于呈现复杂信息、进行深度阅读和精细编辑。未来最好的AI界面，可能是“你说话，它做事，并在你需要时给你看复杂的图表”。\n\n### **洞察三：关于“AI愚蠢化”的争论陷入怪圈，凸显出AI能力与社会认知的巨大鸿沟**\n\n**深度分析：**\nDan Shipper的两条动态（“我们用工具来表现糟糕是科学和新闻的最低形式”、“用刀戳眼睛会导致失明”）以及Sam Altman关于“5.5是一个患有自闭症的天才”的调侃，共同指向了当前AI讨论中一个令人担忧的倾向：**通过设计极端的、有误导性的测试来“证明”AI的无能。**\n\n*   **方法论上的刻舟求剑：** Dan Shipper的比喻非常精准。用“戳眼睛”来证明“刀没用”，这种“对抗性测试”在AI领域屡见不鲜。许多评测文章和新闻报道倾向于寻找AI最不擅长、最不合理的犄角旮旯（如复杂的逻辑陷阱、带有偏见的历史问题），然后得出“AI很蠢”的结论。这在方法论上是低级且缺乏建设性的。\n*   **“自闭症天才”的隐喻：** Sam Altman将新模型描述为“命名品味很怪的自闭症天才”，本质上是对这种“傻问题”的回击。模型在复杂的数学、代码、推理任务上表现出“天才”水准，但在一些普通人看来“显而易见”的常识或命名上显得“怪异”。这种“高智商、低情商”的特征，正是AI能力与人类期望的偏差所在。\n*   **核心矛盾：** 公众和部分媒体沉迷于“发现AI的愚蠢”以博取流量，而前沿的开发者们（从今天的动态看）正忙着用这些“有缺陷的天才”去重构自己的生产力。这种认知鸿沟"
 }
