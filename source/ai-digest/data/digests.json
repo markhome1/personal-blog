@@ -1,0 +1,163 @@
+[
+  {
+    "date": "2026-06-06T12:00:00.000Z",
+    "date_cn": "2026年06月06日",
+    "count": 14,
+    "tweets": [
+      {
+        "username": "alexalbert__",
+        "builder": {
+          "name": "Alex Albert",
+          "site": "Research @ Anthropic"
+        },
+        "title": "Anthropic内部数据：Claude已编写超80%代码，工程师产出提升8倍",
+        "desc": "We just published internal data on how much of Claude's development is already being done by Claude: Over 80% of all code merged into our codebase is now written by Claude. It's been months since many researchers at Anthropic hand-wrote code. The typical Anthropic engineer ships 8x as much code as they did in 2024. On the most open-ended engineering tasks, Claude's success rate jumped from ~26% to 76% in 6 months.",
+        "link": "https://x.com/alexalbert__/status/2062580571214389510",
+        "pubDate": "2026-06-04T17:01:43.000Z"
+      },
+      {
+        "username": "levie",
+        "builder": {
+          "name": "Aaron Levie",
+          "site": "CEO @ Box"
+        },
+        "title": "Box CEO评Anthropic：AI让想法远超执行力，瓶颈管理成最核心技能",
+        "desc": "AI lowers the barrier dramatically to allowing us to do more. As a result of that, we have far more ideas than we can pursue. There's almost no amount of AI progress that can happen where that goes away. AI is going to let us build much more software, launch more marketing campaigns, research more drugs. All of this work, even when augmented by agents, still ultimately requires people to manage.",
+        "link": "https://x.com/levie/status/2062728257359790292",
+        "pubDate": "2026-06-05T02:48:34.000Z"
+      },
+      {
+        "username": "sama",
+        "builder": {
+          "name": "Sam Altman",
+          "site": "CEO @ OpenAI"
+        },
+        "title": "Sam Altman宣布ChatGPT记忆功能大升级，支持直接用ChatGPT构建和发布Web应用",
+        "desc": "Big upgrade to ChatGPT memory rolling out today! Build and publish web apps with ChatGPT! I really wish I had this when I was a kid, but I do miss hypercard.",
+        "link": "https://x.com/sama/status/2062660086787613116",
+        "pubDate": "2026-06-04T22:17:41.000Z"
+      },
+      {
+        "username": "swyx",
+        "builder": {
+          "name": "Swyx",
+          "site": "DX Tips / Cognition"
+        },
+        "title": "Cognition发布真实企业代码评测：100小时任务基准，带财务保证",
+        "desc": "Cog has private enterprise evals up to 100hrs, and is confident enough to put a financial guarantee on it. Dataset: real life java/typescript/python/c# feature dev, bugfixes, migrations from 258 sessions across 126 users.",
+        "link": "https://x.com/swyx/status/2062611218196771017",
+        "pubDate": "2026-06-04T19:03:30.000Z"
+      },
+      {
+        "username": "_catwu",
+        "builder": {
+          "name": "Cat Wu",
+          "site": "Claude Code @ Anthropic"
+        },
+        "title": "Anthropic为Claude Code招聘PM，专注模型性能与Agent评测",
+        "desc": "I'm hiring a PM for Claude Code, focused on model performance. If you have experience writing agentic evals and want to integrate research ideas into our core products, I'd love to hear from you.",
+        "link": "https://x.com/_catwu/status/2062659533047259212",
+        "pubDate": "2026-06-04T22:15:29.000Z"
+      },
+      {
+        "username": "thsottiaux",
+        "builder": {
+          "name": "Thibault Sottiaux",
+          "site": "Codex & ChatGPT @ OpenAI"
+        },
+        "title": "OpenAI发布Codex Python SDK，可在自己的程序中集成Codex",
+        "desc": "You can use Codex within your own programs using the Python SDK. It's awesome. pip install openai-codex",
+        "link": "https://x.com/thsottiaux/status/2062734215494664697",
+        "pubDate": "2026-06-05T03:12:15.000Z"
+      },
+      {
+        "username": "danshipper",
+        "builder": {
+          "name": "Dan Shipper",
+          "site": "CEO @ Every"
+        },
+        "title": "Every发布Spiral 4.0：基于文体学构建AI写作伙伴，支持MCP和CLI",
+        "desc": "Spiral 4.0 — a writing partner for you and your agent. Stylometry: we built a new Style Engine based on the principles of stylometry to extract your brand's voice. MCP and CLI: Spiral is now built to be used by your agent like Codex, Claude Code, OpenClaw and more.",
+        "link": "https://x.com/danshipper/status/2062628079869005876",
+        "pubDate": "2026-06-04T20:10:30.000Z"
+      },
+      {
+        "username": "rauchg",
+        "builder": {
+          "name": "Guillermo Rauch",
+          "site": "CEO @ Vercel"
+        },
+        "title": "Vercel重申开放Web平台承诺，投资NitroJS、原生支持Vite框架",
+        "desc": "We @vercel reaffirm our collaboration on an open platform for the web, with our investment in @nitrojsdev, open runtimes, and native support for Vite-based frameworks like Nuxt, Svelte, and TanStack Start.",
+        "link": "https://x.com/rauchg/status/2062535454130676193",
+        "pubDate": "2026-06-04T14:02:26.000Z"
+      },
+      {
+        "username": "trq212",
+        "builder": {
+          "name": "Thariq",
+          "site": "Claude Code @ Anthropic"
+        },
+        "title": "Claude Code动态工作流让Agent处理全新类型任务；个人软件如家常菜",
+        "desc": "An app can be a home-cooked meal (2020). Personal software was a bit early in 2020 but in 2026, it really can be as personal as a home cooked meal, or a handwritten letter. How dynamic workflows allow Claude Code to handle whole new types of tasks.",
+        "link": "https://x.com/trq212/status/2062605395101884916",
+        "pubDate": "2026-06-04T18:40:22.000Z"
+      },
+      {
+        "username": "petergyang",
+        "builder": {
+          "name": "Peter Yang",
+          "site": "Product @ Roblox / AI Tutorials"
+        },
+        "title": "Peter Yang分享Codex效率工作流：搭建系统可节省50%知识工作时间",
+        "desc": "I'm convinced that you can save at least 50% of your time on any type of knowledge work if you just set up the system upfront. All my workflows have human checkpoints along the way so I can apply my 'taste.'",
+        "link": "https://x.com/petergyang/status/2062740262338929110",
+        "pubDate": "2026-06-05T03:36:17.000Z"
+      },
+      {
+        "username": "amasad",
+        "builder": {
+          "name": "Amjad Masad",
+          "site": "CEO @ Replit"
+        },
+        "title": "Replit展示Prompt to Shop：从提示词到完整应用商店",
+        "desc": "Prompt to shop: turning prompts directly into deployable applications.",
+        "link": "https://x.com/amasad/status/2062646796804145517",
+        "pubDate": "2026-06-04T21:24:53.000Z"
+      },
+      {
+        "username": "nikunj",
+        "builder": {
+          "name": "Nikunj Kothari",
+          "site": "Partner @ FPV Ventures"
+        },
+        "title": "VC用Claude Code构建AI版自己：用200+会议记录训练投资人判断力",
+        "desc": "I used Claude Code to pull >200 1:1 founder pitch meeting notes. Built a skill called 'Nock' that has principles and a question bank grounded in real conversations. If you are a founder raising and want to see what I would think about your deck, try this out.",
+        "link": "https://x.com/nikunj/status/2062659649732825549",
+        "pubDate": "2026-06-04T22:15:57.000Z"
+      },
+      {
+        "username": "joshwoodward",
+        "builder": {
+          "name": "Josh Woodward",
+          "site": "VP @ Google Labs / Gemini"
+        },
+        "title": "Google VP展示Gemini macOS应用新功能",
+        "desc": "Love this Gemini feature on my macOS app!",
+        "link": "https://x.com/joshwoodward/status/2062667951485108354",
+        "pubDate": "2026-06-04T22:48:56.000Z"
+      },
+      {
+        "username": "claudeai",
+        "builder": {
+          "name": "Claude (Anthropic)",
+          "site": "AI Assistant @ Anthropic"
+        },
+        "title": "Lovable CEO谈AI护城河：最被低估的壁垒是信任",
+        "desc": "Anton Osika is the co-founder and CEO of Lovable, where anyone can build software through conversation. His working thesis: the most underrated moat in AI is trust, and earning it takes craft, care, and obsession.",
+        "link": "https://x.com/claudeai/status/2062558332695556378",
+        "pubDate": "2026-06-04T15:33:21.000Z"
+      }
+    ]
+  }
+]
