@@ -1,40 +1,51 @@
 {
-  "date": "2026-06-12T12:00:00.000Z",
-  "date_cn": "2026年06月12日",
-  "count": 25,
+  "date": "2026-06-14T12:00:00.000Z",
+  "date_cn": "2026年06月14日",
+  "count": 35,
   "tweets": [
     {
-      "username": "joshwoodward",
+      "username": "karpathy",
       "builder": {
-        "name": "Josh Woodward",
-        "site": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio"
+        "name": "Andrej Karpathy",
+        "site": "I like training large deep neural nets"
       },
-      "title": "更新：一切已恢复正常，再次致歉！",
-      "desc": "Update: Everything is back up and running, sorry again!",
-      "link": "https://x.com/joshwoodward/status/2064869366290841716",
-      "pubDate": "2026-06-11T00:36:34.000Z"
+      "title": "敬畏SpaceX及其过去、现在与未来的故事  ",
+      "desc": "In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀",
+      "link": "https://x.com/karpathy/status/2065490793092337691",
+      "pubDate": "2026-06-12T17:45:54.000Z"
     },
     {
-      "username": "joshwoodward",
+      "username": "swyx",
       "builder": {
-        "name": "Josh Woodward",
-        "site": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio"
+        "name": "Swyx",
+        "site": "achieve ambition with intentionality"
       },
-      "title": "温馨提示：Gemini 目前出现服务中断。我们正在积极修复，并将尽快恢复服务。部分问题已修复，其余问题也将很快解决。请关注我们的更新，感谢您的耐心等待！",
-      "desc": "Heads up: Gemini is currently experiencing an outage. We're on it and will get everything back up ASAP. Some of the fixes are in, the rest coming very soon. Stay tuned for updates, and thanks for bearing with us!",
-      "link": "https://x.com/joshwoodward/status/2064762269674918013",
-      "pubDate": "2026-06-10T17:31:01.000Z"
+      "title": "如果你的邮件正在等待决定或回复，请别介意——我只是正处于AI项目的高压模式  ",
+      "desc": "how your email finds me\n\n(if youre waiting for a decision or reply pls dont take it personally im just in peak crunch mode for aie) https://t.co/BISqXaFlHm",
+      "link": "https://x.com/swyx/status/2065699264907694123",
+      "pubDate": "2026-06-13T07:34:18.000Z"
     },
     {
-      "username": "bcherny",
+      "username": "swyx",
       "builder": {
-        "name": "Boris Cherny",
-        "site": "Claude Code @anthropicai"
+        "name": "Swyx",
+        "site": "achieve ambition with intentionality"
       },
-      "title": "来自东京 Code with Claude 的问候！",
-      "desc": "Hello from Code with Claude Tokyo!! https://t.co/OGzffa1w58",
-      "link": "https://x.com/bcherny/status/2064885111477219664",
-      "pubDate": "2026-06-11T01:39:08.000Z"
+      "title": "当PR消亡、代码审查消亡之后，我认真在思考Git是否也该消亡  ",
+      "desc": "## The Future Codebase\n\nAfter the PR dies, after the Code Review dies,\ni am seriously wondering if Git needs to die next.\n\nroughly 20-40% of code spend is just managing and updating merge conflicts. necessary evil? or legacy \"horseless carriage\"? cargo culting the past?\n\nwe don't do line by line merge conflicts when we collaborate with human colleagues - instead we chat, suggest edits, do side comments, and an owner ships it. \n\nbtw we also don't do CI/CD even collaborating on documents with serious legal/financial implications.\n\nmaybe the future codebase looks more like a Notion or Linear database than .git objects. It will be less efficient, but more scalable. exactly the Salty Lesson.",
+      "link": "https://x.com/swyx/status/2065559864559145420",
+      "pubDate": "2026-06-12T22:20:22.000Z"
+    },
+    {
+      "username": "swyx",
+      "builder": {
+        "name": "Swyx",
+        "site": "achieve ambition with intentionality"
+      },
+      "title": "开发者异常工程的有趣之处在于：正常路径各有各的快乐  ",
+      "desc": "neat thing about developer exception engineering is:\n\nthe happy paths are all happy in their own way.\n\nthe unhappy paths are ~universally the same.\n\nhttps://t.co/Wnbtc9eAzk",
+      "link": "https://x.com/swyx/status/2065516685113827533",
+      "pubDate": "2026-06-12T19:28:47.000Z"
     },
     {
       "username": "thsottiaux",
@@ -42,109 +53,87 @@
         "name": "Thibault Sottiaux",
         "site": "Codex & ChatGPT @OpenAI"
       },
-      "title": "可以确认，过去 48 小时内 Codex 代币消耗量出现了强劲增长。在没有发布任何新产品的情况下出现这种情况实属罕见。",
-      "desc": "Can confirm we saw a strong spike in growth of token consumption for Codex over last 48 hours. Unusual when we don't launch something. https://t.co/UG7hB1URMC",
-      "link": "https://x.com/thsottiaux/status/2064911328087810308",
-      "pubDate": "2026-06-11T03:23:19.000Z"
-    },
-    {
-      "username": "thsottiaux",
-      "builder": {
-        "name": "Thibault Sottiaux",
-        "site": "Codex & ChatGPT @OpenAI"
-      },
-      "title": "欢迎 Clint 和 Michael 加入！期待共同为网络安全领域做出贡献，加速全球防御者能力提升。",
-      "desc": "Welcome Clint and Michael! Incredibly excited to see what we do together to contribute to the cybersecurity field and accelerate defenders across the globe.\n\nIt's time to build. https://t.co/wu9CtJk38u",
-      "link": "https://x.com/thsottiaux/status/2064869401359417799",
-      "pubDate": "2026-06-11T00:36:43.000Z"
+      "title": "听说了你（有趣的）反馈——有时收到Codex使用被重置的通知确实烦人  ",
+      "desc": "Heard your (amusing) feedback that it was at times annoying to receive a reset of your Codex usage without warning. \n\nNext time we press the button you will get to choose when it actually applies. Happy codexing. https://t.co/xXiqGijtIP",
+      "link": "https://x.com/thsottiaux/status/2065468501750649006",
+      "pubDate": "2026-06-12T16:17:20.000Z"
     },
     {
       "username": "petergyang",
       "builder": {
         "name": "Peter Yang",
-        "site": "Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14"
+        "site": "Practical AI tutorials and interviews to help busy people be"
       },
-      "title": "允许自己去创造。传统的职业晋升路径总是驱使每个人成为领导者，但我只想做一名创造者。在大多数公司，随着职位的晋升，你会被期望放弃创造，转而投入到产品评审、跨部门协作、向上管理和绩效考核中。我认识很多创造者，他们人生中最美好的时光都浪费在了错误的晋升路径上。好消息是，这种情况终于开始改变。公司比以往任何时候都更加重视创造者和独立贡献者（IC），甚至越来越多的管理者也被期望承担独立贡献者的工作。但是，成为一名优秀的创造者需要实践，而如果你整天都在开会，就很难积累这些实践经验。所以，如果你内心深处渴望成为一名创造者，那就拥抱它吧。你无需为了成为“领导者”而放弃你擅长的领域。📌 立即观看：",
-      "desc": "Give yourself permission to build.\n\nThe traditional career ladder pushes everyone to become a leader, but I just want to be a builder.\n\nAs you climb the ladder at most companies, you’re expected to step away from building and fill your time with product reviews, cross-functional alignment, managing up, and performance calibrations.\n\nI know a lot of builders who spent their best years climbing the wrong ladder.\n\nThe good news is that this is finally changing. Companies are rewarding builders and ICs more than ever, and even managers are increasingly expected to do IC work too.\n\nBut becoming a good builder takes reps, and it’s hard to put in those reps when you’re in back-to-back meetings all day.\n\nSo if you’re a builder at heart, embrace it. You don’t have to give up what you’re good at to be a “leader.”\n\n📌 Watch now: https://t.co/wv2SINll18",
-      "link": "https://x.com/petergyang/status/2064799855059616172",
-      "pubDate": "2026-06-10T20:00:22.000Z"
+      "title": "是的，我认为访问最佳模型很快将需要身份验证  ",
+      "desc": "Yeah I think ID verification will soon be required to access the best models",
+      "link": "https://x.com/petergyang/status/2065622592309039449",
+      "pubDate": "2026-06-13T02:29:38.000Z"
     },
     {
       "username": "petergyang",
       "builder": {
         "name": "Peter Yang",
-        "site": "Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14"
+        "site": "Practical AI tutorials and interviews to help busy people be"
       },
-      "title": "我越使用 Codex，我的请求就越复杂。或者，也许这些请求还不够复杂？",
-      "desc": "The more I use Codex the more ambitious my requests get. Or maybe this is not ambitious enough? https://t.co/C0qgjmKGRt",
-      "link": "https://x.com/petergyang/status/2064748427892945313",
-      "pubDate": "2026-06-10T16:36:01.000Z"
+      "title": "暂停Fable对“所有在美外国人”的服务真是疯狂  ",
+      "desc": "Suspending Fable for all “foreign person inside the US” is wild. How can you even enforce this properly?",
+      "link": "https://x.com/petergyang/status/2065602691850764667",
+      "pubDate": "2026-06-13T01:10:33.000Z"
     },
     {
-      "username": "thenanyu",
+      "username": "petergyang",
       "builder": {
-        "name": "Nan Yu",
-        "site": "head of product @linear"
+        "name": "Peter Yang",
+        "site": "Practical AI tutorials and interviews to help busy people be"
       },
-      "title": "群体提示工程 (Gangprompting)",
-      "desc": "gangprompting https://t.co/ZnO5TTrFv6",
-      "link": "https://x.com/thenanyu/status/2064733338779177459",
-      "pubDate": "2026-06-10T15:36:03.000Z"
+      "title": "哇，什么鬼？！  ",
+      "desc": "Wow wtf?! https://t.co/T4gztHHj8e",
+      "link": "https://x.com/petergyang/status/2065601540350750846",
+      "pubDate": "2026-06-13T01:05:58.000Z"
     },
     {
       "username": "realmadhuguru",
       "builder": {
         "name": "Madhu Guru",
-        "site": "Prev: Product Leader at Google - Gemini, Veo, Nano Banana."
+        "site": "Prev: Product Leader at Google - Gemini"
       },
-      "title": "从 Gemini 创立之初，企业就常常在质量/成本权衡上犯错。他们通常会选择最小、最便宜的模型。我们给客户的经验法则是：用 LLM 替换传统的机器学习模型——从小处着手，因为您已经知道好的模型是什么样的。构建新事物——从功能最强大的模型开始。要跳出固有思维，先弄清楚哪些是真正可行的。一旦他们拥有了高质量的应用程序，我们就会帮助他们迁移到更小的模型，同时保持质量。",
-      "desc": "Right from the early days of Gemini, enterprises would get the quality/cost tradeoff wrong. They’d often start with the smallest, cheapest model.\n\nThe rule of thumb we gave customers:\n\nReplacing a traditional ML model with an LLM - start small, cos you already know what good looks like.\n\nBuilding something new - start with the most capable model. Think magically. Figure out what’s actually possible first.\n\nOnce they had a high-quality working application, we’d help them move to a smaller model while maintaining quality.",
-      "link": "https://x.com/realmadhuguru/status/2064794601320481150",
-      "pubDate": "2026-06-10T19:39:29.000Z"
-    },
-    {
-      "username": "trq212",
-      "builder": {
-        "name": "Thariq",
-        "site": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab"
-      },
-      "title": "很多人问我怎么用 Fable 剪辑自己的发布视频，所以我专门做了个视频来讲解！简单来说，它写了很多代码，调用了很多工具，包括转录服务、ffmpeg、调色、使用 Figma MCP、制作 Remotion UI 以及渲染。我完全没用到任何视频编辑器。",
-      "desc": "Lots of people asked how I used Fable to edit its own launch video so I made a video about that!\n\nTLDR it wrote a lot of code &amp;  tool calls to use transcription services, ffmpeg, do colorgrading, use the figma mcp, make remotion UI and render it. \n\nI didn't touch a video editor. https://t.co/hJRdJye5Fy",
-      "link": "https://x.com/trq212/status/2064826394589442448",
-      "pubDate": "2026-06-10T21:45:49.000Z"
-    },
-    {
-      "username": "GoogleLabs",
-      "builder": {
-        "name": "Google Labs",
-        "site": "Google’s home for our latest AI tools and experiments."
-      },
-      "title": "🌍 Project Genie 扩大开放！Google AI Ultra 5X 订阅用户全球可用",
-      "desc": "🌍 Project Genie access is expanding even more! Starting today, Google AI Ultra 5X subscribers (our latest tier!) globally can access Project Genie.\n\nTry it out here! https://t.co/4BFYHSiAMv https://t.co/VL4MCvc44B",
-      "link": "https://x.com/GoogleLabs/status/2064801929339752527",
-      "pubDate": "2026-06-10T20:08:36.000Z"
+      "title": "我刚用双手——手动敲键盘——写完了一整个文档  ",
+      "desc": "Just wrote out a whole doc with my bare hands - manually, with a keyboard. \n\nNo dictation, no AI. \n\nBecause I like to live dangerously.",
+      "link": "https://x.com/realmadhuguru/status/2065541200971759669",
+      "pubDate": "2026-06-12T21:06:12.000Z"
     },
     {
       "username": "amasad",
       "builder": {
         "name": "Amjad Masad",
-        "site": "ceo @replit. civilizationist"
+        "site": "ceo @replit"
       },
-      "title": "用 Replit 自动化你的求职流程",
-      "desc": "Automate your job search with Replit! https://t.co/OiJSdTvhi2",
-      "link": "https://x.com/amasad/status/2064864439275536495",
-      "pubDate": "2026-06-11T00:17:00.000Z"
+      "title": "听起来我们得关闭Fable的访问权限了  ",
+      "desc": "Sounds like we’re going to have turn off access to Fable. https://t.co/9LpO1RhlXc",
+      "link": "https://x.com/amasad/status/2065600809224814835",
+      "pubDate": "2026-06-13T01:03:04.000Z"
     },
     {
       "username": "amasad",
       "builder": {
         "name": "Amjad Masad",
-        "site": "ceo @replit. civilizationist"
+        "site": "ceo @replit"
       },
-      "title": "企业级 Agent 的这种做法非常有趣",
-      "desc": "Super interesting approach to enterprise agents. Congrats on the launch @markiewagner https://t.co/BfGani53y1",
-      "link": "https://x.com/amasad/status/2064806473352540643",
-      "pubDate": "2026-06-10T20:26:40.000Z"
+      "title": "当Tokenmaxxing热潮开始时，一些企业客户找我们要排行榜  ",
+      "desc": "When the whole Tokenmaxxing craze started some our enterprise customers asked us for a leaderboard.\n\nWe said no.\n\nWould’ve been “great” for business but we’re not in the business of selling tokens for the sake of tokens.\n\nWe sell outcomes.\n\nAnd we knew it wouldn’t last: https://t.co/LKwOkfZQm0",
+      "link": "https://x.com/amasad/status/2065597793998422308",
+      "pubDate": "2026-06-13T00:51:05.000Z"
+    },
+    {
+      "username": "amasad",
+      "builder": {
+        "name": "Amjad Masad",
+        "site": "ceo @replit"
+      },
+      "title": "如果你在Replit上赚钱，就能获得免费积分！  ",
+      "desc": "If you make money on Replit, you get free credits! https://t.co/UfC2HCi7lZ",
+      "link": "https://x.com/amasad/status/2065503810592833560",
+      "pubDate": "2026-06-12T18:37:38.000Z"
     },
     {
       "username": "rauchg",
@@ -152,10 +141,10 @@
         "name": "Guillermo Rauch",
         "site": "@vercel CEO"
       },
-      "title": "🇬🇧 伦敦见！Vercel Ship 下周举行，有特别发布…",
-      "desc": "🇬🇧 London calling\nExcited for Vercel Ship next week\nSome special announcements… https://t.co/WmOe53Q0Au https://t.co/ks68xJOHL7",
-      "link": "https://x.com/rauchg/status/2064777495422161205",
-      "pubDate": "2026-06-10T18:31:31.000Z"
+      "title": "我们刚刚发布了HarnessAgent，一个统一抽象层，用于将任何智能体的“大脑”编排并集成到你的应用中  ",
+      "desc": "We just shipped 𝙷𝚊𝚛𝚗𝚎𝚜𝚜𝙰𝚐𝚎𝚗𝚝, a unified abstraction to orchestrate and integrate any agent’s “brain” into your app.\n\n@aisdk now frees you from both model and agent lock-in. (And it doesn’t just get you portability, it’s also delightful to use ofc!) https://t.co/CTbttpPKp8",
+      "link": "https://x.com/rauchg/status/2065520041894756480",
+      "pubDate": "2026-06-12T19:42:08.000Z"
     },
     {
       "username": "rauchg",
@@ -163,121 +152,242 @@
         "name": "Guillermo Rauch",
         "site": "@vercel CEO"
       },
-      "title": "我喜欢硅谷的一点是，未来充满无限可能，人人都有机会去创造。我接触到各种各样的天使投资人，对每个人都一视同仁。无论是两个小伙子和一条狗，还是五次获奖的企业家，我都认真对待。这里没有比这更精英主义的地方了。",
-      "desc": "What I love about Silicon Valley is that the future is up for grabs, ready for anyone to build. \n\nI get intros for angel investing to all kinds of people. I take everyone equally seriously. 2 lads &amp; a dog, or a 5-time award-winning entrepreneur.\n\nNo place more meritocratic.",
-      "link": "https://x.com/rauchg/status/2064732935484514729",
-      "pubDate": "2026-06-10T15:34:27.000Z"
+      "title": "HTML又回来了。拖拽就行。  ",
+      "desc": "HTML is so back.\nDrag and https://t.co/HJSiShgTtP https://t.co/ay1f9Iol4W",
+      "link": "https://x.com/rauchg/status/2065494112669966660",
+      "pubDate": "2026-06-12T17:59:06.000Z"
+    },
+    {
+      "username": "alexalbert__",
+      "builder": {
+        "name": "Alex Albert",
+        "site": "Research @AnthropicAI"
+      },
+      "title": "这是从我们的提示指南中摘录的，里面还有更多使用Fable的技巧：  ",
+      "desc": "Pulled this from our prompting guide which has many more tips for working with Fable: https://t.co/xHvvfIY0Ex",
+      "link": "https://x.com/alexalbert__/status/2065493242158924031",
+      "pubDate": "2026-06-12T17:55:38.000Z"
+    },
+    {
+      "username": "alexalbert__",
+      "builder": {
+        "name": "Alex Albert",
+        "site": "Research @AnthropicAI"
+      },
+      "title": "Fable在处理长智能体对话时简直超人类，有时甚至让我跟不上它在说什么😅  ",
+      "desc": "Fable feels superhuman at working over long agentic conversations, sometimes to the point where I can't keep up with what it's telling me 😅\n\nThis prompt snippet has been the best fix I've found for getting it to write clearly and drop any jargon: https://t.co/9mS57mR7jq",
+      "link": "https://x.com/alexalbert__/status/2065493229760565758",
+      "pubDate": "2026-06-12T17:55:35.000Z"
     },
     {
       "username": "levie",
       "builder": {
         "name": "Aaron Levie",
-        "site": "ceo @box - your business lives in content. unleash it with AI"
+        "site": "ceo @box - your business lives in content"
       },
-      "title": "大量证据表明，Fable 在编码（及相关）任务方面的能力有了显著提升。它在复杂知识工作任务的准确性和成功率方面也实现了大幅提升。在我们的 Box AI 复杂工作评估中，我们将该模型与 Opus 4.8 进行了对比测试，发现几乎所有行业都取得了显著进步。在评估过程中，我们使用 Fable 为 Box AI 智能体提供一系列处理企业文档的复杂现实世界知识工作问题，然后评估智能体完成这些任务的表现。Fable 相对于 Opus 4.8 的主要区别在于，它在复杂推理方面不走捷径，能够正确执行多步骤计算，并且在不同运行中表现更加稳定。我们在媒体与娱乐（78% 对 61%）、科技（81% 对 73%）、金融服务（89% 对 83%）和医疗保健（66% 对 60%）行业看到了最大的提升。以下是一些具体示例：* 法律并购尽职调查：在一项审查半导体公司合同政策与保密协议条款的任务中，Fable 正确识别出共同所有权条款违反了排他性要求，而责任上限则在超级上限例外条款下是允许的。Fable 的得分为 100%，而 Opus 的得分为 78%。* 医疗保健：在一项涵盖 12 份报告的临床放射学错误审计中，Fable 准确地根据严重程度对每项错误进行了分类，并正确得出结论：不存在 3 级错误。Opus 在证据不足的情况下，过早地将一个案例升级为“需要立即部门审查的重大错误”——Fable 的得分为 63%，而 Opus 的得分为 41%。* 媒体与娱乐：在一项类型盈利能力预测任务中，Fable 正确识别出源电子表格数据中已包含 20% 的阿根廷税收抵免，并且没有重复应用。Opus 则再次应用了该抵免——这一累积错误影响了 4 个类型的计算，导致其在该任务中的得分为负，而 Fable 的得分为 74%。 * 零售分析：在一项将高增长产品文章与投资基准进行比较的任务中，Fable 正确计算了每篇文章的增长率，并指出只有 5 篇文章中的 2 篇超过了阈值。Opus 将“相对于平均水平的高增长”与“高于基准”混淆，得分仅为 61%，而 Fable 的得分为 94%。* 金融服务：在一项为期 5 年的债务融资预测中，Fable 正确地将利息应用于期初余额，并使用了正确的资本支出数据。Opus 将利息应用于融资总额，并且使用了错误的基数计算税款——这两个错误叠加在一起。Fable 的得分为 83%，而 Opus 的得分为 62%。* 技术：在一项需要计算跨多个地区的功能价值指数的 SaaS 功能估值任务中，Fable 正确应用了公式，并获得了各个市场的精确值。Opus 在多个标准上都出现了计算错误——Fable 的得分为 100%，而 Opus 的得分为 74%。总而言之，Fable 在复杂分析、需要分析推理和深厚领域理解的工作方面取得了巨大的进步。 Fable 即将上线 Box AI Studio，供客户构建智能体。",
-      "desc": "Lots of evidence of huge jumps in capability for Fable across coding (and related) tasks. It’s also a major jump in accuracy and success in complex knowledge work tasks.\n\nIn our Box AI Complex Work Eval, we tested the model against Opus 4.8 and saw huge boosts across almost every industry. For our eval we give the Box AI Agent, using Fable, a set of hard real world knowledge work problems that deal with enterprise documents. Then score how the agent performs the tasks.\n\nThe main differentiators for Fable vs Opus 4.8 is that it doesn't take shortcuts on complex reasoning, it gets multi-step calculations right, and it's significantly more consistent across runs. We saw the biggest leaps in Media & Entertainment (78% vs 61%), Technology (81% vs 73%), Financial Services (89% vs 83%), and Healthcare (66% vs 60%).\n\nHere are some specific examples:\n\n* Legal M&A due diligence: On a task reviewing NDA terms against a semiconductor company's contracting policy, Fable correctly identified that a joint-ownership clause violates exclusivity requirements while a liability cap is permitted under a Super Cap exception. Fable scored 100% vs Opus's 78%.\n\n* Healthcare: On a clinical radiology error audit across 12 reports, Fable precisely categorized each error by severity grade and correctly concluded no Grade 3 errors existed. Opus prematurely escalated a case to \"major error requiring immediate departmental review\" when the evidence didn't support it — Fable 63% vs Opus 41%.\n\n* Media & Entertainment: On a genre profitability projection task, Fable correctly recognized that a 20% Argentine tax deduction was already embedded in the source spreadsheet figures and didn't double-apply it. Opus applied it again on top — a compounding error across 4 genre calculations that took its score negative on the task vs Fable's 74%.\n\n* Retail analytics: On a task analyzing high-growth product articles against an investment benchmark, Fable correctly computed each article's growth rate individually and identified that only 2 of 5 exceeded the threshold. Opus confused \"high growth relative to average\" with \"above the benchmark\" — scoring 61% vs Fable's 94%.\n\n* Financial Services: On a 5-year debt facility projection, Fable correctly applied interest to opening balances and used the right capex figure. Opus applied interest to the total facility amount and computed tax from the wrong base — two compounding errors. Fable scored 83% vs Opus's 62%.\n\n* Technology: On a SaaS feature valuation requiring computation of a Feature Value Index across multiple regions, Fable applied the formula correctly and got exact values for the markets. Opus got the arithmetic wrong on multiple criteria — Fable scored 100% vs Opus's 74%.\n\nOverall, huge step change in complex analysis, work that requires analytical reasoning, and deep domain understanding. Fable will be available shortly in the Box AI Studio for customers to build agents with.",
-      "link": "https://x.com/levie/status/2064922814688481678",
-      "pubDate": "2026-06-11T04:08:58.000Z"
+      "title": "这是AI监管的一个重大转折点  ",
+      "desc": "This is a big turning point for AI regulation.\n\nThe government is starting to deem some models too powerful for certain uses, which creates a precedent for a range of possible controls in the future.\n\nI’m in the camp that this is unnecessary and we should be primarily regulating the use of AI, as opposed to the underlying models. But, equally, there are plenty of people that actually prefer this outcome.\n\nEither way, it’s unlikely that we’re going back to a world where the government doesn’t have far more meaningful involvement in the rate of AI progress.",
+      "link": "https://x.com/levie/status/2065616509666472329",
+      "pubDate": "2026-06-13T02:05:27.000Z"
+    },
+    {
+      "username": "levie",
+      "builder": {
+        "name": "Aaron Levie",
+        "site": "ceo @box - your business lives in content"
+      },
+      "title": "这真是太酷了  ",
+      "desc": "This is pretty freaking cool https://t.co/bHnIUti4FH",
+      "link": "https://x.com/levie/status/2065594956186865815",
+      "pubDate": "2026-06-13T00:39:49.000Z"
+    },
+    {
+      "username": "levie",
+      "builder": {
+        "name": "Aaron Levie",
+        "site": "ceo @box - your business lives in content"
+      },
+      "title": "不可思议。祝贺@elonmusk和整个SpaceX团队25年来用血汗和泪水打造出一家定义世界的公司",
+      "desc": "Incredible. Congrats to @elonmusk and the entire SpaceX team on the 25 years of blood, sweat and tears to build a world-defining company. Amazing to have examples like this that push the future forward. The downstream implications of this are enormous. https://t.co/tyDusbJFn0",
+      "link": "https://x.com/levie/status/2065469347712401712",
+      "pubDate": "2026-06-12T16:20:41.000Z"
     },
     {
       "username": "garrytan",
       "builder": {
         "name": "Garry Tan",
-        "site": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop"
+        "site": "President & CEO @ycombinator —Founder @garryslist—Creator of"
       },
-      "title": "Nessie 已经成为将 ChatGPT、Perplexity 和 Gemini 中所有现有上下文、记忆和历史记录导入到所有其他存储位置的最佳方式，同时也能将其导入 OpenClaw/Hermes Agent。他们的 OpenClaw 和 MCP 服务器非常出色。",
-      "desc": "Nessie just became the best way to get all your existing context, memory and history from ChatGPT, Perplexity, and Gemini into all the other places you have memory, and also get it into OpenClaw/Hermes Agent. Their OpenClaw and MCP servers are ace. \n\nhttps://t.co/0L1JaBlTvg",
-      "link": "https://x.com/garrytan/status/2064947145652994510",
-      "pubDate": "2026-06-11T05:45:39.000Z"
+      "title": "为@datacurve（YC W24）自豪——打造DeepSWE终极软件工程基准",
+      "desc": "So proud of @datacurve (YC W24) - building THE defining software engineering benchmark in DeepSWE\n\nTired? SWE-Bench Pro\nWired? Datacurve DeepSWE https://t.co/ZoftIrEGKc",
+      "link": "https://x.com/garrytan/status/2065595201008398592",
+      "pubDate": "2026-06-13T00:40:47.000Z"
+    },
+    {
+      "username": "garrytan",
+      "builder": {
+        "name": "Garry Tan",
+        "site": "President & CEO @ycombinator —Founder @garryslist—Creator of"
+      },
+      "title": "刚发现OpenClaw的forceBlockStreamingForReasoning = resolvedReasoningLevel === \"on\"，太爱了，看到推理痕迹…",
+      "desc": "I just discovered forceBlockStreamingForReasoning = resolvedReasoningLevel === \"on\" for OpenClaw and frankly I love it\n\nSeeing the reasoning traces of my claw with Claude Fable 5 is a mind-blowing experience. Seeing the tale of the tape, and being able to engage with ideas at a deeper level has always been my catnip.",
+      "link": "https://x.com/garrytan/status/2065432924724539848",
+      "pubDate": "2026-06-12T13:55:57.000Z"
+    },
+    {
+      "username": "garrytan",
+      "builder": {
+        "name": "Garry Tan",
+        "site": "President & CEO @ycombinator —Founder @garryslist—Creator of"
+      },
+      "title": "人人都以为AI编程工具解放了创始人",
+      "desc": "Everyone thinks AI coding tools set founders free.\n\nWatch what people actually build with them: rules, approvals, process, layers. The same cage, assembled faster.\n\nThe tool that can scaffold anything in an afternoon will scaffold your bureaucracy in an afternoon too.\n\nSpeed of construction is speed of calcification. Build the thing that lets you create new things: experiences that didn’t happen before.",
+      "link": "https://x.com/garrytan/status/2065416181943865611",
+      "pubDate": "2026-06-12T12:49:26.000Z"
     },
     {
       "username": "zarazhangrui",
       "builder": {
         "name": "Zara Zhang",
-        "site": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w"
+        "site": "Builder"
       },
-      "title": "这太好了。如今，代理机构的产出越来越像一个文件夹，里面装满了经纪人需要的文件，而不是一次性的资产。“靠你的智慧而不是双手赚钱”。",
-      "desc": "This is so good\n\nIncreasingly the output of an agency looks like a folder of files for agents, instead of one-off assets\n\n\"Get paid for your mind, not your hands\" https://t.co/C1O4J2HW2F https://t.co/WMf0DetvTY",
-      "link": "https://x.com/zarazhangrui/status/2064843560248332577",
-      "pubDate": "2026-06-10T22:54:02.000Z"
+      "title": "每天无数人、朋友、熟人、粉丝、初创公司让我试用他们的AI新产品，至少三个…",
+      "desc": "There are SO many people, friends, acquaintances, followers, startups, asking me to try their new AI products every day\n\nLike I get at least 3 such requests per day\n\nIf I tried all of these products I wouldn’t have time to do anything else \n\nThere are too many builders and the competition for attention is insane",
+      "link": "https://x.com/zarazhangrui/status/2065696088519270402",
+      "pubDate": "2026-06-13T07:21:40.000Z"
     },
     {
       "username": "zarazhangrui",
       "builder": {
         "name": "Zara Zhang",
-        "site": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w"
+        "site": "Builder"
       },
-      "title": "人们应该为跨职能团队培养相应的代理/技能。例如，如果设计团队为市场营销团队培养一个设计代理/技能（接受过品牌所有指南和设计模式的培训），那么市场营销团队就可以制作更多符合品牌调性的素材，而无需每次都麻烦设计师。但市场营销团队无法独自完成这项工作；这需要设计师的专业知识、背景和经验。同样的道理也适用于所有密切合作、经常相互依赖、并且经常抱怨对方资源有限的团队。为跨职能团队培养代理可以确保每个团队都能更加独立自主，并推动我们朝着以“循环”而非“功能”来组织团队的方向发展。",
-      "desc": "People should build agents/skills for their cross-functional teams.\n\nFor example, if a design team builds a design agent/skill for the marketing team (trained on all of the brand's guidelines and design patterns), then the marketing team can produce more on-brand assets without having to bug designers every time\n\nBut the marketing team couldn't have built this on their own; it takes the designer with their expertise, context, and knowledge\n\nSame thing applies to every pair of teams that work closely with each other, often rely on each other, and complain about each other's limited bandwidth\n\nBuilding agents for your cross-functional teams ensures each team can be more self-sufficient, and moves us to a direction where teams can be organized by \"loops\" rather than \"functions\"",
-      "link": "https://x.com/zarazhangrui/status/2064835289559023958",
-      "pubDate": "2026-06-10T22:21:10.000Z"
+      "title": "爆款产品的创始人看得见、听得见，人们向人购买",
+      "desc": "A viral product has a founder people can see and hear\n\nPeople buy from people. A screen recording from the founder beats a corporate promo video or a wall of features.\n\nShow your face. https://t.co/8gdGFsIVJB",
+      "link": "https://x.com/zarazhangrui/status/2065674426197393779",
+      "pubDate": "2026-06-13T05:55:36.000Z"
     },
     {
-      "username": "zarazhangrui",
+      "username": "nikunj",
       "builder": {
-        "name": "Zara Zhang",
-        "site": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w"
+        "name": "Nikunj Kothari",
+        "site": "partner @fpvventures - investing in seed/A"
       },
-      "title": "旧金山的大多数创业公司似乎都在互相推销产品。当我问创始人他们的目标受众是谁时，90% 的情况下都是“工程和产品团队，以及人工智能原生创业公司”。感觉好像是同一小部分目标受众被铺天盖地的产品轰炸，而真正为世界上 99% 的用户群体打造产品的人却寥寥无几。",
-      "desc": "It seems like most startups in San Francisco are selling products to each other\n\nWhen I ask founders who their target audience is, 90% of the time it's \"engineering and product teams, AI-native startups\"\n\nFeels like the same small group of target audience is being bombarded with a million products, whereas very few people are building for the 99% of the world",
-      "link": "https://x.com/zarazhangrui/status/2064825302359150870",
-      "pubDate": "2026-06-10T21:41:29.000Z"
+      "title": "我对应用公司如何应对“大实验室做了怎么办”的尝试",
+      "desc": "My shot at how application companies survive the “what if large lab builds this” question 😅 https://t.co/2Hux7K4oIQ",
+      "link": "https://x.com/nikunj/status/2065581110822593000",
+      "pubDate": "2026-06-12T23:44:48.000Z"
+    },
+    {
+      "username": "nikunj",
+      "builder": {
+        "name": "Nikunj Kothari",
+        "site": "partner @fpvventures - investing in seed/A"
+      },
+      "title": "有人也两种声音吗？",
+      "desc": "Anyone else have two voices?\n\nI often have two voices that come out both in my writing and how I speak. \n\nOne is the frenetic, time is the enemy, direct, punchy gets to the point quickly and then the second is more calm, measured, structured inquisitive, trying to peel the layers. \n\nThey are distinctive enough that people think it’s two different people (especially in writing). \n\nThey are usually separate but I feel I often oscillate between the two in the same conversation.",
+      "link": "https://x.com/nikunj/status/2065473941385421279",
+      "pubDate": "2026-06-12T16:38:56.000Z"
+    },
+    {
+      "username": "steipete",
+      "builder": {
+        "name": "Peter Steinberger",
+        "site": "Polyagentmorous ClawFather"
+      },
+      "title": "我几乎跟不上大家提交的Issue/PR，Codex在crabbox内运行并构建它",
+      "desc": "I can barely keep up with implementing/testing/landing all the Issues/PRs folks submit to https://t.co/qUxn0LF7Ct\n\nCodex runs INSIDE crabbox while it is building crabbox.\nThis is becoming essential infra for my work.\n\nCodex been looping nonstop for the last 4 days in multiple trees. Since all of it is e2e verifiable it basically builds itself. Codex even signs up for the services automatically via browser/computer use. My main job is adding credit card details and closing things that I don't see as a fit.",
+      "link": "https://x.com/steipete/status/2065650561484267540",
+      "pubDate": "2026-06-13T04:20:46.000Z"
+    },
+    {
+      "username": "steipete",
+      "builder": {
+        "name": "Peter Steinberger",
+        "site": "Polyagentmorous ClawFather"
+      },
+      "title": "“沟通不够一贯坦诚”是我最喜欢的新美式表达",
+      "desc": "“not consistently candid in their communications” is my fav new americanism. https://t.co/MJItibA6xZ",
+      "link": "https://x.com/steipete/status/2065574894545560062",
+      "pubDate": "2026-06-12T23:20:06.000Z"
+    },
+    {
+      "username": "steipete",
+      "builder": {
+        "name": "Peter Steinberger",
+        "site": "Polyagentmorous ClawFather"
+      },
+      "title": "codex -C ~/projects/openclaw -m gpt-5.5-cyber time",
+      "desc": "codex -C ~/projects/openclaw -m gpt-5.5-cyber time https://t.co/6ANgzM1JKJ",
+      "link": "https://x.com/steipete/status/2065567852162355551",
+      "pubDate": "2026-06-12T22:52:07.000Z"
     },
     {
       "username": "danshipper",
       "builder": {
         "name": "Dan Shipper",
-        "site": "ceo @every | the only subscription you need to stay at the edge of AI"
+        "site": "ceo @every | the only subscription you need to stay at the e"
       },
-      "title": "我去年在@lennysan 的播客节目中就预测过这种情况。人工智能提高了每个员工的生产力，这使得将某些工作岗位迁回美国以更贴近客户变得更具吸引力。",
-      "desc": "I predicted this might happen on on @lennysan’s pod last year \n\nHigher productivity from each individual employee with AI, makes it appealing to reshore certain jobs back to the US to be close to customers https://t.co/rNpLF3BerE",
-      "link": "https://x.com/danshipper/status/2064777216656097445",
-      "pubDate": "2026-06-10T18:30:24.000Z"
+      "title": "《哈利·波特》同人和《乡下人的悲歌》把我们带到了这里",
+      "desc": "harry potter fan fiction and hillbilly elegy brought us to this https://t.co/tVAPAWq1Sg",
+      "link": "https://x.com/danshipper/status/2065620303729078435",
+      "pubDate": "2026-06-13T02:20:32.000Z"
     },
     {
       "username": "danshipper",
       "builder": {
         "name": "Dan Shipper",
-        "site": "ceo @every | the only subscription you need to stay at the edge of AI"
+        "site": "ceo @every | the only subscription you need to stay at the e"
       },
-      "title": "在飞往SF的航班上疯狂使用Fable",
-      "desc": "fable maxxing on the plane to SF https://t.co/KDB8T8Z8Ci",
-      "link": "https://x.com/danshipper/status/2064767202767602122",
-      "pubDate": "2026-06-10T17:50:37.000Z"
+      "title": "这严重打乱了我的周末计划，我可能得见人了",
+      "desc": "this seriously messes up my weekend plans i may have to actually see people",
+      "link": "https://x.com/danshipper/status/2065618107750916323",
+      "pubDate": "2026-06-13T02:11:48.000Z"
+    },
+    {
+      "username": "danshipper",
+      "builder": {
+        "name": "Dan Shipper",
+        "site": "ceo @every | the only subscription you need to stay at the e"
+      },
+      "title": "各地的CFO：我们回来了",
+      "desc": "cfos everywhere: we are so back https://t.co/v4ZxOKeYYk",
+      "link": "https://x.com/danshipper/status/2065610408627724635",
+      "pubDate": "2026-06-13T01:41:13.000Z"
+    },
+    {
+      "username": "adityaag",
+      "builder": {
+        "name": "Aditya Agarwal",
+        "site": "General Partner @SouthPkCommons"
+      },
+      "title": "今天适合叫SPC",
+      "desc": "It's a good day to be called SPC.\n\nWe are temporarily renaming ourselves to Space Park Commons.",
+      "link": "https://x.com/adityaag/status/2065467866930135491",
+      "pubDate": "2026-06-12T16:14:48.000Z"
+    },
+    {
+      "username": "adityaag",
+      "builder": {
+        "name": "Aditya Agarwal",
+        "site": "General Partner @SouthPkCommons"
+      },
+      "title": "非常非常激动地欢迎Ryan Atkins加入团队成为合伙人",
+      "desc": "Very very excited to welcome Ryan Atkins to the team as a Partner.\n\nWe have a lot to build @southpkcommons! https://t.co/LwqApZUBRj",
+      "link": "https://x.com/adityaag/status/2065460544719704355",
+      "pubDate": "2026-06-12T15:45:42.000Z"
     },
     {
       "username": "claudeai",
       "builder": {
         "name": "Claude",
-        "site": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app."
+        "site": "Claude is an AI assistant built by @anthropicai to be safe"
       },
-      "title": "Claude 推出《The Problem Solvers》系列，讲述创始人如何用 Claude 解决难题",
-      "desc": "From The Problem Solvers, our series featuring founders taking on hard problems with Claude: https://t.co/lXWwc2eHPe",
-      "link": "https://x.com/claudeai/status/2064757539762295177",
-      "pubDate": "2026-06-10T17:12:13.000Z"
-    },
-    {
-      "username": "claudeai",
-      "builder": {
-        "name": "Claude",
-        "site": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app."
-      },
-      "title": "Michael Truell (@mntruell) 12 岁时就爱上了编程。他联合创办的公司 @cursor_ai 在两年内从 15 人发展到 700 人。如今，超过 60% 的财富 500 强企业都在使用其人工智能编程平台进行开发。",
-      "desc": "Michael Truell (@mntruell) fell in love with coding at 12. The company he co-founded, @cursor_ai, went from 15 people to 700 in two years.\n\nToday, over 60% of the Fortune 500 build with its AI coding platform. https://t.co/1UROi02oHJ",
-      "link": "https://x.com/claudeai/status/2064757537992249734",
-      "pubDate": "2026-06-10T17:12:13.000Z"
-    },
-    {
-      "username": "claudeai",
-      "builder": {
-        "name": "Claude",
-        "site": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app."
-      },
-      "title": "Claude Platform 现已支持定时部署和环境变量 Vaults",
-      "desc": "Scheduled deployments and environment variables in vaults are available today on the Claude Platform.\n\nRead more: https://t.co/kCYH1FnRbO",
-      "link": "https://x.com/claudeai/status/2064741184547795408",
-      "pubDate": "2026-06-10T16:07:14.000Z"
+      "title": "你在构建什么？",
+      "desc": "What are you building?",
+      "link": "https://x.com/claudeai/status/2065456700379807900",
+      "pubDate": "2026-06-12T15:30:26.000Z"
     }
   ],
-  "summary": "好的，作为AI行业分析师，以下是对今日AI Builders动态的深度分析，提炼出5个核心洞察。\n\n### **洞察一：AI基础设施的“弹性”与“脆弱性”并存，服务可靠性成为关键战场**\n\n**详细分析：**\n今日动态中，@joshwoodward 关于Gemini服务中断的通报（“Heads up: Gemini is currently experiencing an outage”）和随后的恢复更新，直击了当前AI行业的核心痛点——基础设施的可靠性。这并非孤立事件。随着AI应用渗透到企业核心业务流程，任何服务的“抖动”都可能带来巨大的商业损失和用户信任危机。\n*   **脆弱性来源**：大模型的训练和推理需要消耗巨大的算力资源，而模型的复杂性和新兴的技术栈（如AI网关、向量数据库）增加了系统的不稳定性。微小的配置错误、突发流量或硬件故障都可能导致连锁反应。\n*   **弹性需求**：用户和企业对AI服务的“可用性”预期已经向传统云服务看齐（如99.9%甚至99.99%的SLA）。这意味着AI公司必须投入大量资源构建冗余、故障转移和快速恢复机制。@joshwoodward 的快速响应和“Some of the fixes are in, the rest coming very soon”体现了当前行业对快速恢复常态的重视。\n*   **市场信号**：服务可靠性正在从“加分项”变成“门票”。对于Builders而言，评估一个AI平台，其稳定性和SLA承诺将与模型能力本身同等重要。这也催生了AI基础设施监控、可观测性等细分领域的创业机会。\n\n### **洞察二：“代理（Agent）”经济爆发，从“对话工具”跃迁至“自主执行者”**\n\n**详细分析：**\n多个动态共同指向一个趋势：AI正从被动响应的“问答机器”进化到主动执行的“自主代理”。\n*   **代码代理成熟化**：@thsottiaux 观察到Codex token消耗在过去48小时非产品更新期却出现大幅增长，@petergyang 报告“The more I use Codex the more ambitious my requests get”，@amasad 展示了用Replit自动化工作搜索的案例。这些强烈信号表明，AI编码代理(Claude Codex, Cursor，Replit Agent)已从玩具变得足够可靠，用户开始信任它们完成复杂的、端到端的长期任务，从而大幅提升了token消耗和使用深度。\n*   **非编码代理兴起**：@zarazhangrui 明确指出“People should build agents/skills for their cross-functional teams”，并举了设计团队为市场团队构建设计代理的例子。这证明代理的应用场景正在快速从开发领域扩展到产品、设计、市场、法务等所有职能部门。企业正从购买“单一资产”（如一张图片）转向购买“生成资产的代理”（如一个能持续产出符合品牌规范设计的文件夹）。\n*   **形态变化**：代理经济的核心是“价值交付方式的转变”。正如 @zarazhangrui 引用的“Get paid for your mind, not your hands”，未来的企业软件和服务的交付物将不再是静态的结果，而是能够自主执行任务、持续产生价值的“智能代理”。\n\n### **洞察三：AI原生初创公司“内循环”加剧，但“向下渗透”已成必然趋势**\n\n**详细分析：**\n@zarazhangrui 的观察“It seems like most startups in San Francisco are selling products to each other”并指出90%的创业公司以“工程和产品团队、AI原生公司”为目标客户，揭示了当前AI生态的典型特征。\n*   **“内循环”现象**：目前，AI创新主要集中在旧金山等核心地带，且产品和服务多流向其他AI原生企业。这形成了一个高效但相对封闭的创新生态。Builders（如Code with Claude Tokyo的参与者、Vercel的客户）构成了第一波高级用户和付费客户。\n*   **必然的下沉**：@danshipper 的预测“Higher productivity from each individual employee with AI, makes it appealing to reshore certain jobs back to the US”点明了关键驱动力：AI带来的生产力飞跃，使得之前因成本外流的岗位（如客户支持、数据分析）变得有经济动力回流美国。这表明，AI的应用正在重塑更广泛的商业格局。\n*   **战略意义**：AI公司的成功不再仅限于服务好硅谷的同行。真正的爆发机会在于那些能够帮助传统行业（如制造业、金融、医疗）和广大中小企业实现AI转型的产品。谁能率先打破“内循环”，建立起从“AI公司-开发者”到“企业-最终用户”的桥梁，谁就能占领下个阶段的战略高地。@levie (Box CEO) 关于Fable在复杂知识工作任务中取得巨大进步的判断，正是这一趋势的有力佐证。\n\n### **洞察四：AI正重塑“知识工作者”的定义，效率鸿沟加速拉大**\n\n**详细分析：**\n从 @levie 的“huge jumps in capability for Fable across coding and related tasks” 到 @danshipper 的“fable maxxing on the plane”，再到 @trq212 用Fable自主编辑视频，这些都指向一个事实：AI正在深刻改变“个体如何工作”。\n*   **超级个体崛起**：一个人借助AI，可以胜任过去需要一支团队才能完成的工作。例如，一个人+AI编码代理可以完成从需求分析到代码部署的全过程；一个人+AI视频编辑代理可以完成从转录、调色到剪辑的完整流程。这是“杠杆的倍增”，而非简单的效率提升。\n*   **知识工作者的“再定义”**：传统知识工作者的价值在于信息处理和执行能力。而AI正在将“执行”部分自动化。未来的"
+  "summary": "以下是对今日 **AI Builders Digest（2026年06月14日）** 的深度分析，提炼出 **5个核心洞察**：\n\n---\n\n**洞察一：AI 开发进入“后代码审查”时代，Git 本身可能被颠覆**\n\n多位 builder 的发言暗示，传统的软件开发流程（PR、代码审查、Git 版本控制）正在被 AI 原生工作流挑战。Swyx 直言：“当 PR 消亡、代码审查消亡之后，我认真在思考 Git 是否也该消亡。” 同时，Peter Steinberger 提到“几乎跟不上大家提交的 Issue/PR，Codex 在 crabbox 内运行并构建它”，说明 AI Agent 已经能够自主处理大量代码变更，人类审查者成了瓶颈。\n\n**深度解读：** 当 AI 在“无代码”或“少代码”环境中自主编写、测试、修复代码时，Git 的“变更记录-审查-合并”模式显得过于笨重。开发者正在从“编写代码”转向“定义意图与约束”，这意味着版本管理可能进化为“意图追踪系统”或“行为日志”，而非传统文件级 diff。这对于企业 DevOps 团队而言，意味着安全策略、合规审计和协作流程需要完全重写。\n\n> 相关引用：Swyx、Peter Steinberger、Guillermo Rauch（“HTML 又回来了。拖拽就行。”）\n\n---\n\n**洞察二：AI 访问权限与身份验证成为新战场，模型资源正变得“排他”**\n\nPeter Yang 连续发出三条关于“身份验证”和“服务暂停”的警告，指出“访问最佳模型很快将需要身份验证”，并震惊于“暂停 Fable 对‘所有在美外国人’的服务”。Amjad Masad 也提到“听起来我们得关闭 Fable 的访问权限了”，同时企业客户开始要求“Tokenmaxxing 排行榜”。\n\n**深度解读：** 顶级模型的 API 访问正在从“开放注册”转向“基于身份、地域、信用或贡献度的限制”。这背后有两个驱动：一是模型推理成本依然高昂，服务商需要筛选高价值用户；二是监管压力（尤其在美国）要求对尖端 AI 能力进行出口或国籍限制。对创业者而言，这既是风险（可能被突然断供），也是机会：谁能提供“无需身份验证、低成本、本地化”的替代方案，谁就能获得市场红利。\n\n> 相关引用：Peter Yang、Amjad Masad、Aaron Levie（“AI 监管的重大转折点”）\n\n---\n\n**洞察三：构建者与用户之间的“信任与可见度”取代传统营销**\n\nZara Zhang 观察到：“每天至少有三个创业者让我试用他们的 AI 新产品……爆款产品的创始人看得见、听得见，人们向人购买。” 这与 Dan Shipper 的“这严重打乱了我的周末计划，我可能得见人了”形成呼应——开发者正在从“远程推代码”转向“主动与用户建立人性化连接”。\n\n**深度解读：** AI 产品，尤其是 Agent 和 Copilot 类工具，信任门槛极高。用户需要确认 AI 不会摧毁他们的工作流。因此，创始人亲自在 X/Twitter 上互动、分享失败与修复过程、甚至在用户留言下直接回复，正在成为获客的最有效手段。“人的可见度”比“品牌声量”更重要。对于初创公司，这意味着创始人必须成为首席销售与支持工程师，而非躲在 PR 后面。\n\n> 相关引用：Zara Zhang、Dan Shipper、Garry Tan（“人人都以为 AI 编程工具解放了创始人”）\n\n---\n\n**洞察四：AI 从“辅助工具”进化为“联合创建者”，人类开始追赶 AI 的输出**\n\nAlex Albert 惊叹“Fable 在处理长智能体对话时简直超人类，有时甚至让我跟不上它在说什么”。Peter Steinberger 也在抱怨“几乎跟不上 PR/Issue 提交速度”。同时，Madhu Guru 用“双手手动打字完成了整个文档”来调侃自己——这在今天已经成了“复古操作”。\n\n**深度解读：** AI Agent（如 Fable、Codex、HarnessAgent）正在从“帮你改一行代码”进化到“运行复杂多轮对话、自主调度系统、甚至撰写长篇技术文档”。人类开发者面临一个新挑战：**不是 AI 太慢，而是我们跟不上 AI 的节奏。** 这意味着未来的开发流程必须包含“AI 输出审查层”和“减速阀”，否则代码库可能被自动生成的代码淹没，导致技术债务失控。企业需要引入“AI 输出速率管理”与“可溯源的自动审批队列”。\n\n> 相关引用：Alex Albert、Peter Steinberger、Guillermo Rauch（“HarnessAgent 统一抽象层”）\n\n---\n\n**洞察五：开发者社区正在形成“AI 原生创业与投资”的全新循环**\n\nAditya Agarwal 宣布“非常激动地欢迎 Ryan Atkins 加入团队成为合伙人”，同时 Garry Tan 为 Datacurve（YC W24）打造的“DeepSWE 基准”感到自豪。Amjad Masad 则说“如果你在 Replit 上赚钱，就能获得免费积分！”——这形成了一个闭环：用 AI 写代码 → 赚钱 → 获得更多 AI 算力 → 写更复杂的 AI 代码。\n\n**深度解读：** 投资人正在主动押注“AI 原生开发公司”，而不仅仅是“AI 应用公司”。Datacurve 的 DeepSWE 基准试图成为“编程版 ImageNet”，衡量 AI 在真实软件工程中的能力。Replit 的激励计划则让“用 AI 赚钱”成为可能，直接降低了创业者的硬成本。这是自 2023 年“Copilot 热潮”以来，第一次出现**从工具层到经济层再到融资层的完整闭环**。对创业者而言，这意味着：**不需要融资也可以跑通早期商业循环**，前提是你熟练运用 AI 编程工具。\n\n> 相关引用：Aditya Agarwal、Garry Tan、Amjad Masad\n\n---\n\n**总结：今日 Digest 的核心信号**\n\n| 洞察 | 关键词 | 影响对象 |\n|------|--------|----------|\n| Git 可能被颠覆 | 后代码审查、意图追踪 | 工程团队、DevOps 平台 |\n| 模型访问排他化 | 身份验证、地域封锁 | 创业者、AI 基础设施 |\n| 创始人可见度即营销 | 信任、人设、用户关系 | 初创公司 CEO、产品经理 |\n| 人类跟不上 AI 输出 | 联合创建、输出审查 | 技术领导者、合规官 |\n| AI 原生闭环 | 赚钱换算力、新基准 | 独立开发者、风险投资人 |\n\n这些趋势表明：**AI 行业正在从“技术竞赛”转向“制度设计 + 社区建设 + 商业闭环”的综合竞争。** 谁能最快适应并利用这些变化，谁就能在下半年占据先机。"
 }
