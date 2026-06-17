@@ -1,118 +1,162 @@
 {
-  "date": "2026-06-16T12:00:00.000Z",
-  "date_cn": "2026年06月16日",
-  "count": 10,
+  "date": "2026-06-17T12:00:00.000Z",
+  "date_cn": "2026年06月17日",
+  "count": 14,
   "tweets": [
+    {
+      "username": "mattturck",
+      "builder": {
+        "name": "Matt Turck",
+        "site": "VC @ FirstMark · MAD Podcast Host"
+      },
+      "title": "OpenAI 的 Dan Roberts：为什么人工智能现在可以做出发现",
+      "desc": "OpenAI's Dan Roberts: Why AI Can Now Make Discoveries",
+      "link": "https://www.youtube.com/watch?v=oWOz2htozfI",
+      "pubDate": "2026-06-04T12:30:00.000Z"
+    },
+    {
+      "username": "joshwoodward",
+      "builder": {
+        "name": "Josh Woodward",
+        "site": "VP @ Google Labs / Gemini"
+      },
+      "title": "Gemini 可信测试员计划开放申请：抢先体验未发布功能",
+      "desc": "Want unreleased @GeminiApp features before anyone else? Love breaking, testing, and shaping new tech?\n\nWe're opening a limited number of slots for power users to join the Gemini Trusted Tester program.\n\nSign up here: https://t.co/kSsRsavJPv https://t.co/6sxYCb8S0y",
+      "link": "https://x.com/joshwoodward/status/2066664862671921259",
+      "pubDate": "2026-06-15T23:31:14.000Z"
+    },
+    {
+      "username": "joshwoodward",
+      "builder": {
+        "name": "Josh Woodward",
+        "site": "VP @ Google Labs / Gemini"
+      },
+      "title": "Gemini 麦克风图标大幅改进：支持70+语言，自由混合，无需切换设置",
+      "desc": "Our mic icon just got way better on Android and iOS! This is HUGE for non-English speakers.\n\n+ now 70+ languages\n+ mix languages freely\n+ don't have to change language settings\n+ still doesn't interrupt you :) https://t.co/KQuUyC52fl",
+      "link": "https://x.com/joshwoodward/status/2066673011554435450",
+      "pubDate": "2026-06-16T00:03:37.000Z"
+    },
+    {
+      "username": "petergyang",
+      "builder": {
+        "name": "Peter Yang",
+        "site": "AI Builder & Educator"
+      },
+      "title": "Codex浏览器使用体验出色，几乎让人忘记API的存在",
+      "desc": "Codex browser use is so good that it almost makes me forget APIs are even needed",
+      "link": "https://x.com/petergyang/status/2066753125197967653",
+      "pubDate": "2026-06-16T05:21:58.000Z"
+    },
     {
       "username": "amasad",
       "builder": {
         "name": "Amjad Masad",
-        "site": "CEO @Replit"
+        "site": "CEO @ Replit"
       },
-      "title": "Satya 提出的企业 AI 正向愿景：构建学习循环而非仅选择最佳模型",
-      "desc": "This is the most inspiring positive-sum vision for AI in the enterprise. Satya on loops as IP: the real opportunity is not in picking the best model but instead in building a learning loop on top of models where human capital and token capital compound.",
-      "link": "https://x.com/amasad/status/2066195933969412098",
-      "pubDate": "2026-06-14T16:27:53.000Z"
+      "title": "有了 Mistral 的 Le Chaton Fat，谁还需要 Fable？",
+      "desc": "Who needs Fable when you can have Mistral’s Le Chaton Fat",
+      "link": "https://x.com/amasad/status/2066700847187140655",
+      "pubDate": "2026-06-16T01:54:14.000Z"
     },
     {
-      "username": "thsottiaux",
+      "username": "amasad",
       "builder": {
-        "name": "Thibault Sottiaux",
-        "site": "Codex & ChatGPT @OpenAI"
+        "name": "Amjad Masad",
+        "site": "CEO @ Replit"
       },
-      "title": "Codex 现可自行设定目标：Agent 工具的元提示泛化",
-      "desc": "Codex can see and set its own /goal. Everything we build, we build also as a tool for the agent. This is a generalization of meta prompting, where you let the agent set its own task based on your intent.",
-      "link": "https://x.com/thsottiaux/status/2066270561081454989",
-      "pubDate": "2026-06-14T21:24:25.000Z"
-    },
-    {
-      "username": "levie",
-      "builder": {
-        "name": "Aaron Levie",
-        "site": "CEO @Box"
-      },
-      "title": "企业 AI 架构的关键：将独特 IP 和数据转化为可复利的学习系统",
-      "desc": "The companies that are able to get their unique IP, institutional knowledge, and data into a format and architecture that lets them capture all of the gains and progress in AI are going to be in the best position in the future. A company should be able to switch out a generalist model without losing the company veteran expertise built into their learning system.",
-      "link": "https://x.com/levie/status/2066237607244427761",
-      "pubDate": "2026-06-14T19:13:29.000Z"
-    },
-    {
-      "username": "levie",
-      "builder": {
-        "name": "Aaron Levie",
-        "site": "CEO @Box"
-      },
-      "title": "开源权重模型将成为最大赢家：模型可被撤回的先例与地缘政治影响",
-      "desc": "The big winner in all of this is going to be open weights models. If at any moment a model can become unavailable to your country's users or businesses, this poses very real risk on relying on technology from a particular country. America should be doing a ton more OSS innovation.",
-      "link": "https://x.com/levie/status/2066167615618466060",
-      "pubDate": "2026-06-14T14:35:21.000Z"
-    },
-    {
-      "username": "garrytan",
-      "builder": {
-        "name": "Garry Tan",
-        "site": "President & CEO @Y Combinator"
-      },
-      "title": "开源是企业长期掌控自身命运的逃生舱",
-      "desc": "Open source is the escape hatch for businesses to be able to continue to control their own destiny long term.",
-      "link": "https://x.com/garrytan/status/2066307697574862905",
-      "pubDate": "2026-06-14T23:51:59.000Z"
-    },
-    {
-      "username": "garrytan",
-      "builder": {
-        "name": "Garry Tan",
-        "site": "President & CEO @Y Combinator"
-      },
-      "title": "新一代改变世界的人将是多阶段多团队 Agent 任务的高手",
-      "desc": "The next generation of young people who change the world will almost certainly be the people who are most adept at making long-running multi-stage multi-team agent tasks work extremely well, and at high volume and across every part of their personal and work lives.",
-      "link": "https://x.com/garrytan/status/2066269412391637050",
-      "pubDate": "2026-06-14T21:19:52.000Z"
-    },
-    {
-      "username": "swyx",
-      "builder": {
-        "name": "Swyx",
-        "site": "@Cognition / @LatentSpacePod"
-      },
-      "title": "Anthropic Ultracode 的潜力：智能子程序与动态工作流的并行化",
-      "desc": "Havent seen many people outside Anthropic ultracode yet. This thing is scarily good at burning tokens but you need to set up your repo to parallelize properly to make use of the fanout that subagents are best at. Basically the idea is subroutines but intelligent.",
-      "link": "https://x.com/swyx/status/2066415484149633329",
-      "pubDate": "2026-06-15T07:00:18.000Z"
+      "title": "Replit 推出领域特定代理：增长代理发现SEO问题，安全代理发现漏洞",
+      "desc": "I absolutely love Replit’s domain-specific agents:\n\n- growth agent surfacing SEO issues\n- security agent surfacing potential vulnerabilities\n\nMy favorite thing is: select all, fix with Agent. https://t.co/7TrK2UpNXQ",
+      "link": "https://x.com/amasad/status/2066683949129330817",
+      "pubDate": "2026-06-16T00:47:05.000Z"
     },
     {
       "username": "rauchg",
       "builder": {
         "name": "Guillermo Rauch",
-        "site": "CEO @Vercel"
+        "site": "CEO @ Vercel"
       },
-      "title": "Vercel 技能市场突破 70 万：完全社区驱动的开放 AI 生态",
-      "desc": "https://v0.dev has passed 700,000 skills. wild! all organic and community-driven. the open AI ecosystem!",
-      "link": "https://x.com/rauchg/status/2066299732277031042",
-      "pubDate": "2026-06-14T23:20:20.000Z"
+      "title": "v0 承诺默认提供最佳技能：每次提示都相当于Vercel产品工程师的专业指导",
+      "desc": "v0 commits to shipping the best skills by default. \n\nOur goal is to give you the equivalent of a @vercel product engineer like @shuding and @shadcn on each prompt.\n\nBut you can also now grab any skill from https://t.co/pYz1Gn97jD or add your team’s private set. https://t.co/s2tHUBYNC4",
+      "link": "https://x.com/rauchg/status/2066567117562868009",
+      "pubDate": "2026-06-15T17:02:50.000Z"
     },
     {
-      "username": "zarazhangrui",
+      "username": "rauchg",
       "builder": {
-        "name": "Zara Zhang",
-        "site": "Builder"
+        "name": "Guillermo Rauch",
+        "site": "CEO @ Vercel"
       },
-      "title": "制作好技能的方法：先做 20 次再让 AI 封装，而非一开始就写说明书",
-      "desc": "You don't make a good skill by writing a skill. You make it by doing the thing, fixing it 20 times, then telling the AI to bottle up everything you just did.",
-      "link": "https://x.com/zarazhangrui/status/2066388749244854771",
-      "pubDate": "2026-06-15T05:14:04.000Z"
+      "title": "沙箱、函数、服务器、构建：2026年是无服务器与服务器最终融合的一年",
+      "desc": "A sandbox\nA function\nA server\nA build \n\nAre you getting it!? These are all expressions of the same underlying compute infrastructure.\n\nWith tweaks to load balancing, concurrency, persistence, overcommit…\n\n2026 is the year serverless and servers finally converge. With no gotchas",
+      "link": "https://x.com/rauchg/status/2066556235961237826",
+      "pubDate": "2026-06-15T16:19:36.000Z"
     },
     {
-      "username": "danshipper",
+      "username": "rauchg",
       "builder": {
-        "name": "Dan Shipper",
-        "site": "CEO @Every"
+        "name": "Guillermo Rauch",
+        "site": "CEO @ Vercel"
       },
-      "title": "Fable 宣布免费开放",
-      "desc": "FREE FABLE",
-      "link": "https://x.com/danshipper/status/2066217865943093514",
-      "pubDate": "2026-06-14T17:55:02.000Z"
+      "title": "Vercel 函数运行时间大幅延长：基于自研 Fluid 微虚拟机计算基础设施",
+      "desc": "One of our most requested features, longer Vercel function runtime, is here.\n\nWhat looks like an innocent tweak of a constant… is actually the conclusion a multi-year compute platform investment.\n\nBuilds, Sandbox, and now Functions run on our homegrown microVM-based Fluid compute infrastructure.\n\nThis investment has enabled innovations like function multi-concurrency, Active CPU pricing, and Secure Compute for private connectivity to existing cloud workloads… with lots more to come, in fact, in the coming days and weeks 😎",
+      "link": "https://x.com/rauchg/status/2066553521978097921",
+      "pubDate": "2026-06-15T16:08:49.000Z"
+    },
+    {
+      "username": "levie",
+      "builder": {
+        "name": "Aaron Levie",
+        "site": "CEO @ Box"
+      },
+      "title": "AI 未来关键在于智能的可定制性，而非模型规模",
+      "desc": "Key post that gives a bit of insight into what the future of AI could look like.\n\n“The most interesting thing happening in AI isn't that one model is getting smarter. It's that intelligence is becoming increasingly customizable. The companies that win won't necessarily be the ones with the biggest models. They'll be the ones that turn intelligence into something uniquely their own.”\n\nThe ability to combine your unique data, workflows, and a layer that can route intelligence to whatever model best performs the task is clearly the future.",
+      "link": "https://x.com/levie/status/2066735879213994434",
+      "pubDate": "2026-06-16T04:13:26.000Z"
+    },
+    {
+      "username": "levie",
+      "builder": {
+        "name": "Aaron Levie",
+        "site": "CEO @ Box"
+      },
+      "title": "Aaron Levie 论 AI 监管：重点应放在应用层面而非模型预审",
+      "desc": "It’s very easy to say “we need an FDA for AI” or some equivalent government agency. Well this is what that would look like.\n\nThe capabilities of AI models have near infinite permutations. It’s going to be very hard have a purely objective set of metrics that can be universally applied before every model release, without extended back and forth, research, and debate between model labs, academics, and the government. \n\nNow, imagine this same process with every country that you’re doing business with, globally, for every single model release. Add in a backlog of dozens of AI model releases, and you can quickly see how in the limit this will dramatically slow down all AI progress. \n\nThis is why we need to primarily focus on regulating the applied uses of AI, where the risk actually shows up.",
+      "link": "https://x.com/levie/status/2066554018953146689",
+      "pubDate": "2026-06-15T16:10:47.000Z"
+    },
+    {
+      "username": "levie",
+      "builder": {
+        "name": "Aaron Levie",
+        "site": "CEO @ Box"
+      },
+      "title": "开源必将大获全胜",
+      "desc": "Open source going to win big https://t.co/qYcpy56OmT",
+      "link": "https://x.com/levie/status/2066526720480690221",
+      "pubDate": "2026-06-15T14:22:19.000Z"
+    },
+    {
+      "username": "steipete",
+      "builder": {
+        "name": "Peter Steinberger",
+        "site": "Open Source Builder · ClawFather"
+      },
+      "title": "clawsweeper：自动审核开源项目Issue并创建PR的AI代理",
+      "desc": "Whenever you create an issue on one of oure open source projects, @clawsweeper will review it, and *if* it fits the VISION.md file, will pick it up and create+autoreview a PR.\n\ne.g.: https://t.co/Q4xOh8RFVp",
+      "link": "https://x.com/steipete/status/2066457262571360396",
+      "pubDate": "2026-06-15T09:46:18.000Z"
+    },
+    {
+      "username": "anthropic",
+      "builder": {
+        "name": "Anthropic",
+        "site": "Claude Team"
+      },
+      "title": "Claude Managed Agents 新增功能：Dreaming、Outcomes 和多代理编排",
+      "desc": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
+      "link": "https://claude.com/blog/new-in-claude-managed-agents",
+      "pubDate": "May 06, 2026"
     }
   ],
-  "summary": "以下是基于今日Digest的 **5个核心洞察**，结合行业趋势与企业AI战略进行深度解读：\n\n---\n\n### **洞察一：企业AI战略正从“模型选择”转向“学习循环”——“人力资本”与“Token资本”的复利效应是核心**\n\n**内容：**\nAmjad Masad (Replit CEO) 与 Aaron Levie (Box CEO) 都一致指出，企业的真正机会不在于挑选“最好的模型”，而在于构建 **“学习循环”** 系统。这个系统应能将企业内部的人类专家经验（人力资本）与模型推理/训练所消耗的计算资源（Token资本）进行持续的复利叠加。换言之，企业不应该只是把AI当作一个静态的API调用，而应将其视为一个不断吸收内部知识、反馈与试错结果的“活系统”。Aaron Levie特别强调，当企业切换到下一个通用模型时，之前积累的“老兵经验”不能丢失——这意味着数据、微调、评估链和Prompt工程本身必须模型不可知（model-agnostic）。\n\n**深度解读：**\n- **“护城河”转移：** 过去，企业护城河是数据；未来，护城河是“反馈循环速度”。谁能让AI更快地从每一次失败和成功中学习、将人类决策转化为Token化的“条件反射”，谁就拥有动态优势。\n- **技术实现挑战：** 这要求企业建立“元数据层”与“评估管道”，将每一次用户交互、代码修改、业务流程调整回注到训练或微调流程中。这远比选择一个基础模型要复杂，但它构建的是不可复制的系统级壁垒。\n\n---\n\n### **洞察二：AI Agent架构进入“元提示”与“自设定目标”阶段——Codex成为Agent的工具生成器**\n\n**内容：**\nThibault Sottiaux (OpenAI Codex & ChatGPT) 透露了Codex的进化：“Agent工具的元提示泛化”。这意味着Codex不仅是一个单轮的代码生成工具，它现在能动态设定自己的“/goal”，并将一切构建成Agent可用的工具。这本质上是将“元提示”（meta prompting）概念泛化：Agent不仅会执行任务，还会创造完成未来任务所需的子工具。这标志着AI从“工具使用者”向“工具发明者”的转变。\n\n**深度解读：**\n- **编程范式的根本变革：** 这将催生出“自建库”的Agent。Agent在解决复杂问题时，会实时编写、封装并调用被称为“智能子程序”（如Swyx提到的Anthropic Ultracode概念）的模块。这就像人类程序员创建函数库，但由AI自动化。\n- **规模化复杂度管理：** 对于企业而言，这意味着对“多阶段多团队Agent任务”的管理能力（Garry Tan观点）将成为核心竞争力。未来最稀缺的不是写代码的人，而是能设计并Agent任务编排架构的人。\n\n---\n\n### **洞察三：开源权重模型成为地缘政治风险的“逃生舱”——企业技术主权决定AI采购策略**\n\n**内容：**\nAaron Levie 与 Garry Tan (Y Combinator CEO) 共同预警了依赖单一国家或闭源模型的系统性风险。Levie指出，如果模型随时可能因政策、制裁或商业决策变得对“你的国家用户或企业不可用”，那么技术依赖就是政治风险。Garry Tan则直接定义：开源就是企业的“逃生舱”，是长期掌控自身命运的唯一途径。这解释了为何硅谷顶级CEO们集体力推开源权重模型，甚至愿意牺牲部分性能来换取“可被撤回的豁免权”。\n\n**深度解读：**\n- **战略对冲的现实选择：** 这不仅是技术偏好，更是地缘政治应对策略。我们看到，即使是采用闭源API的企业，也在内部建立开源模型的冗余副本（“影子部署”），以备不时之需。\n- **行业洗牌信号：** 这预示着一个“多云+多模型”的企业AI基础设施将常态化。模型提供商之间的竞争，将从“谁更智能”转移到“谁更可用、更独立、更不可撤回”。开源模型，特别是权重不被锁定的模型，将获得大规模的企业信任溢价。\n\n---\n\n### **洞察四：社区驱动的开放AI生态（如Vercel v0技能市场）证明：低门槛的“先做20次”比“精准提示”更能产生爆发式增长**\n\n**内容：**\nVercel CEO Guillermo Rauch 宣布v0.dev的技能市场突破70万，且全是自发社区驱动。这与Zara Zhang的观点形成完美呼应：“制作好技能的方法就是先做20次，再让AI封装，而不是一开始写说明书。” 这意味着：成功的AI应用落地，关键不在于初始Prompt的精准度，而在于快速试错与经验封装。70万技能不是凭空设计出来的，而是开发者通过大量重复实践，提炼出的“行为瓶装物”。\n\n**深度解读：**\n- **从“提示工程”到“行为工程”：** AI技能的本质是对高频行为的封装。Zara的方法论揭示了“隐性知识”的数字化路径——让AI学会你“无数次重复后的本能”，而不是“百思后的规则”。\n- **生态飞轮：** v0的成功证明，一个开放、允许低门槛投稿和迭代的AI技能市场，其增长速度远超集中式、评审制的平台。这为其他AI平台提供了关键产品设计启示：**降低创作成本，提高复现频率**。"
+  "summary": "好的，作为一名AI行业分析师，基于您提供的2026年6月17日的行业Digest，我提炼出以下5个核心洞察：\n\n### **洞察一：AI从“生成工具”迈向“发现引擎”与“自主代理”，能力边界发生质变**\n\n**内容：**\n今日Digest中最具战略意义的信号，是AI能力的重点正从“内容生成”转向“科学发现”与“自主行动”。OpenAI的Dan Roberts提出了“AI Now Can Make Discoveries”这一论断，暗示着大型语言模型（LLM）不再仅仅是被动响应指令的聊天机器人或内容生产工具，而是开始具备主动探索、关联信息、提出新假说（或发现）的潜力。这种能力的跃迁，将AI从“副驾驶”（Copilot）逐步推向“首席科学家”或“独立研究员”的角色。\n\n与此同时，以Anthropic和Replit为代表的公司，正在快速推进“自主代理”（Autonomous Agents）的落地。Anthropic为Claude Managed Agents新增了“Dreaming”（自主构思与探索）、“Outcomes”（以结果为导向的任务执行）和多代理编排能力，这不再是简单的任务分解，而是赋予了AI构想目标、规划路径并协同工作的能力���Replit则更进一步，推出了针对特定领域的“增长代理”和“安全代理”，这些代理不是等待指令，而是主动扫描代码库、发现SEO问题或安全漏洞，并具备“全选，让代理修复”的一键式操作能力。这表明，AI代理已经度过了“能走”的阶段，进入了“能跑、能干活、甚至能发现意外问题”的新阶段。\n\n**深度分析：**\n这一趋势意味着企业评估AI价值的标尺必须重塑。过去衡量AI的指标是“生成速度”和“内容质量”；未来，衡量指标将变为“发现的新知数量”和“自主解决的复杂问题数量”。对于企业来说，竞争壁垒不再是“谁部署了AI”，而是“谁能让AI在经济损失发生之前，主动发现并修复漏洞”或“谁能让AI在实验室内迭代出新的配方、材料或算法”。这将对软件工程、生物医药、材料科学、金融风控等行业的研发范式产生颠覆性影响。\n\n### **洞察二：基础设施革命——无服务器与服务器架构在2026年走向“终极融合”，云计算的底层逻辑被重写**\n\n**内容：**\nVercel CEO Guillermo Rauch 的系列发言揭示了2026年一个关键的基础设施趋势：无服务器（Serverless）和传统服务器（Serverful）之间的界限正在消失。他明确提出“沙箱（Sandbox）、函数（Function）、服务器（Server）、构建（Build）都是同一底层计算基础设施的不同表达”，2026年正是两者“最终融合”的一年。支撑这一论断的，是Vercel自研的基于微虚拟机（microVM）的“Fluid”计算基础设施。\n\n这一变革带来了实质性的产品突破：Vercel函数运行时间的大幅延长、以及函数多并发（Multi-concurrency）、活动CPU计价（Active CPU pricing）和安全计算（Secure Compute）等创新特性。这些特性直击了过去无服务器架构的痛点（如冷启动耗时长、运行时间限制死板、成本难以预测、与现有云环境隔离），通过统一的底层架构，让开发者既能享受无服务器的即时弹性和免运维优势，又能获得传统服务器的高性能、长进程和可预测性。\n\n**深度分析：**\n这不仅仅是Vercel一家的技术迭代，它代表了整个云计算行业对“计算抽象”的终极追求。当无服务器不再意味着“轻量、偶尔、短暂”，而是可以承载复杂的、长时间的、甚至是有状态的工作负载时，开发者的技术选型将彻底被简化。他们不再需要纠结“我应该用Lambda跑AI推理，还是应该在EC2上开个GPU实例？”因为底层基础设施已经将它们统一。这预示着云计算的赢家，将是那些能提供最无缝、最统一的“计算原语”的平台。对于应用开发者而言，技术债务和运维复杂性将大幅降低，可以更专注于业务逻辑本身。\n\n### **洞察三：AI平台争夺战进入“技能/代理”生态化阶段，从“通用模型”转向“可定制的专家智能”**\n\n**内容：**\n当基础模型的能力趋于同质化时，竞争焦点已转向如何让AI“好用”且“专精”。Vercel的v0提出了一个极具野心的目标：承诺为每次提示（Prompt）提供“最佳技能”（Best Skills by Default），目标是让每个新手用户都相当于拥有一个顶级Vercel产品工程师在旁指导。v0从“一个工具”进化为“一个技能市场”，用户可以从中心化技能库选取，或上传团队私有技能。\n\n与此同时，Box CEO Aaron Levie 的观点一针见血：“最有趣的事情不是一个模型变得更聪明，而是智能正在变得‘可定制化’。获胜的公司将不是那些拥有最大模型的公司，而是那些能将智能转化为自身独特资产的公司。”他强调了将“独特数据、工作流和路由层”结合的重要性，这正是“技能/代理”生态的核心——通用模型提供基础能力，而精确的、定制化的“技能”或“代理”让模型在特定场景下表现出专家级的性能。\n\n**深度分析：**\n这标志着AI平台之战已从“拼参数、拼基准测试”的军备竞赛，转变为“拼开发生态、拼工具链、拼‘开箱即用’的高质量产出”。一个平台能否吸引开发者为其构建特定领域的“技能”或“代理”，将决定其生死。对于企业用户而言，这意味着“AI转型”的实现路径变得清晰：不再需要自己从零训练大模型，而是选择一个强大的AI平台，然后通过采购或自建“"
 }
