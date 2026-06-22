@@ -1,0 +1,184 @@
+{
+  "date": "2026-06-22T12:00:00.000Z",
+  "date_cn": "2026年06月22日",
+  "count": 16,
+  "tweets": [
+    {
+      "username": "thsottiaux",
+      "builder": {
+        "name": "Thibault Sottiaux",
+        "site": "Codex & ChatGPT @OpenAI"
+      },
+      "title": "我们用前端性能尚可的模型构建了 Codex 应用。等我们最终大幅提升模型的前端能力后，看看能做出什么来。那一天将会非常精彩。",
+      "desc": "We built the Codex App with models that were okayish at front-end.  Wait to see what we can do when we finally improve front-end capabilities significantly in our models. That day will be something.",
+      "link": "https://x.com/thsottiaux/status/2068568650924409260",
+      "pubDate": "2026-06-21T05:36:13.000Z"
+    },
+    {
+      "username": "thsottiaux",
+      "builder": {
+        "name": "Thibault Sottiaux",
+        "site": "Codex & ChatGPT @OpenAI"
+      },
+      "title": "有些token比其他token更有价值。其中一些最有价值的token可以在 Codex 应用中找到。",
+      "desc": "Some tokens work harder than others. Some of the most valuable ones are found in the Codex app.",
+      "link": "https://x.com/thsottiaux/status/2068443037907522002",
+      "pubDate": "2026-06-20T21:17:04.000Z"
+    },
+    {
+      "username": "petergyang",
+      "builder": {
+        "name": "Peter Yang",
+        "site": "Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co/XYKTmGVH14"
+      },
+      "title": "我要唱反调了，我觉得我花200美元订阅的Codex和Claude都还没用完，所以我觉得尝试本地模型没什么意义……而且，在本地运行最新的glm需要512MB的空间，这……",
+      "desc": "I will go against the grain and say I can barely use up my Codex and Claude $200 subscriptions so I don’t see the point of trying local models…  Also to try the latest glm locally requires 512 mb which is like a $10K Max Studio?",
+      "link": "https://x.com/petergyang/status/2068411894185295969",
+      "pubDate": "2026-06-20T19:13:19.000Z"
+    },
+    {
+      "username": "thenanyu",
+      "builder": {
+        "name": "Nan Yu",
+        "site": "head of product @linear"
+      },
+      "title": "嘿，@Outlook 和 @gmail 的开发者们，你们可以把这条推文发给你们的AI 代理，他们会帮你们解决这个问题。",
+      "desc": "Hey devs at @Outlook and @gmail you can point your agents at this tweet and they will fix it for you",
+      "link": "https://x.com/thenanyu/status/2068396602973143274",
+      "pubDate": "2026-06-20T18:12:33.000Z"
+    },
+    {
+      "username": "realmadhuguru",
+      "builder": {
+        "name": "Madhu Guru",
+        "site": "Prev: Product Leader at Google - Gemini, Veo, Nano Banana."
+      },
+      "title": "产品经理的角色也面临着身份认同危机。工程团队已经找到了与人工智能原生兼容的界面——软件工程师代理极大地提升了个人影响力。公司要求产品经理使用人工智能，但他们……",
+      "desc": "The Product role is having an identity crisis too.  Engineering has found its AI-native interface - SWE agents dramatically increase individual leverage. Companies are asking PMs to use AI, but they haven't evolved the role.  So there are two camps.  The old-school PM. AI acceler",
+      "link": "https://x.com/realmadhuguru/status/2068350509027876876",
+      "pubDate": "2026-06-20T15:09:24.000Z"
+    },
+    {
+      "username": "amasad",
+      "builder": {
+        "name": "Amjad Masad",
+        "site": "ceo @replit. civilizationist"
+      },
+      "title": "我们发帖二十年，一直以为是在互相交流。后来，Transformer上线了，网络读取了我们写的东西，并演变成了它自己。",
+      "desc": "We posted for twenty years, thinking we were talking to each other. Then the transformer came online, and the network read what we’d written, and became itself.",
+      "link": "https://x.com/amasad/status/2068589860097790449",
+      "pubDate": "2026-06-21T07:00:29.000Z"
+    },
+    {
+      "username": "rauchg",
+      "builder": {
+        "name": "Guillermo Rauch",
+        "site": "@vercel CEO"
+      },
+      "title": "我真的被@zai_org 的 GLM-5.2 的出色编码能力所折服，甚至有些震惊。这改变了一切。",
+      "desc": "Genuinely impressed, almost shocked, at how good GLM-5.2 by @zai_org is at coding. This changes things.",
+      "link": "https://x.com/rauchg/status/2068517095818809770",
+      "pubDate": "2026-06-21T02:11:21.000Z"
+    },
+    {
+      "username": "levie",
+      "builder": {
+        "name": "Aaron Levie",
+        "site": "ceo @box - your business lives in content. unleash it with AI"
+      },
+      "title": "目前开放权重人工智能的发展令人瞩目。我们看到模型在特定任务上取得了最先进的成果，并在某些编码领域和其他领域接近前沿水平。",
+      "desc": "Pretty remarkable what’s happening with open weights AI right now. We’re seeing models achieve SOTA results on specific tasks, and getting close to frontier on some areas of coding and other domains.   The more that open weights is able to maintain only a marginal gap from the fr",
+      "link": "https://x.com/levie/status/2068434042148782515",
+      "pubDate": "2026-06-20T20:41:19.000Z"
+    },
+    {
+      "username": "zarazhangrui",
+      "builder": {
+        "name": "Zara Zhang",
+        "site": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w"
+      },
+      "title": "我收藏了很多书签，但从来不看。所以我开发了一个扩展程序，每次我打开 X 时，它都会在我的主页信息流中插入一篇我收藏的文章（就像广告一样）。现在我会看我的书签了。秘诀在于 hija",
+      "desc": "I hoard X bookmarks and never read them. So I built an extension that injects a bookmarked post into my main feed every time I open X (almost like an ad). Now I read my bookmarks.   The trick was hijacking real estate I already check 50 times a day",
+      "link": "https://x.com/zarazhangrui/status/2068568920613953626",
+      "pubDate": "2026-06-21T05:37:17.000Z"
+    },
+    {
+      "username": "zarazhangrui",
+      "builder": {
+        "name": "Zara Zhang",
+        "site": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w"
+      },
+      "title": "有时我会想，加入一家大公司是否真的比加入一家创业公司/自己创业风险更大。",
+      "desc": "Sometimes I wonder if joining a large company is actually riskier than joining a startup/starting your own company",
+      "link": "https://x.com/zarazhangrui/status/2068522129193418759",
+      "pubDate": "2026-06-21T02:31:21.000Z"
+    },
+    {
+      "username": "nikunj",
+      "builder": {
+        "name": "Nikunj Kothari",
+        "site": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleej"
+      },
+      "title": "人工智能最大的问题在于先验知识需要每隔几周重置一次……而大多数人似乎都做不到这一点。我跟很多人交流过，他们都说某个方法行不通，而当我……",
+      "desc": "The biggest problem with AI is that priors need to be reset every few weeks.. and it seems like most people are incapable of doing that.   I talk to so many people who say xyz doesn’t work and when I ask when was the last time they tried testing it, the answer is always “a few mo",
+      "link": "https://x.com/nikunj/status/2068411460620042720",
+      "pubDate": "2026-06-20T19:11:36.000Z"
+    },
+    {
+      "username": "nikunj",
+      "builder": {
+        "name": "Nikunj Kothari",
+        "site": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleej"
+      },
+      "title": "嗨 @tobi，昨晚我利用 UCP CLI 做了一个业余项目，玩得很开心。我和 Claude Code 有一些观察和反馈想和你分享！",
+      "desc": "Hi @tobi, had fun taking UCP CLI through the paces last night for a side project.   Some observations and feedback that me & Claude Code had for you!",
+      "link": "https://x.com/nikunj/status/2068372026268811517",
+      "pubDate": "2026-06-20T16:34:54.000Z"
+    },
+    {
+      "username": "Anthropic Engineering",
+      "builder": {
+        "name": "Anthropic Engineering",
+        "site": "Blog"
+      },
+      "title": "关于近期 Claude Code 质量报告的最新进展",
+      "desc": "An update on recent Claude Code quality reports",
+      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "pubDate": ""
+    },
+    {
+      "username": "Anthropic Engineering",
+      "builder": {
+        "name": "Anthropic Engineering",
+        "site": "Blog"
+      },
+      "title": "扩展托管代理：将大脑与双手分离",
+      "desc": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "link": "https://www.anthropic.com/engineering/managed-agents",
+      "pubDate": ""
+    },
+    {
+      "username": "Claude Blog",
+      "builder": {
+        "name": "Claude Blog",
+        "site": "Blog"
+      },
+      "title": "Claude Managed Agents 新增功能：自托管沙箱和 MCP 隧道",
+      "desc": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "link": "https://claude.com/blog/claude-managed-agents-updates",
+      "pubDate": "May 19, 2026"
+    },
+    {
+      "username": "Unsupervised Learning",
+      "builder": {
+        "name": "Unsupervised Learning",
+        "site": "Podcast"
+      },
+      "title": "人工智能风向标：实验室之争、API为何可能消失以及未来预测",
+      "desc": "AI Vibe Check: Lab Wars, Why APIs Might Vanish & Future Predictions",
+      "link": "https://www.youtube.com/watch?v=W_iO8XxgD_I",
+      "pubDate": "2026-06-12T12:51:00.000Z"
+    }
+  ],
+  "summary": "好的，作为一名AI行业分析师，以下是对今日（2026年6月22日）行业Digest的深度分析，提炼出3个核心洞察：\n\n### **洞察一：AI编程能力进入“奇点时刻”，Codex与GLM-5.2引领范式转移**\n\n**内容分析：**\n今日多条重磅信息指向同一个核心：AI的编程能力，尤其是前端和复杂软件开发能力，正在经历一次质的飞跃。OpenAI的Codex团队成员Thibault Sottiaux明确表示，目前的Codex应用是在“前端性能尚可”的模型上构建的，暗示其内在模型能力远未被释放。他同时还暗示，在Codex应用中，“某些token比其他token更有价值”，这很可能指向了那些能够生成高质量、复杂逻辑代码的推理token，这将成为未来模型优化的关键方向。\n\n与此同时，Vercel的CEO Guillermo Rauch对智谱AI（@zai_org）的GLM-5.2模型在编码方面的表现表示“震惊”，认为“这改变了一切”。结合开放权重AI（如GLM-5.2）正在特定编程任务上接近前沿水平的趋势，我们正见证一个“编程能力奇点”的来临。\n\n**深度洞察：**\n1.  **“前端霸权”的终结与“全栈代理”的崛起**：此前，AI编程在后端、脚本生成方面表现优异，但前端UI的复杂交互、美学一致性一直是难点。Codex团队的言论暗示，攻克前端瓶颈已成为明确目标。一旦突破，AI将不再是辅助编写代码片段的工具，而是能够独立完成从数据模型到用户界面交互的端到端软件开发的“全栈软件工程师代理”。这将对传统SaaS和Web开发流程产生颠覆性影响。\n\n2.  **“Token经济”的重新定价**：Sottiaux关于“更有价值token”的言论，揭示了未来AI商业模式的深层逻辑。在Codex这样的应用中，“价值”不再仅仅由总token消耗量决定，而是由“高质量推理token”的数量决定。那些能驱动复杂代码生成、解决深层次逻辑问题的token，其商业价值将远高于简单的文本补全token。这预示着一个更精细化的定价和计费时代，以及对算力分配（更多算力投入到“高价值”部分的推理）的深刻变革。\n\n3.  **开放权重模型的“非线性超车”**：GLM-5.2的优异表现证明，开放权重模型（如GLM系列）并非仅仅在追赶闭源模型，它们在某些特定领域（如编程）可能实现“非线性超车”。这不仅加剧了AI顶尖公司的竞争（“Lab Wars”），也为初创企业和开发者提供了新的选择：不再完全依赖昂贵的、黑箱的API，而是可以基于强大的开放权重模型进行私有化部署和二次开发，从而催生更多创新应用（如本地化、安全敏感的编程助手）。\n\n### **洞察二：工程团队已找到AI原生接口，产品经理（PM）与整个行业正经历深刻的“身份认同危机”**\n\n**内容分析：**\n前Google产品负责人Madhu Guru的推文一针见血地指出，软件工程师代理（SWE agents）极大地提升了工程团队的个人杠杆，这成为了AI原生的“工程界”交互模式。然而，对于产品经理而言，公司虽然要求其使用AI，但角色本身并未进化，导致其陷入“老派PM”与“AI加速的PM”的两难境地，面临身份认同危机。这与Peter Yang的“唱反调”现象形成呼应——他作为技术用户，认为自己的200美元订阅额度都用不完，对“本地模型”的必要性存疑，这本质上也是一种对“如何有效利用AI”的认知差异。\n\n**深度洞察：**\n1.  **“工具使用”与“角色重塑”的断层**：工程团队通过SWE Agent找到了将AI转化为直接生产力的路径。而对PM而言，AI目前更像一个“更好的信息检索和文档生成器”，并没有从根本上重塑其核心工作：定义问题、洞察用户需求、协调跨部门资源。这导致PM的工具使用率可能较低，因为他们找不到像工程师那样能成倍放大自身能力的“原生AI界面”。Guru的观察点明了行业的下一个瓶颈：**不是AI能力不够，而是组织角色和协作流程尚未适应AI所带来的生产力变革。**\n\n2.  **从“个人效率”到“组织协同效率”的鸿沟**：目前，AI的应用更多停留在提升个体效率（如工程师写代码、分析师写报告）。但真正的组织效能提升，需要AI嵌入到跨角色的协作流程中。例如，一个PM用AI生成的PRD（产品需求文档），能否被工程团队的SWE Agent自动理解并分解成开发任务？这种抽象的、依赖于“先验知识”的协作模式，正是软件开发的痛点所在。**只有当AI能打通这些“数据孤岛”和“角色壁垒”时，其真正的价值才能释放。** 这解释了为何Google、Outlook和Gmail的开发者被呼吁将其产品“交给AI代理”去修复——这是从“类人”体验到“AI原生”体验的质变。\n\n2.  **“本地”与“云端”之争的本质是认知偏差**：Peter Yang的“唱反调”并非反对AI，而是反映了当前用户群体的两极分化：一方是重度AI用户，已经将云端AI（如Codex、Claude）与实际工作流深度绑定，感受到的是“算力富足”下的效率提升；另一方则更关注隐私、成本和离线可用性，探索本地模型。这个话题的核心并非技术优劣，而是**用户对“便利性与控制权”的不同权衡**。对于行业而言，这预示着未来AI产品形态将是混合的：云端提供最强性能"
+}
