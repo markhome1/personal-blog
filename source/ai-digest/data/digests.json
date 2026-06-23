@@ -4961,5 +4961,200 @@
       }
     ],
     "summary": "好的，作为一名AI行业分析师，以下是对今日（2026年6月22日）行业Digest的深度分析，提炼出3个核心洞察：\n\n### **洞察一：AI编程能力进入“奇点时刻”，Codex与GLM-5.2引领范式转移**\n\n**内容分析：**\n今日多条重磅信息指向同一个核心：AI的编程能力，尤其是前端和复杂软件开发能力，正在经历一次质的飞跃。OpenAI的Codex团队成员Thibault Sottiaux明确表示，目前的Codex应用是在“前端性能尚可”的模型上构建的，暗示其内在模型能力远未被释放。他同时还暗示，在Codex应用中，“某些token比其他token更有价值”，这很可能指向了那些能够生成高质量、复杂逻辑代码的推理token，这将成为未来模型优化的关键方向。\n\n与此同时，Vercel的CEO Guillermo Rauch对智谱AI（@zai_org）的GLM-5.2模型在编码方面的表现表示“震惊”，认为“这改变了一切”。结合开放权重AI（如GLM-5.2）正在特定编程任务上接近前沿水平的趋势，我们正见证一个“编程能力奇点”的来临。\n\n**深度洞察：**\n1.  **“前端霸权”的终结与“全栈代理”的崛起**：此前，AI编程在后端、脚本生成方面表现优异，但前端UI的复杂交互、美学一致性一直是难点。Codex团队的言论暗示，攻克前端瓶颈已成为明确目标。一旦突破，AI将不再是辅助编写代码片段的工具，而是能够独立完成从数据模型到用户界面交互的端到端软件开发的“全栈软件工程师代理”。这将对传统SaaS和Web开发流程产生颠覆性影响。\n\n2.  **“Token经济”的重新定价**：Sottiaux关于“更有价值token”的言论，揭示了未来AI商业模式的深层逻辑。在Codex这样的应用中，“价值”不再仅仅由总token消耗量决定，而是由“高质量推理token”的数量决定。那些能驱动复杂代码生成、解决深层次逻辑问题的token，其商业价值将远高于简单的文本补全token。这预示着一个更精细化的定价和计费时代，以及对算力分配（更多算力投入到“高价值”部分的推理）的深刻变革。\n\n3.  **开放权重模型的“非线性超车”**：GLM-5.2的优异表现证明，开放权重模型（如GLM系列）并非仅仅在追赶闭源模型，它们在某些特定领域（如编程）可能实现“非线性超车”。这不仅加剧了AI顶尖公司的竞争（“Lab Wars”），也为初创企业和开发者提供了新的选择：不再完全依赖昂贵的、黑箱的API，而是可以基于强大的开放权重模型进行私有化部署和二次开发，从而催生更多创新应用（如本地化、安全敏感的编程助手）。\n\n### **洞察二：工程团队已找到AI原生接口，产品经理（PM）与整个行业正经历深刻的“身份认同危机”**\n\n**内容分析：**\n前Google产品负责人Madhu Guru的推文一针见血地指出，软件工程师代理（SWE agents）极大地提升了工程团队的个人杠杆，这成为了AI原生的“工程界”交互模式。然而，对于产品经理而言，公司虽然要求其使用AI，但角色本身并未进化，导致其陷入“老派PM”与“AI加速的PM”的两难境地，面临身份认同危机。这与Peter Yang的“唱反调”现象形成呼应——他作为技术用户，认为自己的200美元订阅额度都用不完，对“本地模型”的必要性存疑，这本质上也是一种对“如何有效利用AI”的认知差异。\n\n**深度洞察：**\n1.  **“工具使用”与“角色重塑”的断层**：工程团队通过SWE Agent找到了将AI转化为直接生产力的路径。而对PM而言，AI目前更像一个“更好的信息检索和文档生成器”，并没有从根本上重塑其核心工作：定义问题、洞察用户需求、协调跨部门资源。这导致PM的工具使用率可能较低，因为他们找不到像工程师那样能成倍放大自身能力的“原生AI界面”。Guru的观察点明了行业的下一个瓶颈：**不是AI能力不够，而是组织角色和协作流程尚未适应AI所带来的生产力变革。**\n\n2.  **从“个人效率”到“组织协同效率”的鸿沟**：目前，AI的应用更多停留在提升个体效率（如工程师写代码、分析师写报告）。但真正的组织效能提升，需要AI嵌入到跨角色的协作流程中。例如，一个PM用AI生成的PRD（产品需求文档），能否被工程团队的SWE Agent自动理解并分解成开发任务？这种抽象的、依赖于“先验知识”的协作模式，正是软件开发的痛点所在。**只有当AI能打通这些“数据孤岛”和“角色壁垒”时，其真正的价值才能释放。** 这解释了为何Google、Outlook和Gmail的开发者被呼吁将其产品“交给AI代理”去修复——这是从“类人”体验到“AI原生”体验的质变。\n\n2.  **“本地”与“云端”之争的本质是认知偏差**：Peter Yang的“唱反调”并非反对AI，而是反映了当前用户群体的两极分化：一方是重度AI用户，已经将云端AI（如Codex、Claude）与实际工作流深度绑定，感受到的是“算力富足”下的效率提升；另一方则更关注隐私、成本和离线可用性，探索本地模型。这个话题的核心并非技术优劣，而是**用户对“便利性与控制权”的不同权衡**。对于行业而言，这预示着未来AI产品形态将是混合的：云端提供最强性能"
+  },
+  {
+    "date": "2026-06-23T12:00:00.000Z",
+    "date_cn": "2026年06月23日",
+    "count": 17,
+    "tweets": [
+      {
+        "username": "swyx",
+        "builder": {
+          "name": "Swyx",
+          "site": "Latent Space Host / AI Builder"
+        },
+        "title": "Corgi 保险公司在新媒体从业者中口碑爆棚，几乎100%占领新市场",
+        "desc": "btw i've been shopping around for insurers for the New Media Lab we are setting up (basically the creative playground housing swyx inc) and yeah the NPS of Corgi is insanely high\n\nmy real estate broker: 'just go with corgi they are covering every single one of my clients rn'\n\nbreaking through with ~100% greenfield market share like this is unheard of in the insurance industry",
+        "link": "https://x.com/swyx/status/2068924451887129055",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "thsottiaux",
+        "builder": {
+          "name": "Thibault Sottiaux",
+          "site": "OpenAI Codex"
+        },
+        "title": "Codex 推出使用量重置存储功能，你是囤积者还是毫不犹豫会用掉？",
+        "desc": "Now that you can bank usage resets in Codex. Are you a hoarder or do you use them without breaking a sweat? How do you think about them?",
+        "link": "https://x.com/thsottiaux/status/2068792010715324444",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "thsottiaux",
+        "builder": {
+          "name": "Thibault Sottiaux",
+          "site": "OpenAI Codex"
+        },
+        "title": "Codex 开发者征集产品改进建议：有哪些不够让人愉悦的地方？",
+        "desc": "What should we improve in the Codex app. What's not delightful?",
+        "link": "https://x.com/thsottiaux/status/2068736857312198928",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "petergyang",
+        "builder": {
+          "name": "Peter Yang",
+          "site": "AI Educator"
+        },
+        "title": "从小节俭长大的移民面对无限 Token 计划时反而产生「烧得越多越好」的心理矛盾",
+        "desc": "It’s funny, growing up as an immigrant I developed a scarcity mindset around saving money and resources.\n\nBut when it comes to unlimited token plans and tokenmaxxing, it feels like a missed opportunity if I don’t burn as many tokens as possible and hit the limit each time.\n\nHow do I address this disconnect?",
+        "link": "https://x.com/petergyang/status/2068874249167884544",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "petergyang",
+        "builder": {
+          "name": "Peter Yang",
+          "site": "AI Educator"
+        },
+        "title": "推荐跨平台发布工具 Ferryman：一次发布同步到 7+ 平台",
+        "desc": "Check out my friend Kevin's awesome tool @ferrymanio to post from your favorite social platform and have that cross post to 7+ platforms at once.",
+        "link": "https://x.com/petergyang/status/2068854663534031124",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "petergyang",
+        "builder": {
+          "name": "Peter Yang",
+          "site": "AI Educator"
+        },
+        "title": "为什么 HTML 成为 AI 视频 Agent 的基础：LLM 不懂视觉，但能用代码表达视觉美学",
+        "desc": "Why HTML turned out to be the foundation for agentic video making from @liu8in:\n\n“We’ve been trying to build a video agent. However, we learned the hard way that agents have no visual intelligence.\n\nSo that’s when we turned to code. HTML is the LLM’s native language. LLMs can express not only information, but also visual aesthetics through HTML, CSS, and JavaScript.\n\nFootage, images, assets, SVGs can all sit on top of HTML.”",
+        "link": "https://x.com/petergyang/status/2068755908319236338",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "thenanyu",
+        "builder": {
+          "name": "Nan Yu",
+          "site": "Linear Head of Product"
+        },
+        "title": "Linear 产品负责人力挺「Quality is irrational」：对品质需要非理性的执着",
+        "desc": "\"Quality is irrational\" is a great way to describe it. You have to have an irrational level of commitment to constantly choose quality and an irrational level of self-belief that controlling things top to bottom will yield better results than using common frameworks.",
+        "link": "https://x.com/thenanyu/status/2068778750800531640",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "rauchg",
+        "builder": {
+          "name": "Guillermo Rauch",
+          "site": "Vercel CEO"
+        },
+        "title": "Vercel 团队极致优化 v0.dev 性能：绘制、布局、WebGPU 着色器逐帧审查",
+        "desc": "The team cooked on v0.dev performance. 'Everything the light touches' was optimized. Painting, layout, WebGPU shaders, blocking scripts. Every frame scrutinized. The best part is that we'll be updating our documentation with the lessons learned!",
+        "link": "https://x.com/rauchg/status/2068838709517336756",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "rauchg",
+        "builder": {
+          "name": "Guillermo Rauch",
+          "site": "Vercel CEO"
+        },
+        "title": "编程 Agent 会榨干你的「宜家效应」——代码写完后你总觉得它比实际更好",
+        "desc": "Coding agents will squeeze every ounce of IKEA effect out of you, if you let them.",
+        "link": "https://x.com/rauchg/status/2068778558672273422",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "levie",
+        "builder": {
+          "name": "Aaron Levie",
+          "site": "Box CEO"
+        },
+        "title": "Sakana 发布 Fugu 混合模型：单一 API 调用自动路由到最佳专家模型",
+        "desc": "Another new idea to push the state of AI architectures forward. Sakana released a model that effectively uses a mixture of models to get work done. You get a single API but then the work gets farmed out to the model that best performs the task.\n\n“Fugu manages model selection, delegation, verification, and synthesis automatically. It solves tasks directly when that is enough, or coordinates a team of expert models when a problem calls for more. The complexity of a multi-agent system never reaches your code.”\n\nThis is generally how applied AI products are building their agent harnesses at this point, but the idea of making this an LLM that any developer can interact with is also a great idea.",
+        "link": "https://x.com/levie/status/2068917230570795178",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "levie",
+        "builder": {
+          "name": "Aaron Levie",
+          "site": "Box CEO"
+        },
+        "title": "Agent 使用软件的频率将是人类的 100 倍，需要全新护栏、审计和协作机制",
+        "desc": "Agents will use software 100X more than people.\n\nWhen that happens, there's a huge need for guardrails on what the agents are doing so they don’t leak data or change the wrong information, authoritative sources of truth for them to work with, logging and auditing of what they’re doing, the ability to collaborate with people through these systems, and more.\n\nA simple query on any given agentic task could pull in more data than a user touches in a month. As a result, there are lots of categories of software that when it goes headless that the usage and value go up substantially. Agents will end up using our CRM data, documents and corporate knowledge, analytics data, and other information far more than people ever did.\n\nThe platforms that can move toward the model of powering these headless interactions, and have a business model and technology strategy to support this, will be in the best position in the future.",
+        "link": "https://x.com/levie/status/2068851573175021864",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "ryolu_",
+        "builder": {
+          "name": "Ryo Lu",
+          "site": "Cursor Designer"
+        },
+        "title": "Cursor 设计师用 Cursor Mobile 打造 ryOS 电子书阅读器，支持 epub 并同步进度",
+        "desc": "missing wooden shelves\nso i made Books in ryOS\n\nstarted in Cursor mobile, then hand-tuned the animations and textures until things felt right\n\nworks with any epub\nsyncs progress with ryOS account",
+        "link": "https://x.com/ryolu_/status/2068923971136098633",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "garrytan",
+        "builder": {
+          "name": "Garry Tan",
+          "site": "Y Combinator CEO"
+        },
+        "title": "AGI 时代被低估之事：拥有个人/公司专属的「大脑」积累上下文才是真正的解锁",
+        "desc": "I think one underestimated thing when we look back on it was how useful it is to have your own personal brain and company brain in 2026 at the dawn of usable AGI\n\nAGI gives you the intelligence\n\nYou still have to collect your personal context to get the real unlock",
+        "link": "https://x.com/garrytan/status/2068701356358308112",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "zarazhangrui",
+        "builder": {
+          "name": "Zara Zhang",
+          "site": "Builder / OpenClaw"
+        },
+        "title": "防止 AI 产出低质内容的黄金法则：输入（上下文）应比输出长 3-5 倍",
+        "desc": "A good rule of thumb for preventing AI slop (in writing, design, etc):\n\nIs your input (the context) longer than the output?\n\nI've found that for the AI to produce quality results, my input is often 3-5 times the length of the output.\n\nIf your input is much shorter than the output, it's almost certainly going to produce slop",
+        "link": "https://x.com/zarazhangrui/status/2068923768500793603",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "nikunj",
+        "builder": {
+          "name": "Nikunj Kothari",
+          "site": "FPV Ventures Partner"
+        },
+        "title": "VC 投资人每周日常：刷到好项目→Fork→试用→联系创始人→祈祷没漏掉对方的 DM",
+        "desc": "Happens every week\n\n> see an interesting project on X\n> play with it, fork it, try it, have some ideas\n> go to founder profile\n> press the message button\n\n…\n\n> pray to God that I haven’t missed a DM from them before\n\nI try to respond to all the DMs but miss sometimes!!",
+        "link": "https://x.com/nikunj/status/2068714024934740476",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "steipete",
+        "builder": {
+          "name": "Peter Steinberger",
+          "site": "OpenClaw Creator"
+        },
+        "title": "OpenClaw 热度消退后反而更强：提升质量、组建团队、非营利模式对抗 VC 竞品",
+        "desc": "People here discussing what happened with OpenClaw.\n\nThe hype died down. We improved quality and grew a team. We created a non-profit whereas competitors are VC funded and have other agendas.\n\nThis is our strongest week so far.",
+        "link": "https://x.com/steipete/status/2068961217524490739",
+        "pubDate": "2026-06-22"
+      },
+      {
+        "username": "steipete",
+        "builder": {
+          "name": "Peter Steinberger",
+          "site": "OpenClaw Creator"
+        },
+        "title": "对多模型路由持怀疑态度，预感被证实",
+        "desc": "I was skeptical about the multi-model routing. Seems my hunch was right.",
+        "link": "https://x.com/steipete/status/2068960117253632160",
+        "pubDate": "2026-06-22"
+      }
+    ],
+    "summary": "好的，作为一名AI行业分析师，我对您提供的今日行业动态（2026年6月23日）进行了深度剖析。以下是提炼出的3-5个核心洞察：\n\n### **洞察一：AI应用进入“精耕细作”与“非理性品质”时代，从追求功能到追求极致体验**\n\n**详细分析：**\n从今天的Digest中，我们可以清晰地看到AI行业的关注点正在发生根本性转变。过去，业界热衷于讨论模型的参数量、训练数据规模以及基础能力的突破。而今天，我们看到更多关于“质量”、“性能”和“愉悦感”的讨论。\n\n1.  **产品体验的“非理性”执着**：Linear产品负责人Nan Yu提出的“Quality is irrational”观点，以及Vercel CEO Guillermo Rauch分享的团队对v0.dev性能“逐帧审查”的极致优化，都指向了一个新共识：在基础模型能力趋同的背景下，卓越的用户体验成为决定产品成败的关键差异化因素。这种“非理性”的执着体现在对每一个像素、每一帧渲染、每一次交互的细微打磨，这在SaaS和开发工具领域尤为明显。这不再仅仅是“能用”，而是追求“愉悦”。\n\n2.  **从“AI能否做”到“AI做得是否足够好”**：OpenAI Codex的产品经理征集“不够令人愉悦的地方”，以及Cursor设计师亲手制作并手调动画纹理的电子书阅读器，都是这一趋势的体现。开发者不再满足于AI能生成代码或设计，而是要求生成的结果在视觉、交互、感知上达到或超越人类制作的水准。这预示着AI产品的竞争门槛正在从“功能完整性”转向“体验高级感”。\n\n3.  **输入质量决定输出价值**：Zara Zhang提出的“输入应比输出长3-5倍”的黄金法则，也反映了在AI应用精耕细作的过程中，对“上下文质量”的极致追求。单纯依赖模型的“涌现能力”已不足以产出高质量内容，用户需要投入更多精力准备和设计输入，才能引导AI产出真正有价值的作品。这是一种更深层次的“精细化运营”。\n\n**结论**：AI行业正在从“野蛮生长”的探索期进入“精耕细作”的成熟期。胜利将不再属于拥有最强大模型的公司，而属于那些能以“非理性”的热情，将AI能力转化为极致、流畅、令人愉悦的产品体验的公司。对品质的偏执，正成为一种新的核心竞争力。\n\n---\n\n### **洞察二：AI Agent 的商业化加速，催生对全新基础设施（护栏、审计、身份）的迫切需求**\n\n**详细分析：**\n多个推文共同描绘了一幅AI Agent正在从“概念验证”走向“大规模部署”的图景，并随之带来了前所未有的基础设施挑战。\n\n1.  **Agent 使用频率的指数级增长**：Box CEO Aaron Levie 的预判——“Agent使用软件的频率将是人类的100倍”——极具洞察力。这意味着未来的软件流量主体将从人类用户转向AI Agent。这不仅是一个数量级的提升，更是一种交互范式的根本性改变。Agent不具备人类的判断力、道德感和责任感，它们会忠实地、大规模地执行指令，这带来了巨大的风险。\n\n2.  **新型“护栏”与审计机制成为刚需**：Levie紧接着指出了随之而来的巨大需求：对Agent行为的护栏、防止数据泄露或错误修改的安全机制、详细的日志和审计追踪，以及让Agent与人类协作的能力。Corgi保险能“几乎100%占领新市场”，侧面印证了随着AI业务（如新媒体实验室）的涌现，保障这些业务运行的风险管理和保险产品存在巨大市场空白。\n\n3.  **个人与公司专属“大脑”的价值凸显**：YC CEO Garry Tan 强调，在可用的AGI时代，拥有个人或公司的专属“大脑”（即积累上下文）是真正的解锁关键。这与Agent基础设施的需求不谋而合。Agent需要访问结构化的、权威的、安全的上下文信息才能有效且安全地执行任务。这暗示着未来会出现一类新的基础设施服务，专注于为企业或个人构建、存储、管理和提供专属知识库，并与Agent进行安全交互。\n\n**结论**：当Agent开始大规模使用软件时，一个全新的、以“安全、可控、可审计”为核心的基础设施层将应运而生。这包括：Agent行为防火墙、隐私数据保险、身份与权限管理、全链路审计日志等。这类基础设施的重要性将不亚于云计算时代的计算、存储和网络，孕育着巨大的商业机会。Corgi保险的成功，可能只是这个巨大市场的一个早期缩影。\n\n---\n\n### **洞察三：开发者的资源心态与消费模式正在被AI重塑，从“节省”到“战略性消耗”**\n\n**详细分析：**\n多篇推文揭示了开发者面对AI资源（如Token、API调用、功能试用）时，心理和行为模式正在发生深刻的世代性变化。\n\n1.  **从“节省者”到“最大化利用者”**：AI教育者Peter Yang的自述极具代表性。作为从小受“节俭”教导的移民二代，他面对无限的Token计划时，产生了“不烧到上限就是浪费”的矛盾心理。这反映了AI资源从“稀缺商品”向“订阅服务”转变后，用户行为模式的剧烈反差。新一代AI原生用户可能没有这种心理包袱，他们会像玩《我的世界》一样，想方设法“烧”掉所有资源来探索可能。\n\n2.  **“囤积者”与“消耗者”的划分**：OpenAI Codex推出“使用量重置存储”功能后，Thibault Sottiaux的提问——“你是囤积者还是毫不犹豫地用掉？”——精准地切入了用户分化的现状。这预示着产品设计必须考虑两种截然不同的用户心理：好的，我们继续从上次中断的地方完成第三和第四部分的分析。\n\n---\n\n### **3. 供给侧的范式转移：从“稀缺性”设计到“丰裕性”设计**\n\n当资源从极度稀缺变为近乎无限（或动态重置），驱动整个工业时代的“稀缺性”设计原则在AI原生应用中需要被重新审视。旧有的“稀缺性”设计核心在于 **“限制”**——限制用户的使用频次、功能深度、数据存储量，以维持产品的商业价值和系统稳定性。而新的“丰裕性”设计核心在于 **“释放”**——通过降低用户的“心理使用成本”来换取极致的用户参与度和数据飞轮效应。\n\n*   **从“功能锁定”到“能力探索”**：在旧模式中，产品的核心是向用户销售“解锁功能”的权利（如高级会员）。而在“丰裕性”模式下，产品应像一个“能力游乐场”，用户不需要为“使用”本身付费，而是为“使用后的成果”或“更高级的创作空间”付费。例如，大模型API的调用成本快速降低，使得ChatGPT等产品可以允许用户频繁、随意地开启新对话，而无需担心计费。设计重点是引导用户进行大量、低成本的尝试（A/B测试不同Prompt，尝试不同任务类型），并从中发现AI能力的边界。产品设计应该鼓励“错误”和“浪费”，因为每一次“失败的”互动，都是用户学习模型能力、模型获取反馈的宝贵机会。\n\n*   **从“存储限制”到“动态存储”**：OpenAI Codex的“使用量重置存储”代表了这种转变的直接体现。在传统SaaS产品中，存储空间是一种稀缺资源，用户需要管理文件、清理缓存。但在AI原生产品中，存储（如对话历史、代码仓库快照）正被重新定义为“一种可消耗的资源”，而非“一种固定资产”。设计思路从“你拥有固定空间，请自行管理”转变为“你拥有持续使用的权利，所有权（存储）会随着你的使用而动态变化”。这要求产品在交互上明确传达“用完即弃”或“用完即重置”的隐含规则，让用户习惯“烧掉”旧资源来获取新价值，从而创造一种“永远有新鲜感”的使用体验。\n\n*   **从“按量计费”到“按成就/结果计费”**：当资源可以近乎免费地提供时，直接对“使用量”收费会变得不切实际且招致反感。未来的商业模式可能转向“基于成果的定价”。例如：\n    *   **任务型定价**：用户为完成一个复杂报告支付15元，而非为生成过程中的100次API调用付费。用户关心的是“它成功生成了报告”，而不是“它调用了多少次模型”。\n    *   **能力订阅+消耗包**：用户订阅基础能力（如无限次短文本生成），但消耗更昂贵的资源（如长视频生成、超长上下文处理）需要消耗“积分包”。这里的核心是区分“低摩擦的日常消耗”和“高价值的生产性消耗”。\n    *   **数据货币化**：在用户允许的情况下，他们的互动数据（尤其是提示词、反馈、修改过程）成为训练下一代模型的宝贵资源。用户通过提供数据获得“免费”使用权限，本质上是价值交换，而非纯粹的消费。\n\n*   **设计方向的根本转向：从“控制用户”到“赋能用户”**：\n    *   **旧稀缺性设计**：限制对话轮次、限制文件上传大小、限制并发请求、强制用户等待（如“系统繁忙”）、复杂的充值/积分系统。这些设计的潜台词是：“资源有限，请谨慎使用，别浪费。”\n    *   **新丰裕性设计**：鼓励快速开始新任务、"
   }
 ]
