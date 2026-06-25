@@ -5274,5 +5274,475 @@
       }
     ],
     "summary": "**洞察一：AI安全范式从\"漏洞发现\"转向\"主动修复\"，OpenAI启动\"Patch The Planet\"计划**\n\n今日最重磅的消息无疑是OpenAI推出的\"Patch The Planet\"（修补地球）计划以及配套的GPT-5.5-Cyber模型。这标志着AI在网络安全领域的角色发生了根本性转变。以往，AI主要被用于辅助发现漏洞、分析恶意代码等\"检测\"环节。然而，OpenAI CEO Sam Altman明确表示，新的GPT-5.5-Cyber和Codex Security的目标是\"解决安全问题，而不仅仅是发现它们\"。\n\n这一转变的深度含义在于：GPT-5.5-Cyber在CyberGym基准测试上达到了业界领先水平，表明模型具备了生成可部署的安全补丁、修复代码漏洞、甚至主动防御网络攻击的实质性能力。Altman提到与美国政府（USG）及整个安全生态合作，暗示这可能是一个国家级甚至全球性的倡议。这将对网络安全产业带来颠覆性冲击——传统的\"人力+规则\"驱动的安全运营中心（SOC）模式将加速向\"AI+自动化\"的自我修复网络演进。\n\n**洞察二：AI应用开发\"全栈自动化\"趋势确立，从设计到部署的一键闭环成为标配**\n\nVercel CEO Guillermo Rauch宣布\"Claude Design → Vercel, in one click\"，这不仅是两家公司的一次简单集成，更是AI应用开发范式成熟的一个标志性事件。它代表着将AI生成的前端设计无缝对接到高性能托管平台的\"最后一公里\"被打通。同时Vercel宣布支持WebSocket和socket.io，进一步证明了其平台正向支持实时、动态的复杂应用演进。\n\n结合Cursor Compile演讲和Zara Zhang分享的Frontend Slides技能（22K+ Stars），我们可以看到一条清晰脉络：设计即代码，部署即一键，人人都是开发者。这套工具链极大降低了应用开发和发布的门槛，一个设计师或产品经理现在可以通过自然语言描述想法、AI生成代码、然后一键部署。这预示着未来应用数量将呈指数级增长。\n\n**洞察三：评估（Evals）从技术工具升级为AI时代企业的核心战略能力**\n\nBox CEO Aaron Levie的观点一针见血：\"几乎所有AI模型和Agent的进步，都离不开评估（Evals）\"。他将Evals的重要性推到了前所未有的高度。在企业部署AI Agent时，Evals的作用不再是简单的\"准确率\"，而是衡量Agent是否真的\"增进了工作\"。\n\nLevie断言，Evals将成为未来任何企业的核心能力。那些能够最深入理解自身（或客户）工作流程以及Agent在其中表现的公司，将处于实现真正自动化的最佳位置。企业不仅需要懂模型的技术专家，更需要培养能够定义、设计和执行Evals的跨学科人才。\n\n**洞察四：AI编程的\"动态工作流\"范式引发广泛讨论，复杂性管理成新挑战**\n\nAI教育者Peter Yang的困惑反映了当前AI编程社区中一个普遍的认知落差。Anthropic推出的Claude Code\"动态工作流\"功能代表了AI Agent工作方式的又一次进化：从执行预设的线性步骤，转向能够根据上下文和环境变化实时调整策略的更具自主性的模式。\n\n这背后隐含着深刻的行业挑战：能力与可解释性的矛盾。\"动态工作流\"虽然强大，但其内部逻辑是\"黑盒\"的，开发者很难预测AI下一步会做什么。这需要产品层面在自主性和可理解性之间找到平衡，让开发者既能享受自动化带来的效率提升，又能保持对过程的必要控制感。\n\n**洞察五：SpaceX NeoCloud策略揭示AI基础设施的新商业模式**\n\nSwyx提出了一个值得关注的商业观察：SpaceX通过同时运营模型实验室和GPU云（NeoCloud），形成了独特的商业闭环。SpaceX已在Cursor的投资中通过计算交易回收了约一半成本。这种\"模型实验室+GPU云\"的混合模式是极其有效的组合——前提是要充分规划好GPU供应。当内部训练表现优异时，自有算力支撑研发；当表现不佳时，算力可对外出租，形成风险对冲。这可能是AI基础设施领域值得关注的新商业范式。\n"
+  },
+  {
+    "date": "2026-06-25T12:00:00.000Z",
+    "date_cn": "2026年06月25日",
+    "count": 42,
+    "tweets": [
+      {
+        "username": "karpathy",
+        "builder": {
+          "name": "Andrej Karpathy",
+          "site": "I like training large deep neural nets."
+        },
+        "title": "这是与克劳德互动的一种新模式，它与组织内所有其他人类活动更加“协调一致”。",
+        "desc": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this \"just work\" (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it ",
+        "link": "https://x.com/karpathy/status/2069547676849557725",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "swyx",
+        "builder": {
+          "name": "Swyx",
+          "site": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod"
+        },
+        "title": "@LitFellows 也是一个很棒的相关活动，面向人工智能领域的女性。",
+        "desc": "@LitFellows also a great related event for Women in AI  https://t.co/AULDW3dUtA",
+        "link": "https://x.com/swyx/status/2069665232822366577",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "swyx",
+        "builder": {
+          "name": "Swyx",
+          "site": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod"
+        },
+        "title": "顺便一提，再鼎集团于1月份上市，发行价为每股120港元。",
+        "desc": "btw Zai IPO'ed in Jan at HK$120 a share. when I first met  @louszbd nobody really knew anyone using GLM's.  now they have beat deepseek with the world's undisputed top open model and in some respects (see @ml_angelopoulos) say top model period, and are returning to SF @aidotengineer on top of the world and open for business!  excited for @Thom_Wolf and @ZixuanLi_ to chat onstage!",
+        "link": "https://x.com/swyx/status/2069598378191941835",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "swyx",
+        "builder": {
+          "name": "Swyx",
+          "site": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod"
+        },
+        "title": "非常荣幸能主持本次会议的开幕之夜",
+        "desc": "very proud to host this session opening night!  if you work in tech but have never heard of Touchy Feely, you are exactly the kind of person that needs to see this. You have no idea the shocking number of tech leadeds on here are secret @LITfellows alums and i have seen first hand how strong the bonds you form are, it blows my engineer mind.  FREE ADMISSION, application in link reply",
+        "link": "https://x.com/swyx/status/2069582337034330186",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "joshwoodward",
+        "builder": {
+          "name": "Josh Woodward",
+          "site": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio"
+        },
+        "title": "⚽️在 @GeminiApp 中，将你对球队的忠诚度变成定制的交易卡、壁画或虚拟毛绒玩具！创建方法：1) 打开或前往应用 2) 点击“我”",
+        "desc": "⚽️Turn your team loyalty into a custom trading card, mural, or virtual plushie in @GeminiApp  How to create yours:  1) Go to https://t.co/z0bvXTam3G or open the app 2) Tap Images (side panel) 3) Select the \"Get in the game\" template 4) Upload your photo and share your output here https://t.co/aysNORY2ea",
+        "link": "https://x.com/joshwoodward/status/2069408025362714957",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "joshwoodward",
+        "builder": {
+          "name": "Josh Woodward",
+          "site": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio"
+        },
+        "title": "佛罗里达州立大学：“在校园内引入 NotebookLM 后不久，我们就看到那些成绩只有 C 的学生彻底改变了学习方式。”",
+        "desc": "Florida State University: \"Shortly after introducing NotebookLM on campus, we watched students who were struggling with a ‘C’ grade completely transform their study habits and their grades in a matter of weeks.\"  https://t.co/xcPbvA37s0",
+        "link": "https://x.com/joshwoodward/status/2069406832523624696",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "bcherny",
+        "builder": {
+          "name": "Boris Cherny",
+          "site": "Claude Code @anthropicai"
+        },
+        "title": "就是这样。把它指向一个频道，给它分配一个任务，然后让它运行。目前，Claude Enterprise 用户可以在 Slack 上体验这项功能（beta 版）。",
+        "desc": "That's it. Point it at a channel, give it a task, and let it work. It's in beta on Slack today for Claude Enterprise and Team customers. More surfaces coming soon!  Learn more: https://t.co/tcvNSCANlf",
+        "link": "https://x.com/bcherny/status/2069474691010707486",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "bcherny",
+        "builder": {
+          "name": "Boris Cherny",
+          "site": "Claude Code @anthropicai"
+        },
+        "title": "在频道中标记 Claude，它会启动一个带有独立沙盒的实例。",
+        "desc": "Tag Claude in a channel, it spins up an instance with its own sandbox. It clones repos, writes code, tests, compiles all in that isolated environment and the sandbox gets thrown away when it's done. One instance per thread, its own memory and permissions per channel.",
+        "link": "https://x.com/bcherny/status/2069474689819480394",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "bcherny",
+        "builder": {
+          "name": "Boris Cherny",
+          "site": "Claude Code @anthropicai"
+        },
+        "title": "我还安排 Claude 监控 Slack 频道，主动回复用户的问题、起草 PR，并使用特定的表情符号进行回应。",
+        "desc": "I also have Claude monitoring Slack channels to proactively respond to people to answer their questions and draft PRs, and to react with specific emojis like ✅❌ when a thread is resolved.  To set it up, just add @.Claude to a channel and ask it to do this^, in natural language.",
+        "link": "https://x.com/bcherny/status/2069474688619958517",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "thsottiaux",
+        "builder": {
+          "name": "Thibault Sottiaux",
+          "site": "Codex & ChatGPT @OpenAI"
+        },
+        "title": "If you are at OpenAI, you would know that this never happens. Be right back celebrating 5 minutes of peace.",
+        "desc": "If you are at OpenAI, you would know that this never happens. Be right back celebrating 5 minutes of peace. https://t.co/kxMOXFsg8s",
+        "link": "https://x.com/thsottiaux/status/2069624530960838914",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "thsottiaux",
+        "builder": {
+          "name": "Thibault Sottiaux",
+          "site": "Codex & ChatGPT @OpenAI"
+        },
+        "title": "Codex喜欢吞食虫子",
+        "desc": "Codex loves slurping up bugs https://t.co/2REc24J0VO",
+        "link": "https://x.com/thsottiaux/status/2069592160966733853",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "thsottiaux",
+        "builder": {
+          "name": "Thibault Sottiaux",
+          "site": "Codex & ChatGPT @OpenAI"
+        },
+        "title": "Codex 之前有个 bug，已修复。收到更多反馈，产品会更好。请继续反馈。",
+        "desc": "Codex **had** a bug. Fixed.  More feedback. Better product. Keep it coming. https://t.co/hopJLfcDxd",
+        "link": "https://x.com/thsottiaux/status/2069579993588625574",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "petergyang",
+        "builder": {
+          "name": "Peter Yang",
+          "site": "Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co/XYKTmGVH14"
+        },
+        "title": "如果访问你产品的只是一个寻找 API 或 CLI 的代理，那设计还有什么意义？",
+        "desc": "What is design if what’s accessing your product is just an agent looking for an api or CLI?",
+        "link": "https://x.com/petergyang/status/2069603490524254473",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "petergyang",
+        "builder": {
+          "name": "Peter Yang",
+          "site": "Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co/XYKTmGVH14"
+        },
+        "title": "卧槽，Google Workspace CLI 超级好用，应该好好庆祝一下吗？",
+        "desc": "wtf the Google Workspace CLI is super useful it should be celebrated? https://t.co/ulweVvibfr",
+        "link": "https://x.com/petergyang/status/2069551302246592799",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "petergyang",
+        "builder": {
+          "name": "Peter Yang",
+          "site": "Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co/XYKTmGVH14"
+        },
+        "title": "人机交互的总体趋势是管理一名高能力员工。",
+        "desc": "Human-agent interaction is basically trending towards managing a highly capable employee.  1 on 1s and performance reviews for Claude next? 😅 https://t.co/s37TYKzSUn",
+        "link": "https://x.com/petergyang/status/2069530765352907180",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "realmadhuguru",
+        "builder": {
+          "name": "Madhu Guru",
+          "site": "Prev: Product Leader at Google - Gemini, Veo, Nano Banana."
+        },
+        "title": "我有机会从不同的角度了解这个生态系统——企业、代理初创公司、数据提供商、实验室。",
+        "desc": "I’ve had the chance to see this ecosystem from the different sides - enterprises, agent startups, data providers, labs.   The core tension here is that the business models, moats, value exchange, execution playbooks for all players are being figured out in real time.  This debate around token pricing is really a debate over where value will accrue - models, application layer, distribution or other",
+        "link": "https://x.com/realmadhuguru/status/2069455097193697393",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "_catwu",
+        "builder": {
+          "name": "Cat Wu",
+          "site": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai"
+        },
+        "title": "您可以根据任何使用场景，通过数百种方式自定义 Claude Tag。",
+        "desc": "There are 100s of ways you can customize Claude Tag for any use case.  Here are 6 common flows that have resonated with our internal users and external design partners: https://t.co/eMw8xdDZOZ",
+        "link": "https://x.com/_catwu/status/2069486403696869555",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "_catwu",
+        "builder": {
+          "name": "Cat Wu",
+          "site": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai"
+        },
+        "title": "以下是我们为 Claude Tag 配置代理权限的入门指南！",
+        "desc": "Here’s our Get Started guide for configuring agent permissions for Claude Tag! https://t.co/x7G0o8Cjx1",
+        "link": "https://x.com/_catwu/status/2069484330938998993",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "_catwu",
+        "builder": {
+          "name": "Cat Wu",
+          "site": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai"
+        },
+        "title": "Claude Tag 代表着 Anthropic 产品运输方式的一次范式转变。",
+        "desc": "Claude Tag is a paradigm shift in how we ship products at Anthropic. Our internal version merges 65% of product PRs and this is our first product that is natively multi-player and proactive.  We're excited for you to try this out. Let us know your feedback! https://t.co/YOENq4hDSt",
+        "link": "https://x.com/_catwu/status/2069473118742331608",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "trq212",
+        "builder": {
+          "name": "Thariq",
+          "site": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab"
+        },
+        "title": "最后，发挥创意吧！我正在创建一个“日程安排”频道，让大家可以标记 Claude，以便在我们的日历上找到合适的时间。",
+        "desc": "Finally, get creative! I'm setting up a \"scheduling\" channel which lets people tag Claude to find time on our calendars.",
+        "link": "https://x.com/trq212/status/2069474343512617390",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "trq212",
+        "builder": {
+          "name": "Thariq",
+          "site": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab"
+        },
+        "title": "当它正常工作时，我会让它对顶层帖子做出以下表情符号的反应：⏲️✅❓🛑 这样就能一目了然地看到它的状态。",
+        "desc": "When it's working, I ask it to react to the top level thread with the following emojis: ⏲️✅❓🛑  That way it's easy to see its status at a glance.",
+        "link": "https://x.com/trq212/status/2069474342220820657",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "trq212",
+        "builder": {
+          "name": "Thariq",
+          "site": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab"
+        },
+        "title": "当你真正开始行动时，很容易被各种各样的线索淹没。",
+        "desc": "When you really get going, it's easy to get overwhelmed with all the threads.   In my personal channel I like to ask Claude to keep a pinned message that it updates with the status of everything.",
+        "link": "https://x.com/trq212/status/2069474339679052144",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "amasad",
+        "builder": {
+          "name": "Amjad Masad",
+          "site": "ceo @replit. civilizationist"
+        },
+        "title": "一切始于一个契机——走到今天这一步需要付出巨大的努力——但一切都始于一个想法。祝贺尤瑟夫和他的团队！",
+        "desc": "It starts with a prompt — it’s a whole lot of work to get here — but it starts with an idea.  Congrats Yousef and team! https://t.co/ARUtRHwvFf https://t.co/fu1FQpfyHY",
+        "link": "https://x.com/amasad/status/2069588152285794373",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "amasad",
+        "builder": {
+          "name": "Amjad Masad",
+          "site": "ceo @replit. civilizationist"
+        },
+        "title": "K编码",
+        "desc": "K-coding https://t.co/xDprsRZeLP",
+        "link": "https://x.com/amasad/status/2069322872456364540",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "rauchg",
+        "builder": {
+          "name": "Guillermo Rauch",
+          "site": "@vercel CEO"
+        },
+        "title": "创建一个 X Chat 群组以收集反馈",
+        "desc": "Starting an X Chat group for https://t.co/99eEa13mZ3 feedback. If you’re deep into building an agent and have high quality critical feedback or requirements to share, DM me and I’ll add you to a group with eve engineers",
+        "link": "https://x.com/rauchg/status/2069590431646769472",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "rauchg",
+        "builder": {
+          "name": "Guillermo Rauch",
+          "site": "@vercel CEO"
+        },
+        "title": "Vercel + Cursor",
+        "desc": "Vercel + Cursor https://t.co/3AyhoYnUM1",
+        "link": "https://x.com/rauchg/status/2069513849578082474",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "alexalbert__",
+        "builder": {
+          "name": "Alex Albert",
+          "site": "Research @AnthropicAI. Opinions are my own!"
+        },
+        "title": "这彻底改变了我与克劳德的合作方式。感觉不再像是在使用工具，而更像是在管理一个团队。",
+        "desc": "This has completely changed how I work with Claude. It feels less like using a tool and more like managing a team. https://t.co/JaUllMPTJW",
+        "link": "https://x.com/alexalbert__/status/2069470389391241314",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "levie",
+        "builder": {
+          "name": "Aaron Levie",
+          "site": "ceo @box - your business lives in content. unleash it with AI"
+        },
+        "title": "这篇关于当前人工智能定价动态的文章写得很好。",
+        "desc": "Good post on the dynamics of AI pricing right now. We’re basically going to see a barbell dynamic on pricing between high cost frontier models and cheap but good open or closed weights models.   Then the question is how do you maximize efficiency from the frontier models, and get better quality and performance of the cheaper models. That’s where the applied AI layer comes in.  The applied layer ca",
+        "link": "https://x.com/levie/status/2069639600310767616",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "levie",
+        "builder": {
+          "name": "Aaron Levie",
+          "site": "ceo @box - your business lives in content. unleash it with AI"
+        },
+        "title": "这是无头软件及其代理强大功能的另一个例子。",
+        "desc": "Another example of the power of headless software with agents. With Claude Tag, you can give Claude access to any corporate files in Box that you can interact with from Slack. Now all of your enterprise content becomes a portable knowledge base. https://t.co/m7UPdmqnn8 https://t.co/qrHqoZKHG4",
+        "link": "https://x.com/levie/status/2069596515560267891",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "garrytan",
+        "builder": {
+          "name": "Garry Tan",
+          "site": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop"
+        },
+        "title": "我们应该要求政府具备相应的能力，而不是像今天加州政府和地方城市管理部门那样，让我们疲于应对各种问题。",
+        "desc": "We should demand government competence instead of whatever we have to deal with in California government and local city management today https://t.co/6378A01vgm",
+        "link": "https://x.com/garrytan/status/2069482298547044788",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "garrytan",
+        "builder": {
+          "name": "Garry Tan",
+          "site": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop"
+        },
+        "title": "Linzumi 是 Codex，但实际上是多人游戏",
+        "desc": "Linzumi is Codex but actually multiplayer. It’s magical for teams.   Also Sean Grove was on the team at OpenAI that greatly reduced sycophancy in ChatGPT before he left to start this YC startup! https://t.co/uShBOGz3tV",
+        "link": "https://x.com/garrytan/status/2069474420113146355",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "garrytan",
+        "builder": {
+          "name": "Garry Tan",
+          "site": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop"
+        },
+        "title": "Dropbox 真的应该支持大于 3TB 的套餐了——现在都 2015 年了。",
+        "desc": "Dropbox should really support larger than 3TB plans - it's not 2015 anymore. The amount of data we are throwing off and that is *actually usable* is going to go exponential from AI, and Dropbox will be run over by this if they don't update for the future.",
+        "link": "https://x.com/garrytan/status/2069434452628185241",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "mattturck",
+        "builder": {
+          "name": "Matt Turck",
+          "site": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape."
+        },
+        "title": "将世界杯参赛队伍从32支扩大到48支真是个天才的想法",
+        "desc": "Expanding the world cup from 32 to 48 teams was such a genius idea.  Creates some Cinderalla stories (Curacao, Cabo Verde, DR Congo etc), and enables the stars (Messi, Ronaldo, MBappe, Haaland etc) to shine early.  Loving it all so far.",
+        "link": "https://x.com/mattturck/status/2069481767652794768",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "nikunj",
+        "builder": {
+          "name": "Nikunj Kothari",
+          "site": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧"
+        },
+        "title": "使用 @conductor_build、@AnthropicAI Opus 4.8、@shopify UCP CLI 和 @Railway 构建。现已上线：",
+        "desc": "Built using @conductor_build, @AnthropicAI Opus 4.8, @shopify UCP CLI and @Railway.  Live now here: https://t.co/oSJhkFkEKP",
+        "link": "https://x.com/nikunj/status/2069547206504566980",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "nikunj",
+        "builder": {
+          "name": "Nikunj Kothari",
+          "site": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧"
+        },
+        "title": "Plug That Shop 隆重推出🔌 Shopify 推出了 UCP CLI，让您可以通过命令行访问其商店中的所有产品。",
+        "desc": "Introducing Plug That Shop 🔌  So @Shopify launched their UCP CLI that allows all the products on their stores available via the command line.  I was thinking of interesting use cases for the CLI over the weekend and realized that I can use this to create contextual embedded shops for websites.  So now, you can enter your website and get four HIGHLY relevant shops that you can embed in just one cl",
+        "link": "https://x.com/nikunj/status/2069534712763490668",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "steipete",
+        "builder": {
+          "name": "Peter Steinberger",
+          "site": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI"
+        },
+        "title": "谷歌解雇了开发 Google Workspace CLI 的那个人，因为是他开发的 Google Workspace CLI。",
+        "desc": "Google fired the guy that made the google workspace cli, because he made the google workspace cli.  Lucky me, Google can't fire me. https://t.co/o15a6lOxec https://t.co/COuHqv5u6J",
+        "link": "https://x.com/steipete/status/2069594195522941059",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "adityaag",
+        "builder": {
+          "name": "Aditya Agarwal",
+          "site": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad"
+        },
+        "title": "我们投资的原因：",
+        "desc": "Why we invested: https://t.co/v9V7e4MAoq",
+        "link": "https://x.com/adityaag/status/2069464865568166180",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "adityaag",
+        "builder": {
+          "name": "Aditya Agarwal",
+          "site": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad"
+        },
+        "title": "太空需求远远大于发射能力。",
+        "desc": "There's way more demand for space than capacity to launch.  @LongshotSpace is building a cannon that fires payloads into orbit.  We’re excited to partner with them at @southpkcommons.  Let’s shoot things into space. https://t.co/TRWlr76HWn https://t.co/aTDr0vjR5K",
+        "link": "https://x.com/adityaag/status/2069464862556619263",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "claudeai",
+        "builder": {
+          "name": "Claude",
+          "site": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app."
+        },
+        "title": "Claude Tag 现已在 Slack 上推出测试版，适用于 Claude 企业版和团队版套餐。",
+        "desc": "Claude Tag is available in beta today on Slack for Claude Enterprise and Team plans. We plan to expand it more widely in the future.  Read more: https://t.co/MGV30Ml8mL",
+        "link": "https://x.com/claudeai/status/2069468701548531895",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "claudeai",
+        "builder": {
+          "name": "Claude",
+          "site": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app."
+        },
+        "title": "开启环境行为模式，克劳德就会主动采取行动。",
+        "desc": "Turn ambient behavior on, and Claude takes initiative. It follows up on threads that have gone quiet and flags what's relevant from across its channels and tools. https://t.co/fTMkAHY4Gr",
+        "link": "https://x.com/claudeai/status/2069468699766005847",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "claudeai",
+        "builder": {
+          "name": "Claude",
+          "site": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app."
+        },
+        "title": "在一个频道里，只有一个克劳德会和所有人互动，所以队友可以无缝衔接你离开的地方。",
+        "desc": "In a channel, there’s one Claude that interacts with everyone, so a teammate can pick up exactly where you left off.  It builds more context about the work as it follows the channel, so you don’t need to explain things from scratch.",
+        "link": "https://x.com/claudeai/status/2069468698071494976",
+        "pubDate": "2026-06-25T01:00:05.639Z"
+      },
+      {
+        "username": "No Priors",
+        "builder": {
+          "name": "Biohub: The Future of Biology is Open-Source with Co-Founders Mark Zuckerberg, Priscilla Chan, and Head of Science Alex Rives",
+          "site": "Podcast"
+        },
+        "title": "Biohub：生物学的未来是开源的，联合创始人包括马克·扎克伯格、普莉希拉·陈和科学主管亚历克斯·里夫斯。",
+        "desc": "Speaker 1 | 00:00 - 00:02 We just wanna give tools to the whole scientific community.  Speaker 2 | 00:02 - 00:17 We wanna understand how biology works. I wanna understand the genetics of this person. I wanna understand the risks they have to different illnesses. My goal is to be able to treat the individual as an individual, understand the mechanisms, and be able to intervene.  Speaker 1 | 00:17 - 00:34 We'll have a bigger impact by getting us in more scientists hands quicker by doing it as open",
+        "link": "https://www.youtube.com/@NoPriorsPodcast",
+        "pubDate": "2026-06-10T13:00:00.000Z"
+      }
+    ],
+    "summary": "好的，作为一名AI行业分析师，我对您提供的这份2026年6月25日的行业信息汇编（Digest）进行了深入分析。以下是我从中提炼出的3个核心洞察：\n\n### **洞察一：AI Agent从“工具”进化为“协作者”，人机交互模式迈入“管理范式”**\n\n**内容：**\n今天的Digest信号清晰地表明，AI Agent与人类的关系正在经历根本性的转变。以Anthropic发布的Claude Tag为代表，以及OpenAI对Codex的持续迭代，标志着AI已不再仅仅是一个等待指令的“工具”，而是进化为能够自主观察、主动承担任务、与团队成员协同工作的“协作者”。\n\n**深度分析：**\n1.  **从“回复式”到“主动式”的角色跃迁：** Claude Tag最核心的突破在于其“环境行为模式”（Ambient Behavior）。它能够监控Slack频道，主动跟进沉寂的讨论线程，标记相关内容，甚至直接根据上下文起草PR（Pull Request）。这不再是用户“拉取”AI的响应，而是AI作为团队一员，“推送”其价值和贡献。正如Alex Albert所言，这种感觉不再是使用工具，而更像是管理一个团队。\n\n2.  **交互模式重塑：从“编程”到“管理”：** 这彻底改变了人类与AI互动的模式。用户不再需要编写精确的提示词，而是像给新同事分配任务一样，用自然语言在频道中“@”Claude，并设定目标。例如，“帮我监控这个频道，当有人问及X问题时，直接用Y代码库的链接回复”。这种“One on one”、“Performance review”式的管理类比，正如Peter Yang所调侃的，正成为新的交互范式。\n\n3.  **“持久化”与“情境化”的协作：** 传统的AI会话是隔离的、无状态的。而Claude Tag打破了这一限制。在同一个频道中，所有团队成员与同一个Claude实例交互。它不仅能记住“你离开的地方”，还能在长期追踪频道动态中积累更深厚的项目上下文。这意味着AI的理解能力不再局限于单次对话，而是融入了团队的长期工作流和项目知识库中。\n\n4.  **对企业软件生态的深远影响：** 企业级软件（如Slack、Box）正在迅速演变为AI Agent的操作系统。Aaron Levie明确指出，Claude Tag结合Box，能让所有企业内容变成“便携式知识库”。无头化（Headless）软件，即通过API和CLI暴露功能的软件，将成为AI Agent能力发挥的沃土。因为Agent真正需要的是结构化的数据接口（API、CLI），而非复杂的GUI界面。\n\n**行业影响：**\n这场变革将催生新的AI应用层公司，专注于“AI员工管理”和“人机协作流程设计”。同时，也对传统SaaS产品提出了新要求：你的产品是否准备好被AI Agent接入？如果你的产品只能通过图形界面访问，而无法提供API或CLI，那么在未来Agent驱动的世界里，它很可能会被边缘化。\n\n### **洞察二：AI定价模式进入“哑铃型”结构，价值正在向应用层和中间层转移**\n\n**内容：**\n围绕AI定价的讨论愈演愈烈，特别是基础模型（Foundation Models）的Token定价。Box的CEO Aaron Levie和产品领袖Madhu Guru都对此发表了深刻见解。市场正在形成一种“哑铃型”定价结构：一端是极其昂贵的前沿模型（Frontier Models），另一端是价格低廉但性能尚可的开源或闭源模型。\n\n**深度分析：**\n1.  **哑铃型的两个极端：** 高级、复杂的推理任务（如复杂代码生成、长程规划、深度分析）将依赖于成本高昂的前沿模型（如Opus 4.8）。而大量简单、高频、低风险的任务（如摘要、分类、标准回复）将迅速转向近乎免费的廉价模型。这符合经济学中的“分离均衡”。\n\n2.  **价值核心向“应用层”转移：** 正如Levie所指出的，真正具有价值和护城河的地方，在于“应用层”（Applied AI Layer）。这个层的核心能力是：\n    -   **效率最大化：** 如何最优化地使用昂贵的前沿模型，例如通过更好的提示工程、缓存机制、任务拆分（将复杂任务分解后，仅将关键部分交给前沿模型）。\n    -   **质量提升：** 如何利用工程和系统手段，提升廉价模型的输出质量，使其在某些场景下达到接近前沿模型的效果。\n    -   **编排与路由：** 智能地判断一个任务应该交给哪个“哑铃端”的模型去处理，或者在两者之间进行混合。\n\n3.  **商业模式与护城河的实时博弈：** Madhu Guru提出的核心张力非常关键：“价值将在模型层、应用层、分发层或其他什么地方产生？”传统互联网的“管道”（模型层）最容易被轻视，而“端到端”的应用（应用层）价值最高。但在AI时代，模型本身的能力跃进如此之快，使得应用层的护城河变得很浅——你刚基于某个模型构建的复杂工作流，可能在下一次模型升级后就变得毫无意义。\n\n**行业影响：**\n这意味着，单纯作为模型层供应商将面临巨大的定价压力，盈利模式非常脆弱。成功的公司将是那些能构建强大应用层的公司，要么成为“AI员工”的调度中心（如Anthropic正在做的），要么成为模型编排与优化的平台。这也解释了为何Anthropic和OpenAI都在大力投资于Agent、CLI和应用集成——他们都在试图从模型层向上攀升，占领价值更高的应用层。\n\n### **洞察三：“人人可编程”的时代加速到来，CLI和低代码工具成为"
   }
 ]
