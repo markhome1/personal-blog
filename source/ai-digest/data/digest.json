@@ -1,136 +1,426 @@
 {
-  "date": "2026-07-01T12:00:00.000Z",
-  "date_cn": "2026年07月01日",
-  "count": 16,
+  "date": "2026-07-02T12:00:00.000Z",
+  "date_cn": "2026年07月02日",
+  "count": 38,
   "tweets": [
     {
+      "username": "swyx",
+      "builder": {
+        "name": "Swyx",
+        "site": "achieve ambition with intentionality, intensity, integrity & insanity."
+      },
+      "title": "AIEWF首场海报展示日圆满成功！感谢@heathercmiller 和 @ACM_President 的支持！\n\n明天：海报展示日！快把你们最精彩的推文发给 @vibhuuuus，我们会打印出来！\n\n发现：左侧鲨鱼 https://t.co/nv2I2l00Oe https://t.co/F7Ax9r5UK6",
+      "desc": "very successful first poster sessions day at AIEWF, thanks to @heathercmiller and @ACM_President for the support!!\n\ntomorrow: Poaster sessions! submit your hottest tweets to @vibhuuuus for printing!\n\nspotted: left shark https://t.co/nv2I2l00Oe https://t.co/F7Ax9r5UK6",
+      "link": "https://x.com/swyx/status/2072048730581405800",
+      "pubDate": ""
+    },
+    {
       "username": "bcherny",
-      "builder": {"name": "Boris Cherny", "site": "Claude Code @ Anthropic"},
-      "title": "Claude Code 下个版本：子代理默认后台运行，无需等待即可继续对话",
-      "desc": "In the next version of Claude Code: subagents run in the background by default, so you can keep talking to Claude while your subagents work",
-      "link": "https://x.com/bcherny/status/2071647677591466098",
-      "pubDate": "2026-06-29"
+      "builder": {
+        "name": "Boris Cherny",
+        "site": "Claude Code @anthropicai"
+      },
+      "title": "同意 https://t.co/HOYbxpkYwX",
+      "desc": "Agree https://t.co/HOYbxpkYwX",
+      "link": "https://x.com/bcherny/status/2072105851457019944",
+      "pubDate": ""
     },
     {
-      "username": "thsottiaux",
-      "builder": {"name": "Thibault Sottiaux", "site": "Codex & ChatGPT @ OpenAI"},
-      "title": "Codex 使用额度全面重置：后台消耗过快问题溯源与修复",
-      "desc": "Codex usage limits fully reset with one additional reset credited. Investigation found auto-review had become more proactive, background suggestions could run twice or retry too frequently. All fixes deployed across CLI, desktop app, and usage backend.",
-      "link": "https://x.com/thsottiaux/status/2071740419030053227",
-      "pubDate": "2026-06-29"
-    },
-    {
-      "username": "thsottiaux",
-      "builder": {"name": "Thibault Sottiaux", "site": "Codex & ChatGPT @ OpenAI"},
-      "title": "Codex 推出可复用权限配置文件：OS 级文件规则绑定域名/Unix Socket",
-      "desc": "Advanced Codex users: reusable, inheritable permission profiles binding OS-enforced file read/write/deny rules (even **/*.env) to per-domain network + Unix sockets. Plus fail-closed admin allowlists — least privilege per task.",
-      "link": "https://x.com/thsottiaux/status/2071636285807059315",
-      "pubDate": "2026-06-29"
-    },
-    {
-      "username": "claudeai",
-      "builder": {"name": "Claude", "site": "Anthropic"},
-      "title": "Claude 正式登陆 Microsoft Foundry，Azure 上全面可用",
-      "desc": "Claude in Microsoft Foundry is now generally available, hosted on Azure. Azure customers get Claude Opus 4.8 and Claude Haiku 4.5, with Azure authentication, billing, and commitment retirement. Prompt caching and extended thinking supported.",
-      "link": "https://x.com/claudeai/status/2071653958905467027",
-      "pubDate": "2026-06-29"
-    },
-    {
-      "username": "levie",
-      "builder": {"name": "Aaron Levie", "site": "CEO @ Box"},
-      "title": "封闭 AI vs 开放权重：核心争论——前沿差距决定一切",
-      "desc": "If a closed stack is always at the frontier by a wide margin, gatekeeping works. If open weights AI can remain a close second, the equation reverses — the vast majority of tokens will go to an alternative stack controlled and monetized by someone else.",
-      "link": "https://x.com/levie/status/2071775583072375214",
-      "pubDate": "2026-06-30"
-    },
-    {
-      "username": "rauchg",
-      "builder": {"name": "Guillermo Rauch", "site": "CEO @ Vercel"},
-      "title": "Vercel Serverless Functions 扩容 20 倍，支持部署任何应用",
-      "desc": "20x larger functions on Vercel. You can deploy anything and everything to Vercel. More tomorrow.",
-      "link": "https://x.com/rauchg/status/2071716510389662153",
-      "pubDate": "2026-06-29"
-    },
-    {
-      "username": "ryolu_",
-      "builder": {"name": "Ryo Lu", "site": "Design @ Cursor"},
-      "title": "Cursor 推出移动端 App：随时随地捕捉灵感写代码",
-      "desc": "Wherever ideas hit — desks and laptops optional. Get the Cursor mobile app.",
-      "link": "https://x.com/ryolu_/status/2071652629890088964",
-      "pubDate": "2026-06-29"
-    },
-    {
-      "username": "trq212",
-      "builder": {"name": "Thariq", "site": "Claude Code @ Anthropic"},
-      "title": "Claude Code 团队成员分享写作方法论：反复迭代打磨",
-      "desc": "My process for writing: do some engineering work, talk to people, brainstorm with Claude, write a post, give 1-2 talks on it, rewrite the post, give another talk, rewrite the intro, wake up at 6am and rewrite it again, then post.",
-      "link": "https://x.com/trq212/status/2071787401475960892",
-      "pubDate": "2026-06-30"
-    },
-    {
-      "username": "realmadhuguru",
-      "builder": {"name": "Madhu Guru", "site": "Product Leader @ Google (Gemini, Veo) (已离职)"},
-      "title": "开放权重模型崛起反而加强 Google 地位：企业需要托管平台",
-      "desc": "The rise of strong open-weight models like GLM will actually strengthen Google's position — more companies will experiment with fine-tuning open models and value accrues to infra. Enterprises want a managed platform with enterprise-grade reliability, and Google Cloud is well positioned there.",
-      "link": "https://x.com/realmadhuguru/status/2071637885154148785",
-      "pubDate": "2026-06-29"
+      "username": "bcherny",
+      "builder": {
+        "name": "Boris Cherny",
+        "site": "Claude Code @anthropicai"
+      },
+      "title": "你们的要求，我们都听到了！Linux 版 Claude Desktop 正式上线！\n\n下载链接：https://t.co/gjgHZvbKyi https://t.co/O3P6B3fuGk",
+      "desc": "You asked, we listened. Claude Desktop on Linux is here!\n\nDownload link: https://t.co/gjgHZvbKyi https://t.co/O3P6B3fuGk",
+      "link": "https://x.com/bcherny/status/2072000214634742243",
+      "pubDate": ""
     },
     {
       "username": "petergyang",
-      "builder": {"name": "Peter Yang", "site": "AI Tutorials / Writer"},
-      "title": "实测对比：Claude Web 写作编辑仍优于 Codex 和 Claude Code",
-      "desc": "For writing and editing, plain vanilla Claude web is still the best (vs Codex and Claude Code). My guess is something in the coding agent's system prompts make them crappier writers.",
-      "link": "https://x.com/petergyang/status/2071731343390851519",
-      "pubDate": "2026-06-29"
+      "builder": {
+        "name": "Peter Yang",
+        "site": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6"
+      },
+      "title": "顺便问一下，这是什么意思？我每周使用量达到 50% 后，《神鬼寓言》就玩不了了吗？https://t.co/nU5J9p9KsC",
+      "desc": "What does this mean btw? After I hit 50% weekly usage Fable is no longer available? https://t.co/nU5J9p9KsC",
+      "link": "https://x.com/petergyang/status/2072165346476511583",
+      "pubDate": ""
     },
     {
-      "username": "zarazhangrui",
-      "builder": {"name": "Zara Zhang", "site": "Builder / Open Source"},
-      "title": "Anthropic PM 观点：AI 时代写作的市场价值大幅上升",
-      "desc": "The market value of writing has gone way up — good writing is required for building products (steering models) and building an audience. Writing has historically been undervalued in tech. Time to change that.",
-      "link": "https://x.com/zarazhangrui/status/2071670108033073365",
-      "pubDate": "2026-06-29"
+      "username": "petergyang",
+      "builder": {
+        "name": "Peter Yang",
+        "site": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6"
+      },
+      "title": "顺便问一下，我不知道它是不是午夜上映。",
+      "desc": "btw I have no idea if it's coming out midnight or not",
+      "link": "https://x.com/petergyang/status/2072159132908695772",
+      "pubDate": ""
     },
     {
-      "username": "zarazhangrui",
-      "builder": {"name": "Zara Zhang", "site": "Builder / Open Source"},
-      "title": "开源 Chrome 扩展：将稍后阅读列表自动安排到日历中",
-      "desc": "Built a Chrome extension that turns your 'read later' list into dedicated reading time on your calendar. Save 5 articles → auto-books a 30-min reading block on Google Calendar. No account, no server, everything local. Open source.",
-      "link": "https://x.com/zarazhangrui/status/2071766827345285411",
-      "pubDate": "2026-06-30"
+      "username": "petergyang",
+      "builder": {
+        "name": "Peter Yang",
+        "site": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6"
+      },
+      "title": "我设了午夜闹钟，好让Fable帮我修复所有项目😅 https://t.co/LUuH9x8vl3",
+      "desc": "Setting an alarm at midnight to get Fable to fix all my projects 😅 https://t.co/LUuH9x8vl3",
+      "link": "https://x.com/petergyang/status/2072111311396438410",
+      "pubDate": ""
+    },
+    {
+      "username": "thenanyu",
+      "builder": {
+        "name": "Nan Yu",
+        "site": "head of product @linear"
+      },
+      "title": "真实的\n\nhttps://t.co/GCmvVpSNHq",
+      "desc": "tru tru\n\nhttps://t.co/GCmvVpSNHq",
+      "link": "https://x.com/thenanyu/status/2072003481779478848",
+      "pubDate": ""
+    },
+    {
+      "username": "thenanyu",
+      "builder": {
+        "name": "Nan Yu",
+        "site": "head of product @linear"
+      },
+      "title": "“蒸馏”的定义很有意思。按照这个逻辑，Cursor 的所有训练数据都是早期从 Claude 那里蒸馏出来的。https://t.co/V08OTUG9QA",
+      "desc": "The definition of “distillation” is interesting. Going by this logic, the entirety of Cursor’s training data was distilled from Claude in the early days https://t.co/V08OTUG9QA",
+      "link": "https://x.com/thenanyu/status/2071973229070033322",
+      "pubDate": ""
+    },
+    {
+      "username": "realmadhuguru",
+      "builder": {
+        "name": "Madhu Guru",
+        "site": "Prev: Product Leader at Google - Gemini, Veo, Nano Banana."
+      },
+      "title": "传统项目经理在尝试适应人工智能原生开发时面临的最大挑战是缺乏“魔法思维”。过去十年，各种框架、“敏捷”方法和指标的过度使用导致了以约束为先、渐进式开发的思维模式。\n\n我过去常常通过让我的团队想象我们拥有100年前的技术来解决这个问题。",
+      "desc": "The biggest challenge for trad PMs trying to adapt to AI native building is a lack of magical thinking. A decade of frameworks, “agile” and metric obsession has led to constraint-first, incremental thinking.\n\nI used to combat this on my teams by asking them to  imagine we had tech from 100 yrs in the future, the experiences it would enable and working backward from that. the ideas would always be far more creative.\n\nthe funny thing is, that technology from the future is here.\n\ngo build that magical thing!",
+      "link": "https://x.com/realmadhuguru/status/2071970221477470694",
+      "pubDate": ""
+    },
+    {
+      "username": "trq212",
+      "builder": {
+        "name": "Thariq",
+        "site": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab"
+      },
+      "title": "正在对我的卡组做最后的修改——明天AIE见！https://t.co/rhxcTGRnTh https://t.co/gGElhLW1Zw",
+      "desc": "making some last minute changes to my deck- see you tomorrow at AIE! https://t.co/rhxcTGRnTh https://t.co/gGElhLW1Zw",
+      "link": "https://x.com/trq212/status/2072202267563082180",
+      "pubDate": ""
+    },
+    {
+      "username": "trq212",
+      "builder": {
+        "name": "Thariq",
+        "site": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab"
+      },
+      "title": "正如我们在博客中所说，我们将继续完善这些保障措施，以便更好地区分真正的滥用行为和合法请求，并减少误报。",
+      "desc": "And as we say in our blog, we're continuing to refine these safeguards to better distinguish genuine misuse from legitimate requests and reduce false positives.",
+      "link": "https://x.com/trq212/status/2072185566695977161",
+      "pubDate": ""
+    },
+    {
+      "username": "trq212",
+      "builder": {
+        "name": "Thariq",
+        "site": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab"
+      },
+      "title": "看到一些关于更新后的分类器的问题，想在此澄清一下。\n\n与之前的分类器一样，一小部分常规的编码和调试任务会被标记出来，并回退到 Opus 分类器。\n\n我们很高兴明天大家就能恢复访问权限了。https://t.co/qPzfqVy65Y",
+      "desc": "Have seen some questions about the updated classifiers and wanted to clarify.\n\nAs with the original classifiers, a small fraction of routine coding and debugging tasks will be flagged and fall back to Opus. \n\nWe're excited for guys to get access back tomorrow. https://t.co/qPzfqVy65Y",
+      "link": "https://x.com/trq212/status/2072185565076988326",
+      "pubDate": ""
+    },
+    {
+      "username": "amasad",
+      "builder": {
+        "name": "Amjad Masad",
+        "site": "ceo @replit. civilizationist"
+      },
+      "title": "全球首个地铁黑客马拉松！https://t.co/uRTezD2dak",
+      "desc": "World’s first subway hackathon! https://t.co/uRTezD2dak",
+      "link": "https://x.com/amasad/status/2071992670394765407",
+      "pubDate": ""
+    },
+    {
+      "username": "amasad",
+      "builder": {
+        "name": "Amjad Masad",
+        "site": "ceo @replit. civilizationist"
+      },
+      "title": "人工智能运行成本高昂，部分原因是目前大多数工作负载运行在通用硬件上，而这些硬件的设计早于逻辑推理技术（LLM）。Etched 是第一个从零开始为现代推理而设计的系统。https://t.co/KluYZIZATE",
+      "desc": "AI is expensive to run partly because most workloads today run on generic hardware designed pre-LLMs. Etched is the first system designed from the ground up for modern inference. https://t.co/KluYZIZATE",
+      "link": "https://x.com/amasad/status/2071992110132117740",
+      "pubDate": ""
+    },
+    {
+      "username": "rauchg",
+      "builder": {
+        "name": "Guillermo Rauch",
+        "site": "@vercel CEO"
+      },
+      "title": "晚宴上，一位科技公司高管正在分享他公司使用 @vercel 的反馈，然后又分享了他 12 岁儿子使用 @vercel 的反馈 😁\n\nVercel 适合所有人。",
+      "desc": "At dinner, tech executive is relaying his company’s @vercel feedback, and then his 12-year-old son’s @vercel feedback 😁 \n\nVercel is for everyone.",
+      "link": "https://x.com/rauchg/status/2072123264843886709",
+      "pubDate": ""
+    },
+    {
+      "username": "rauchg",
+      "builder": {
+        "name": "Guillermo Rauch",
+        "site": "@vercel CEO"
+      },
+      "title": "非常荣幸能与 @tobi 和优秀的 @shopify 团队合作。\n\n期待推动智能网络的发展。https://t.co/2dke1MwSDS",
+      "desc": "So great to get to work with @tobi and the wonderful @shopify team.\n\nExcited to push the agentic web forward. https://t.co/2dke1MwSDS",
+      "link": "https://x.com/rauchg/status/2072044844965400589",
+      "pubDate": ""
+    },
+    {
+      "username": "rauchg",
+      "builder": {
+        "name": "Guillermo Rauch",
+        "site": "@vercel CEO"
+      },
+      "title": "Vercel 服务\n\n现在，您可以在同一个 Vercel 项目中部署 Python 后端 API、ExpressJS 服务器和 React 单页应用 (SPA)。\n\n简而言之：\n\n▪️ 您可以使用 𝚟𝚌 𝚍𝚎𝚟 在本地运行所有组件\n\n▪️ 一次性部署和回滚所有组件\n\n▪️ 集中观察、监控和调试\n\n▪️ 内部网络",
+      "desc": "Vercel Services\n\nYou can now collocate e.g.: a Python backend API, an ExpressJS server, and a React SPA in one Vercel project.\n\ntl:dr;\n▪️ You can run all locally with 𝚟𝚌 𝚍𝚎𝚟 \n▪️ Deploy and rollback all at once\n▪️ Observe, monitor, debug together\n▪️ Internal networking",
+      "link": "https://x.com/rauchg/status/2071966055308607765",
+      "pubDate": ""
+    },
+    {
+      "username": "levie",
+      "builder": {
+        "name": "Aaron Levie",
+        "site": "ceo @box - your business lives in content. unleash it with AI"
+      },
+      "title": "事情似乎正在朝着好的方向发展，Fable 和接下来的 GPT-5.6 也很有可能如此。我们现在所看到的，是未来前沿模型发布（或者至少是那些具有重要编码和网络能力的模型）可能呈现的初步先例。这大概也适用于生物信息学领域。",
+      "desc": "Things seem to be ending up in a better spot with Fable, and presumably GPT-5.6 next. What we have now is the initial precedent for what frontier model releases (or at least those that have significant coding and cyber capabilities) could look like going forward. This would presumably apply to bio and other categories of risk that have been identified by AI safety groups. \n\nFrom the Anthropic post:\n\n“3. A shared industry framework. Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards).2 A shared standard for judging the severity of a given jailbreak would help AI developers triage new findings as they arise, launch highly-capable models with greater safety, and communicate the level of risk consistently to government and industry partners. Together with Amazon, Microsoft, Google, and other Glasswing partners, we’ve started to develop such a framework, and we outline it below.\n\n4. Deeper government collaboration. We’re also strengthening our level of collaboration with the US government on new pre-release testing, information sharing, and research collaboration. We describe this deeper collaboration in the final section.”\n\nIt’s been a messy process to get here, but at least there’s some semblance of a framework that could be practical. The only note of caution here would be that there’s a lot of subjectivity that goes into various risks and their actual levels of exploitability in practice. We’re likely going to be living with a framework that requires heavy judgment and back and forth between labs and the government for major releases.\n\nThe best we can hope for is that this is a relatively efficient process, and hopefully has ways of being sped up for incremental version updates in models. It would be a bad outcome if every release after this level of threshold of capability required the same review process, and we don’t get the same rate of breakthroughs we’ve been seeing.",
+      "link": "https://x.com/levie/status/2072172275017879829",
+      "pubDate": ""
+    },
+    {
+      "username": "levie",
+      "builder": {
+        "name": "Aaron Levie",
+        "site": "ceo @box - your business lives in content. unleash it with AI"
+      },
+      "title": "我们一直在使用 Box AI Complex Work Eval 对 Anthropic 的 Claude Sonnet 5 进行测试。Box AI Complex Work Eval 是我们开发的智能体基准测试，它能让模型完成端到端的真实企业文档处理工作。\n\nSonnet 5 在复杂的多步骤工作中展现出前沿级的性能，并在多个核心企业领域超越了 Sonnet 4.6。",
+      "desc": "We've been running Anthropic's Claude Sonnet 5 through the Box AI Complex Work Eval, our agentic benchmark that puts models through real enterprise document work end-to-end.\n\nSonnet 5 holds frontier-class quality on complex multi-step work and pulls ahead of Sonnet 4.6 in several core enterprise domains like Energy (+4.7pp), Retail (+4.4pp), and Professional Services (+2.6pp), and other spaces where unstructured data is heavily complex.\n\nHere are a few examples of wins compared to Sonnet 4.6 to get a sense of some of the more advanced reasoning capabilities in Sonnet 5:\n\n* Financing due diligence: It computed the company's liquidity and leverage ratios from the raw balance sheet, and caught that the source report's own stated debt-to-equity figure understated the leverage, flagging all three loan covenants as violated, not just the ones the document admitted.\n\n* Overhaul cost analysis: It scoped \"total cost\" to the company's own KPI definitions, correctly separating out Lost Production Cost because the guidance said to track it separately rather than naively summing every number on the sheet. It also caught and handled a broken reference cell in the spreadsheet.\n\n* SKU revenue analysis: On segmented sales data, it computed each product's contribution against the correct subcategory denominator, sidestepping the easy mistake of dividing by the category total, and flagged why no Pet-category SKU cracked the top 9.\n\nSonnet 5 will be available in the Box AI Studio shortly for customers to build custom agents with.",
+      "link": "https://x.com/levie/status/2072046374045249671",
+      "pubDate": ""
+    },
+    {
+      "username": "levie",
+      "builder": {
+        "name": "Aaron Levie",
+        "site": "ceo @box - your business lives in content. unleash it with AI"
+      },
+      "title": "更多数据显示，人工智能的应用与就业前景的关系与许多人的预期截然相反。Ramp 的研究发现，公司采用人工智能的程度越高，员工人数增长就越多。\n\nBox 最近对 1600 多家中大型企业进行了调查，结果也类似。58% 的受访者表示……",
+      "desc": "More data is showing the opposite of what many people expected with AI adoption and jobs. Ramp found that the more AI adoption a company has the more their headcount grows.\n\nAt Box, we recently did a survey of 1,600+ mid and large sized companies, and the findings were similar. 58% of respondents expected headcount to rise over the next three years. Interestingly, that figure climbs to 79% among the most mature adopters of AI. The more advanced AI adopters expected to grow their headcount at a greater rate in the future than others.\n\nOf course it's true that the companies that can afford to adopt AI the most are also the ones that likely are seeing growth in their business, leading to more headcount. So the point of the story isn't necessarily that by adopting AI you will inherently grow. \n\n*But* the most important takeaway is that the opposite is not proving out. The fears a couple years ago would have been that the companies adopting AI the most would be hiring fewer people. \n\nBut in reality this is what actually you should expect to happen. If a company can get more customers because they use AI in sales for account or market intelligence, they hire more sales people not fewer. If you can build way more software than before, you end up hiring more engineers because the projects get bigger and you take on more. And so on.",
+      "link": "https://x.com/levie/status/2071992799109824562",
+      "pubDate": ""
     },
     {
       "username": "garrytan",
-      "builder": {"name": "Garry Tan", "site": "President & CEO @ Y Combinator"},
-      "title": "YC CEO：AI 时代核心是建设电力和数据中心",
-      "desc": "Build power and datacenters — the infrastructure race is on.",
-      "link": "https://x.com/garrytan/status/2071600933210100074",
-      "pubDate": "2026-06-29"
+      "builder": {
+        "name": "Garry Tan",
+        "site": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop"
+      },
+      "title": "我们想要一个运转良好的加州。https://t.co/W2MkJEtPAY",
+      "desc": "We want a California that works. https://t.co/W2MkJEtPAY",
+      "link": "https://x.com/garrytan/status/2072100337478160856",
+      "pubDate": ""
     },
     {
-      "username": "anthropic-engineering",
-      "builder": {"name": "Anthropic Engineering", "site": "Official Blog"},
-      "title": "Claude Code 质量下降调查：三处改动导致，已全部修复并重置额度",
-      "desc": "Anthropic traced reports of worsened Claude Code responses to three separate issues: default reasoning dropped from high to medium, a caching bug that cleared thinking history repeatedly, and a verbosity-reduction prompt that hurt coding quality. All resolved as of April 20. Usage limits reset for all subscribers.",
-      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "pubDate": "2026-06-30"
+      "username": "garrytan",
+      "builder": {
+        "name": "Garry Tan",
+        "site": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop"
+      },
+      "title": "Gbrain 最适用于管理个人或公司系统中超过 10,000 个 Markdown 文件的情况 https://t.co/ifVPMxILhY",
+      "desc": "Gbrain is mostly useful at 10,000+ markdown files in your personal brain or company brain https://t.co/ifVPMxILhY",
+      "link": "https://x.com/garrytan/status/2071910876496757145",
+      "pubDate": ""
     },
     {
-      "username": "anthropic-engineering",
-      "builder": {"name": "Anthropic Engineering", "site": "Official Blog"},
-      "title": "Anthropic 详解 Managed Agents 架构：将「大脑」与「双手」解耦的设计哲学",
-      "desc": "Managed Agents decouples the brain (Claude + harness) from the hands (sandboxes) and the session, allowing each to fail or be replaced independently. Key improvements: 60% TTFT reduction, p95 over 90%. Tokens are never reachable from the sandbox. Session is durable log outside Claude's context window.",
-      "link": "https://www.anthropic.com/engineering/managed-agents",
-      "pubDate": "2026-06-30"
+      "username": "mattturck",
+      "builder": {
+        "name": "Matt Turck",
+        "site": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape."
+      },
+      "title": "独裁者#fraswe https://t.co/bS8ulCu9lG",
+      "desc": "LE DICTATEUR #fraswe https://t.co/bS8ulCu9lG",
+      "link": "https://x.com/mattturck/status/2072088791393669144",
+      "pubDate": ""
     },
     {
-      "username": "claude-blog",
-      "builder": {"name": "Claude Blog", "site": "Official Blog"},
-      "title": "Claude Managed Agents 更新：自托管沙箱和 MCP 隧道，执行完全在企业边界内",
-      "desc": "Claude Managed Agents can now operate in self-hosted sandboxes and connect to private MCP servers via tunnels. Sandbox runs on your own infra or managed providers: Cloudflare, Daytona, Modal, or Vercel. MCP tunnels allow agents to reach internal services without exposing them to the public internet.",
-      "link": "https://claude.com/blog/claude-managed-agents-updates",
-      "pubDate": "2026-05-19"
+      "username": "zarazhangrui",
+      "builder": {
+        "name": "Zara Zhang",
+        "site": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w"
+      },
+      "title": "“品味之所以有价值，并非因为它无法复制，而是因为它定义了其他人选择模仿的对象。” https://t.co/kDs4ibnvbL",
+      "desc": "\"Taste isn’t valuable because it’s impossible to copy. Taste is valuable exactly because it defines what everyone else chooses to copy.\" https://t.co/kDs4ibnvbL",
+      "link": "https://x.com/zarazhangrui/status/2072197929138602079",
+      "pubDate": ""
+    },
+    {
+      "username": "zarazhangrui",
+      "builder": {
+        "name": "Zara Zhang",
+        "site": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w"
+      },
+      "title": "怎么会有人这么早？https://t.co/3LN79FPJ28",
+      "desc": "How can someone be THIS early https://t.co/3LN79FPJ28",
+      "link": "https://x.com/zarazhangrui/status/2072145334428680365",
+      "pubDate": ""
+    },
+    {
+      "username": "zarazhangrui",
+      "builder": {
+        "name": "Zara Zhang",
+        "site": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w"
+      },
+      "title": "https://t.co/En3GgSh3Eu",
+      "desc": "https://t.co/En3GgSh3Eu",
+      "link": "https://x.com/zarazhangrui/status/2072120868042641686",
+      "pubDate": ""
+    },
+    {
+      "username": "nikunj",
+      "builder": {
+        "name": "Nikunj Kothari",
+        "site": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧"
+      },
+      "title": "提前一天。明天就发布了！",
+      "desc": "Ok a day early. This is coming tomorrow!",
+      "link": "https://x.com/nikunj/status/2072111272859246943",
+      "pubDate": ""
+    },
+    {
+      "username": "nikunj",
+      "builder": {
+        "name": "Nikunj Kothari",
+        "site": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧"
+      },
+      "title": "旧金山所有开发者在AIEWF结束后，听说《神鬼寓言5》要回归，都迫不及待地赶回办公桌了…… https://t.co/HsCFU0Usz7",
+      "desc": "Every developer in SF right now running back to their desks post AIEWF after they heard Fable 5 is coming back.. https://t.co/HsCFU0Usz7",
+      "link": "https://x.com/nikunj/status/2072106393256218883",
+      "pubDate": ""
+    },
+    {
+      "username": "steipete",
+      "builder": {
+        "name": "Peter Steinberger",
+        "site": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world."
+      },
+      "title": "🙃 https://t.co/zTXNISaICx",
+      "desc": "🙃 https://t.co/zTXNISaICx",
+      "link": "https://x.com/steipete/status/2072183656739983397",
+      "pubDate": ""
+    },
+    {
+      "username": "steipete",
+      "builder": {
+        "name": "Peter Steinberger",
+        "site": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world."
+      },
+      "title": "每个代币的价格 ≠ 每个任务的成本 https://t.co/dxuXgri7nD",
+      "desc": "Price per token != cost per task https://t.co/dxuXgri7nD",
+      "link": "https://x.com/steipete/status/2072144627474579925",
+      "pubDate": ""
+    },
+    {
+      "username": "steipete",
+      "builder": {
+        "name": "Peter Steinberger",
+        "site": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world."
+      },
+      "title": "看来我们还没好好聊聊工作流循环呢！到时候见！https://t.co/A9mc4pKPC4",
+      "desc": "Apparently we didn't talk enough about  w̶o̶r̶k̶f̶l̶o̶w̶s̶ loops yet! See ya there! https://t.co/A9mc4pKPC4",
+      "link": "https://x.com/steipete/status/2072143124496097302",
+      "pubDate": ""
+    },
+    {
+      "username": "danshipper",
+      "builder": {
+        "name": "Dan Shipper",
+        "site": "ceo @every | the only subscription you need to stay at the edge of AI"
+      },
+      "title": "冲啊！https://t.co/V11siBIHyo",
+      "desc": "LETS FUCKIN GO https://t.co/V11siBIHyo",
+      "link": "https://x.com/danshipper/status/2072106715286225313",
+      "pubDate": ""
+    },
+    {
+      "username": "danshipper",
+      "builder": {
+        "name": "Dan Shipper",
+        "site": "ceo @every | the only subscription you need to stay at the edge of AI"
+      },
+      "title": "我在墨西哥度假，听说《寓言》今晚可能要回归了 https://t.co/OHp0diROKl",
+      "desc": "me, on a vacation in mexico, hearing that fable might be coming back tonight https://t.co/OHp0diROKl",
+      "link": "https://x.com/danshipper/status/2072099953254584462",
+      "pubDate": ""
+    },
+    {
+      "username": "danshipper",
+      "builder": {
+        "name": "Dan Shipper",
+        "site": "ceo @every | the only subscription you need to stay at the edge of AI"
+      },
+      "title": "如果这事发生，我今晚会在卡波度假的时候直播刷代币。https://t.co/6jJZx8mOp2",
+      "desc": "if this happens im livestreaming and ripping tokens from my vacation in cabo tonight https://t.co/6jJZx8mOp2",
+      "link": "https://x.com/danshipper/status/2072094163378622823",
+      "pubDate": ""
+    },
+    {
+      "username": "adityaag",
+      "builder": {
+        "name": "Aditya Agarwal",
+        "site": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad"
+      },
+      "title": "这是一个非常奇怪的世界现状，在美国推动创新的模式竟然是中国的开源模式。",
+      "desc": "It is a very strange state of the world where the models powering innovation in the USA are Chinese open source models.",
+      "link": "https://x.com/adityaag/status/2071983952894837062",
+      "pubDate": ""
+    },
+    {
+      "username": "claudeai",
+      "builder": {
+        "name": "Claude",
+        "site": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app."
+      },
+      "title": "Sonnet 5 现已成为免费版和专业版用户的默认设置，并面向 Max 版、团队版和企业版用户开放。\n\n它已于今日在所有 Claude 应用和 Claude 平台上线，并提供优惠价格，截止日期为 8 月 31 日：https://t.co/4nNWO80Er7",
+      "desc": "Sonnet 5 is now the default on Free and Pro, and available to Max, Team, and Enterprise users.\n\nIt's live across all Claude apps and the Claude Platform today, with introductory pricing through August 31: https://t.co/4nNWO80Er7",
+      "link": "https://x.com/claudeai/status/2072017457057853480",
+      "pubDate": ""
+    },
+    {
+      "username": "claudeai",
+      "builder": {
+        "name": "Claude",
+        "site": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app."
+      },
+      "title": "早期体验合作伙伴发现，Sonnet 5 可以完成以前 Sonnet 无法完成的复杂任务，无需请求即可检查自己的输出，并且以极具吸引力的价格完成所有代理工作。",
+      "desc": "Early access partners found Sonnet 5 finishes complex tasks where previous Sonnets stopped short, checks its own output without being asked, and does all its agentic work at an attractive price point.",
+      "link": "https://x.com/claudeai/status/2072017455833100494",
+      "pubDate": ""
+    },
+    {
+      "username": "claudeai",
+      "builder": {
+        "name": "Claude",
+        "site": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app."
+      },
+      "title": "Sonnet 5 在推理、工具使用、编码和知识处理方面相比 Sonnet 4.6 有了显著提升。\n\n它的性能接近 Opus 4.8，但价格更低。https://t.co/VOISbk14Lk",
+      "desc": "Sonnet 5 is a substantial improvement over Sonnet 4.6 on reasoning, tool use, coding, and knowledge work.\n\nIts performance is close to Opus 4.8, at lower prices. https://t.co/VOISbk14Lk",
+      "link": "https://x.com/claudeai/status/2072017452335087996",
+      "pubDate": ""
     }
   ],
-  "summary": "**洞察一：AI Coding Agent进入后台化与精细化时代**——Claude Code子代理默认后台运行，Codex推出权限配置文件并修复后台消耗问题，AI编码助手竞赛进入稳定性与效率的深水区。\n\n**洞察二：开放模型崛起反而加强云平台地位**——Box CEO Aaron Levie指出前沿差距决定一切，Google前高管认为GLM等开放模型让价值积累到基础设施层，YC呼吁建设电力和数据中心，Claude登陆Azure印证云平台成为AI时代操作系统。\n\n**洞察三：写作成为AI时代核心竞争力，AI Agent向移动端拓展**——Anthropic PM认为写作市场价值大幅上升，Cursor推出移动App，AI工具正渗透到碎片化时间管理中。"
+  "summary": "好的，作为AI行业分析师，以下是我对2026年7月2日AI行业Digest的深度分析与核心洞察：\n\n### **洞察一：AI模型的“落地竞赛”进入白热化阶段，产品力与成本结构成关键胜负手**\n\n今日信息流的核心事件无疑是Anthropic发布并推广其Claude Sonnet 5模型。从Claude官方账号的推文可以看出，Sonnet 5的宣传策略非常明确：**性能接近旗舰模型Opus 4.8，但价格更具吸引力**。这标志着AI行业的竞争正从单纯的“能力竞赛”转向“可落地性竞赛”。\n\n*   **详细分析**：过去，前沿模型发布主要强调基准测试分数的提升。而Sonnet 5的推出，则是一场精准的“价格-性能”卡位战。Aaron Levie (Box CEO) 的推文提供了绝佳的佐证。他分享了Box针对Sonnet 5的行业基准测试结果，显示其在复杂的“企业端到端文档处理”任务中，不仅在核心领域（能源、零售、专业服务）超越了前代Sonnet 4.6，甚至能完成如“发现财务报告中隐藏的债务违约”这种需要深度推理和细心的任务。这意味着，模型的能力已经跨过了“可用”的门槛，进入了“好用”且“用得起”的新阶段。\n*   **行业启示**：对于AI公司和开发者而言，单纯比拼模型的“智力天花板”已经不够。**更低的推理成本、更稳定的输出质量、以及针对特定行业（如金融、法律、医疗）的深度优化能力，将成为下一阶段的核心竞争力。** Peter Steinberger敏锐地指出：“每个代币的价格 ≠ 每个任务的成本”。开发者真正关心的是，为完成一个特定任务需要支付多少总成本。Sonnet 5的成功，正是因为它解决了这个核心问题。这预示着未来模型将更加专业化、精细化，垂直领域的模型可能会大量涌现。\n\n### **洞察二：AI模型的“发布-监管”博弈模式初步成型，行业安全框架迫在眉睫**\n\nAaron Levie 对Fable（推测为OpenAI的下一代模型）和GPT-5.6的评论，揭示了AI行业当前一个极其关键的动态：**前沿模型的发布正演变为一场复杂的多方博弈，涉及AI公司、安全组织、政府监管机构之间“发现漏洞-被迫暂停-协商谈判-达成框架”的循环。**\n\n*   **详细分析**：Levie的推文深入分析了Anthropic关于此事件的博文。核心点在于，经历了此次混乱的发布过程后，行业开始尝试建立“共享行业框架”和“更深入的政府合作”。这意味着，高能力模型的发布将不再由单一公司决定，而是逐步走向一个联合监管的“软性”审核机制。尽管Levie认为这至少建立了“可能实用的些许框架”，但他也指出了关键挑战：**风险评判的主观性、以及审核流程的效率问题**。如果每次重大发布都经历同样的冗长审查，可能严重拖慢AI技术突破的步伐。\n*   **行业启示**：这种博弈模式对所有AI参与者都影响深远。对于AI开发者，需要将“安全设计”和“可解释性”前置到产品开发周期中，并准备好与监管机构沟通的“沙盒”和“测试文档”。对于投资者，模型的“监管风险”和“产品发布确定性”将成为比模型性能更重要的估值因素。未来，一家AI公司的价值，不仅在于其模型有多强，更在于其拥有多高的、与政策制定者及各利益相关方高效协作的“监管智商”。\n\n### **洞察三：AI原生开发方法论革新，“魔法思维”取代“工程思维”，重塑开发者与PM角色**\n\n从Madhu Guru到Amjad Masad，再到多位知名开发者的推文，都指向了一个深刻的行业变革：**AI的出现，正在从根本上改变软件开发的流程、思维模式和组织文化。**\n\n*   **详细分析**：Madhu Guru的帖子一针见血地指出，传统项目经理（PM）在AI原生时代最大的障碍是缺乏“魔法思维”。过去十年，过度强调“敏捷”、“框架”、“指标”导致了“约束优先”的渐进式思维。而AI时代的开发者，正如Swyx、Thariq等人在AIEWF（AI Engineering World Fair，人工智能工程世界大会）上所展现的，他们更愿意尝试“魔法”——即**通过强大的AI能力，快速从“不可能”的想法出发，再逆向寻找工程实现方案**。Amjad Masad（Replit CEO）的“全球首个地铁黑客马拉松”及Etched的专用推理硬件的讨论，都体现了这种“快速尝试、快速搭建”的新文化。这种文化转变的核心是：**开发者的角色从“编码者”变成“创意实现者”和“AI指挥官”，而PM则从“流程经理”变成“愿景催化师”**。\n*   **行业启示**：这预示着一场开发者工具和开发文化的巨变。低代码/无代码平台、以及像Vercel、Replit这样的平台，将成为“魔法思维”落地的基础设施。开发者教育的重点将从“如何写代码”转向“如何定义问题并有效地向AI描述任务”。公司的招聘和晋升标准也将随之改变，**“品味”（Taste）、“想象力”和“利用AI工具的能力”将比“纯技术栈精通”更重要**。\n\n### **洞察四：“AI取代工作”的故事被证伪，现实是“AI增强公司”带来就业增长**\n\nAaron Levie分享的关于AI采用与就业关系的调研数据，是此次Digest中最具反直觉价值的信息之一。它有力反驳了社会上广泛存在的“AI导致大规模失业”的焦虑。\n\n*   **详细分析**：Levie引用了Ramp"
 }
